@@ -1,0 +1,143 @@
+
+📄 ArXiv AI 论文精选 - 从 88 篇中选出 Top 20
+============================================================
+
+1. **Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows** ⭐⭐⭐⭐⭐
+   作者: Harshada Badave, Santosh Borse, Andrea Gomez
+   分类: cs.AI
+   日期: 2026-05-22
+   摘要: Large Language Models (LLMs) are increasingly deployed as autonomous agents that reason, use tools, and act over multiple steps. Yet most hallucinatio...
+   链接: https://arxiv.org/abs/2605.24219v1
+
+2. **MimirRAG: A Multi-Agent RAG Framework for Financial Data Retrieval with Metadata Integration** ⭐⭐⭐⭐
+   作者: Magnus Samuelsen, Wilmer Nyström, Somnath Mazumdar
+   分类: cs.LG
+   日期: 2026-05-24
+   摘要: Retrieval-augmented generation (RAG) systems offer a promising approach to reduce hallucinations and improve answer accuracy in large language models ...
+   链接: https://arxiv.org/abs/2605.25030v1
+
+3. **Model-First Reasoning LLM Agents: Reducing Hallucinations through Explicit Problem Modeling** ⭐⭐⭐⭐
+   作者: Annu Rana, Gaurav Kumar
+   分类: cs.AI
+   日期: 2025-12-16
+   摘要: Large Language Models (LLMs) often struggle with complex multi-step planning tasks, showing high rates of constraint violations and inconsistent solut...
+   链接: https://arxiv.org/abs/2512.14474v1
+
+4. **Retrieval as Reasoning: Self-Evolving Agent-Native Retrieval via LLM-Wiki** ⭐⭐⭐⭐
+   作者: Haoliang Ming, Feifei Li, Xiaoqing Wu
+   分类: cs.CL
+   日期: 2026-05-25
+   摘要: LLM agents require retrieval to behave less like one-shot context fetching and more like reasoning: searching, reading, traversing, and deciding when ...
+   链接: https://arxiv.org/abs/2605.25480v1
+
+5. **When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents** ⭐⭐⭐⭐
+   作者: Shi Liu, Xuehai Tang, Xikang Yang
+   分类: cs.CR, cs.AI
+   日期: 2026-05-22
+   摘要: The rise of tool-using Large Language Model (LLM) agents, standardized by protocols like the Model Context Protocol (MCP), has unlocked unprecedented ...
+   链接: https://arxiv.org/abs/2605.24069v1
+
+6. **ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing** ⭐⭐⭐⭐
+   作者: Lijie Ding, Changwoo Do
+   分类: cs.AI, cond-mat.soft
+   日期: 2026-05-15
+   摘要: We introduce ColPackAgent, an agent framework that autonomously runs Monte Carlo simulations of colloidal packing through a Model Context Protocol (MC...
+   链接: https://arxiv.org/abs/2605.15625v1
+
+7. **CausalFlow: Causal Attribution and Counterfactual Repair for LLM Agent Failures** ⭐⭐⭐
+   作者: Akash Bonagiri, Devang Borkar, Gerard Janno Anderias
+   分类: cs.LG, cs.AI
+   日期: 2026-05-25
+   摘要: Large language model (LLM) agents frequently fail on multi-step tasks involving reasoning, tool use, and environment interaction. While such failures ...
+   链接: https://arxiv.org/abs/2605.25338v1
+
+8. **Security of OpenClaw Agents: Fundamentals, Attacks, and Countermeasures** ⭐⭐⭐
+   作者: Yuntao Wang, Jianle Ba, Han Liu
+   分类: cs.AI
+   日期: 2026-05-25
+   摘要: The rapid evolution of large language model (LLM)-driven autonomous agents has given rise to OpenClaw, a new class of open-source agent frameworks tha...
+   链接: https://arxiv.org/abs/2605.25435v1
+
+9. **Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS** ⭐⭐⭐
+   作者: Bingyu Yan, Xiaoming Zhang, Jinyu Hou
+   分类: cs.CR, cs.AI, cs.MA
+   日期: 2026-05-25
+   摘要: While Large Language Model-based Multi-Agent Systems (LLM-MAS) demonstrate remarkable capabilities in solving complex tasks by orchestrating specializ...
+   链接: https://arxiv.org/abs/2605.25389v1
+
+10. **Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning** ⭐⭐⭐
+   作者: Nesreen K. Ahmed, Nima Nafisi
+   分类: cs.LG, cs.AI, cs.CL
+   日期: 2026-05-22
+   摘要: Monitoring autonomous large language model (LLM) agents for covert malicious behavior is challenging due to delayed, context-dependent, and long-horiz...
+   链接: https://arxiv.org/abs/2605.24216v1
+
+11. **Towards Discovery of Polymers for Insulin Delivery via Physics-Grounded Agentic Workflows** ⭐⭐⭐
+   作者: Martins Otun
+   分类: q-bio.QM, cs.LG
+   日期: 2026-05-12
+   摘要: Cold-chain storage limits access to insulin for hundreds of millions of people; a thermally protective patch polymer could help, but the design space ...
+   链接: https://arxiv.org/abs/2605.18831v1
+
+12. **AI Planning Framework for LLM-Based Web Agents** ⭐⭐⭐
+   作者: Orit Shahnovsky, Rotem Dror
+   分类: cs.AI, cs.CL
+   日期: 2026-03-13
+   摘要: Developing autonomous agents for web-based tasks is a core challenge in AI. While Large Language Model (LLM) agents can interpret complex user request...
+   链接: https://arxiv.org/abs/2603.12710v1
+
+13. **Mitigating Provenance-Role Collapse in Long-Term Agents via Typed Memory Representation** ⭐⭐⭐
+   作者: Zhengda Jin, Bingbing Wang, Jing Li
+   分类: cs.CL
+   日期: 2026-05-25
+   摘要: Long-term memory is essential for persistent LLM agents, yet prevailing architectures store historical interactions as unstructured, flat text. This u...
+   链接: https://arxiv.org/abs/2605.25869v1
+
+14. **H$^{2}$MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer** ⭐⭐⭐
+   作者: Maryam Haghifam, Zifan He, Jason Cong
+   分类: cs.CL
+   日期: 2026-05-24
+   摘要: Transformer-based LLMs achieve strong results on many language tasks; however, long inputs remain challenging because context windows are finite, and ...
+   链接: https://arxiv.org/abs/2605.24930v1
+
+15. **Spectral Retrieval: Multi-Scale Sinc Convolution over Token Embeddings for Localized Retrieval in LLM Multi-Agent Systems** ⭐⭐⭐
+   作者: Andrea Morandi
+   分类: cs.IR, cs.AI, cs.CL
+   日期: 2026-05-23
+   摘要: [Abridged] - Spectral Retrieval is a plug-in re-ranking stage that interpolates between per-token MaxSim and mean-pool retrieval through a multi-scale...
+   链接: https://arxiv.org/abs/2605.24764v1
+
+16. **AI Assurance: A Comprehensive Testing Strategy for Enterprise AI Systems** ⭐⭐⭐
+   作者: Chitra Badagi, Divye Singh, Animesh Sen
+   分类: cs.SE, cs.AI
+   日期: 2026-05-22
+   摘要: Enterprise AI systems, built on large language models, retrieval pipelines and autonomous agents, introduce a class of risks that traditional software...
+   链接: https://arxiv.org/abs/2605.23459v1
+
+17. **A Sober Look at Agentic Misalignment in Automated Workflows** ⭐⭐⭐
+   作者: Wenqian Ye, Bo Yuan, Zhichao Xu
+   分类: cs.AI
+   日期: 2026-05-22
+   摘要: We study a class of emergent misalignment in multi-agent systems (MAS), with a focus on automated workflows, which we refer to agentic misalignment. A...
+   链接: https://arxiv.org/abs/2605.24197v1
+
+18. **HELPER-X: A Unified Instructable Embodied Agent to Tackle Four Interactive Vision-Language Domains with Memory-Augmented Language Models** ⭐⭐⭐
+   作者: Gabriel Sarch, Sahil Somani, Raghav Kapoor
+   分类: cs.AI, cs.CL, cs.CV
+   日期: 2024-04-29
+   摘要: Recent research on instructable agents has used memory-augmented Large Language Models (LLMs) as task planners, a technique that retrieves language-pr...
+   链接: https://arxiv.org/abs/2404.19065v1
+
+19. **DiscoverPhysics: Benchmarking LLMs for Out-of-the-Box Scientific Thinking** ⭐⭐⭐
+   作者: Matt L. Wiemann, Lindsay M. Smith, Peter Melchior
+   分类: stat.ML, cs.LG
+   日期: 2026-05-25
+   摘要: Frontier LLMs now perform strongly across a wide range of physics evaluations, but it is hard to disentangle genuine reasoning from recall of establis...
+   链接: https://arxiv.org/abs/2605.26087v1
+
+20. **Towards Reliable Fetal Ultrasound Interpretation with Multi-Agent Collaboration** ⭐⭐⭐
+   作者: Xiaotian Hu, Mingxuan Liu, Junwei Huang
+   分类: cs.CV, cs.MA
+   日期: 2026-05-25
+   摘要: Automated fetal ultrasound interpretation requires a workflow from visual perception, including plane recognition and anatomical segmentation, to clin...
+   链接: https://arxiv.org/abs/2605.25357v1

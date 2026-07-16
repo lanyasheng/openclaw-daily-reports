@@ -1,0 +1,420 @@
+{
+  "ok": true,
+  "generatedAt": "2026-06-04T09:10:34.912165+00:00",
+  "params": {
+    "workers": 20,
+    "timeout": 10,
+    "days": 2,
+    "limit": 2,
+    "perSource": 1,
+    "maxTotal": 45,
+    "githubInput": "/tmp/ainews_prefetch/github_trending.json"
+  },
+  "stats": {
+    "rawItems": 108,
+    "cleanItems": 79,
+    "candidateItems": 31,
+    "byCategoryRaw": {
+      "company": 10,
+      "papers": 8,
+      "media": 17,
+      "tech_news": 4,
+      "community": 9,
+      "cn_media": 6,
+      "newsletter": 10,
+      "tech_general": 1,
+      "twitter": 14
+    },
+    "byCategoryCandidates": {
+      "company": 1,
+      "papers": 8,
+      "newsletter": 2,
+      "cn_media": 6,
+      "community": 4,
+      "media": 3,
+      "tech_news": 4,
+      "twitter": 3
+    },
+    "githubTrendingCount": 14,
+    "githubTrendingError": "",
+    "githubTrendingSource": "file:/tmp/ainews_prefetch/github_trending.json"
+  },
+  "candidates": [
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "desc": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "date": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "source": "OpenAI News",
+      "category": "company"
+    },
+    {
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "desc": "arXiv:2606.04037v1 Announce Type: new \nAbstract: Pre-deployment verification of enterprise artificial intelligence (AI) agents remains a critical gap between large language model (LLM) capability benc",
+      "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
+      "url": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+      "desc": "Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primiti",
+      "date": "Thu, 04 Jun 2026 06:23:10 +0000",
+      "source": "MarkTechPost",
+      "category": "newsletter"
+    },
+    {
+      "title": "把数据库运维这件苦差事，交给 AI Agent",
+      "url": "https://www.infoq.cn/article/YKeLhEsd692pgUtqBwSI?utm_source=rss&utm_medium=article",
+      "desc": "点击查看原文>",
+      "date": "Thu, 04 Jun 2026 15:10:24 GMT",
+      "source": "InfoQ 中文",
+      "category": "cn_media"
+    },
+    {
+      "title": "中转站纯 pro 号池注册送体验额度",
+      "url": "https://www.v2ex.com/t/1217877",
+      "desc": "yunxuanzhang22: API 长期稳定中转，注册送额度。\n地址： https://api.vllmproxy.com\n主打满血稳定、快速接入、开发测试方便用。 新用户注册即送测试额度，支持多模型 API 调用，个人开发者和小团队都可以用。\n欢迎 V 友体验\n价格如下:\nGPT Plus 号池：0.08\nGPT Pro 号池：0.26\nClaude Kiro：0.25\nClaude Bed",
+      "date": "Thu, 04 Jun 2026 06:15:04 GMT",
+      "source": "V2EX Hot",
+      "category": "community"
+    },
+    {
+      "title": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
+      "url": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
+      "desc": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and",
+      "date": "Thu, 04 Jun 2026 08:11:05 +0000",
+      "source": "MarkTechPost",
+      "category": "newsletter"
+    },
+    {
+      "title": "xAI updates Grok Imagine to 1.5 with image-to-video generation at 720p resolution",
+      "url": "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution/",
+      "desc": "xAI has released \"grok-imagine-video-1.5-preview,\" an image-to-video model that turns still images into cinematic videos at up to 720p based on text prompts. Multiple clips can be stitched to",
+      "date": "Thu, 04 Jun 2026 08:04:48 +0000",
+      "source": "The Decoder",
+      "category": "media"
+    },
+    {
+      "title": "Show HN: iPhone ANE holds LLM tok/s while MLX and LiteRT thermal-throttle",
+      "url": "https://github.com/john-rocky/apple-silicon-llm-bench",
+      "desc": "Article URL: https://github.com/john-rocky/apple-silicon-llm-bench\nComments URL: https://news.ycombinator.com/item?id=48394262\nPoints: 1\n# Comments: 0",
+      "date": "Thu, 04 Jun 2026 05:17:10 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "Show HN: Suture – a reverse proxy that repairs truncated JSON in LLM streams",
+      "url": "https://github.com/tensorhq/suture-stream-repair",
+      "desc": "Article URL: https://github.com/tensorhq/suture-stream-repair\nComments URL: https://news.ycombinator.com/item?id=48393431\nPoints: 1\n# Comments: 0",
+      "date": "Thu, 04 Jun 2026 03:36:32 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "Companies Are Using Reddit to Manipulate ChatGPT and Google AI Search",
+      "url": "https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/",
+      "desc": "Article URL: https://www.404media.co/companies-are-using-reddit-to-manipulate-chatgpt-and-google-ai-search/\nComments URL: https://news.ycombinator.com/item?id=48395905\nPoints: 2\n# Comments: 0",
+      "date": "Thu, 04 Jun 2026 08:41:23 +0000",
+      "source": "Hacker News - AI",
+      "category": "tech_news"
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. \n MoneyPrinterTurbo 💸 \n       \n  \n 简体中文 | English | العربية \n  \n   \n  \n  只需提供一个视频 \n 主题 或 \n 关键词 ，就可以全自动生成视频文案、视频素材、视频字幕、视频背景音乐，然后合成一",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "Arm 开源 AI 安全框架 Metis，性能优于传统 SAST 工具",
+      "url": "https://www.infoq.cn/article/WBSYmfvEkiaHEcgkYOcA?utm_source=rss&utm_medium=article",
+      "desc": "点击查看原文>",
+      "date": "Thu, 04 Jun 2026 16:00:00 GMT",
+      "source": "InfoQ 中文",
+      "category": "cn_media"
+    },
+    {
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "desc": "Article URL: https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/\nComments URL: https://news.ycombinator.com/item?",
+      "date": "Thu, 04 Jun 2026 08:45:36 +0000",
+      "source": "HN Best",
+      "category": "community"
+    },
+    {
+      "title": "Google to add sources in AI Searches, allow to opt out following UK ruling",
+      "url": "https://sfist.com/2026/06/03/google-to-add-clearer-attributions-to-ai-searches-allow-sites-to-opt-out-following-ruling-in-uk/",
+      "desc": "Article URL: https://sfist.com/2026/06/03/google-to-add-clearer-attributions-to-ai-searches-allow-sites-to-opt-out-following-ruling-in-uk/\nComments URL: https://news.ycombinator.com/item?id=48395865\nP",
+      "date": "Thu, 04 Jun 2026 08:35:32 +0000",
+      "source": "Hacker News - AI",
+      "category": "tech_news"
+    },
+    {
+      "title": "True for people too.",
+      "url": "https://nitter.net/pmarca/status/2062448174808310079#m",
+      "desc": "True for people too.\n\n\n\n\n☉rthonormalist🧭✡️ (@orthonormalist)\n\n\n\n\n\n\n\n— https://nitter.net/orthonormalist/status/2062331927693025411#m",
+      "date": "Thu, 04 Jun 2026 08:15:37 GMT",
+      "source": "Marc Andreessen (Twitter)",
+      "category": "twitter"
+    },
+    {
+      "title": "A股账户可以买Robotaxi了",
+      "url": "https://www.qbitai.com/2026/06/428954.html",
+      "desc": "Robotaxi双雄同日官宣",
+      "date": "Thu, 04 Jun 2026 07:41:33 +0000",
+      "source": "量子位",
+      "category": "cn_media"
+    },
+    {
+      "title": "英博数科亮相CCIG 2026，首次公开EBFlex私有化算力管理平台",
+      "url": "https://www.qbitai.com/2026/06/428942.html",
+      "desc": "聚焦高校科研算力",
+      "date": "Thu, 04 Jun 2026 07:25:26 +0000",
+      "source": "量子位",
+      "category": "cn_media"
+    },
+    {
+      "title": "它不会是下一场新冠：简单了解汉坦病毒",
+      "url": "https://sspai.com/post/110717",
+      "desc": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文",
+      "date": "Thu, 04 Jun 2026 15:00:00 +0800",
+      "source": "少数派",
+      "category": "cn_media"
+    },
+    {
+      "title": "At YC tonight Garry interviewed Jessica and me about the early history of YC. I'd forgotten how hard it used to be for startups to raise money after YC. Now they have the opposite problem: now there's so much money out there that they have to be careful not to raise too much.",
+      "url": "https://nitter.net/paulg/status/2062422828872606207#m",
+      "desc": "At YC tonight Garry interviewed Jessica and me about the early history of YC. I'd forgotten how hard it used to be for startups to raise money after YC. Now they have the opposite problem: now there's",
+      "date": "Thu, 04 Jun 2026 06:34:55 GMT",
+      "source": "Paul Graham (Twitter)",
+      "category": "twitter"
+    },
+    {
+      "title": "Kirkland & Ellis and Palantir to build AI tool to assist private equity firms",
+      "url": "https://www.ft.com/content/4243f9c0-63eb-48d8-b395-bd1ca5cc37a2",
+      "desc": "Technology to be used to advise buyout groups on bringing in money from investors such as public pension funds",
+      "date": "Thu, 04 Jun 2026 04:00:32 GMT",
+      "source": "Financial Times - AI",
+      "category": "media"
+    },
+    {
+      "title": "AI cyber security risk ‘top of list’ for banking threats, says UK regulator",
+      "url": "https://www.ft.com/content/c5f7a9f0-d3d1-499c-aafb-ad03c85730bd",
+      "desc": "Sam Woods, the outgoing chief of the PRA, says he is ‘very concerned’ about vulnerabilities in lenders’ IT systems",
+      "date": "Thu, 04 Jun 2026 04:00:32 GMT",
+      "source": "Financial Times - AI",
+      "category": "media"
+    },
+    {
+      "title": "POLARIS: Guiding Small Models to Write Long Stories",
+      "url": "https://arxiv.org/abs/2606.04095",
+      "desc": "arXiv:2606.04095v1 Announce Type: new \nAbstract: Small open-weight models struggle at long-form creative writing: their generated stories either fall far short of the requested length, or their qualit",
+      "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models",
+      "url": "https://arxiv.org/abs/2606.04109",
+      "desc": "arXiv:2606.04109v1 Announce Type: new \nAbstract: Context-augmented language model systems often wrap supplied content with labels such as Reference:, Evidence:, Instruction:, Note:, or Example:, but t",
+      "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "Early Detection of Alzheimer's Disease Using Explainable Machine Learning on Clinical Biomarkers: A Multi-Class Classification Study Using the Alzheimer's Disease Neuroimaging Initiative (ADNI) Dataset",
+      "url": "https://arxiv.org/abs/2606.03995",
+      "desc": "arXiv:2606.03995v1 Announce Type: new \nAbstract: Background: Alzheimer's disease (AD) affects over 55 million people worldwide. Accurate, interpretable detection of normal cognition (NC), mild cogniti",
+      "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "Novel Aspects of IEEE SA P3109 Arithmetic Formats for Machine Learning",
+      "url": "https://arxiv.org/abs/2606.04028",
+      "desc": "arXiv:2606.04028v1 Announce Type: new \nAbstract: The IEEE P3109 draft standard defines a parameterized family of binary floating-point formats and associated operations, with a focus on facilitating m",
+      "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection",
+      "url": "https://arxiv.org/abs/2606.04150",
+      "desc": "arXiv:2606.04150v1 Announce Type: new \nAbstract: Public discourse and emerging policy typically assume that AI emotional support is a deliberate act: a lonely user consciously seeking comfort from a d",
+      "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "Dive into the Scene: Breaking the Perceptual Bottleneck in Vision-Language Decision Making via Focus Plan Generation",
+      "url": "https://arxiv.org/abs/2606.04046",
+      "desc": "arXiv:2606.04046v1 Announce Type: new \nAbstract: In embodied vision-language decision making tasks such as robotic manipulation and navigation, Vision-Language and Vision-Language-Action Models (VLMs",
+      "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    },
+    {
+      "title": "Weakly Supervised Incremental Segmentation via Semantic Anchors and Spatial Arbitration",
+      "url": "https://arxiv.org/abs/2606.04060",
+      "desc": "arXiv:2606.04060v1 Announce Type: new \nAbstract: Weakly Incremental Learning for Semantic Segmentation (WILSS) suffers from the continuous introduction of noisy supervision, which progressively corrup",
+      "date": "Thu, 04 Jun 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    },
+    {
+      "title": "比 ZeroTier 更好的选择：EasyTier 去中心化异地组网全平台部署",
+      "url": "https://sspai.com/post/110126",
+      "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "date": "Thu, 04 Jun 2026 11:02:55 +0800",
+      "source": "少数派",
+      "category": "cn_media"
+    },
+    {
+      "title": "兄弟们， 5 月总计用了多少 token？我用了 34 亿，做了 3 个项目，主用 deepseek v4 pro",
+      "url": "https://www.v2ex.com/t/1217791",
+      "desc": "lynn1su:",
+      "date": "Thu, 04 Jun 2026 01:56:05 GMT",
+      "source": "V2EX Hot",
+      "category": "community"
+    },
+    {
+      "title": "RT by @pmarca: Image",
+      "url": "https://nitter.net/orthonormalist/status/2062331927693025411#m",
+      "desc": "",
+      "date": "Thu, 04 Jun 2026 00:33:42 GMT",
+      "source": "Marc Andreessen (Twitter)",
+      "category": "twitter"
+    }
+  ],
+  "githubTrending": [
+    {
+      "name": "chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "stars_today": 3530,
+      "total_stars": 11009,
+      "stars": 11009,
+      "lang": "Python",
+      "url": "https://github.com/chopratejas/headroom"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 2141,
+      "total_stars": 206354,
+      "stars": 206354,
+      "lang": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "stars_today": 24,
+      "total_stars": 35521,
+      "stars": 35521,
+      "lang": "Go",
+      "url": "https://github.com/aquasecurity/trivy"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars_today": 1735,
+      "total_stars": 179899,
+      "stars": 179899,
+      "lang": "Python",
+      "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "stars_today": 1984,
+      "total_stars": 143447,
+      "stars": 143447,
+      "lang": "Python",
+      "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "stars_today": 719,
+      "total_stars": 13270,
+      "stars": 13270,
+      "lang": "Python",
+      "url": "https://github.com/nesquena/hermes-webui"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars_today": 570,
+      "total_stars": 23548,
+      "stars": 23548,
+      "lang": "Java",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf"
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "stars_today": 693,
+      "total_stars": 9212,
+      "stars": 9212,
+      "lang": "Python",
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "desc": "AirLLM 70B inference with single 4GB GPU",
+      "stars_today": 208,
+      "total_stars": 19139,
+      "stars": 19139,
+      "lang": "Jupyter Notebook",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "stars_today": 600,
+      "total_stars": 25378,
+      "stars": 25378,
+      "lang": "TypeScript",
+      "url": "https://github.com/supermemoryai/supermemory"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars_today": 197,
+      "total_stars": 10389,
+      "stars": 10389,
+      "lang": "Python",
+      "url": "https://github.com/HKUDS/Vibe-Trading"
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "stars_today": 1067,
+      "total_stars": 60675,
+      "stars": 60675,
+      "lang": "Python",
+      "url": "https://github.com/D4Vinci/Scrapling"
+    },
+    {
+      "name": "odoo/odoo",
+      "desc": "Odoo. Open Source Apps To Grow Your Business.",
+      "stars_today": 29,
+      "total_stars": 52097,
+      "stars": 52097,
+      "lang": "Python",
+      "url": "https://github.com/odoo/odoo"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "desc": "A complete computer science study plan to become a software engineer.",
+      "stars_today": 330,
+      "total_stars": 349324,
+      "stars": 349324,
+      "lang": "",
+      "url": "https://github.com/jwasham/coding-interview-university"
+    }
+  ]
+}

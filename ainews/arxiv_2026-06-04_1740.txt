@@ -1,0 +1,59 @@
+
+📄 ArXiv AI 论文精选 - 从 8 篇中选出 Top 8
+============================================================
+
+1. **Reinforcement Learning from Rich Feedback with Distributional DAgger** ⭐
+   作者: Rishabh Agrawal, Jacob Fein-Ashley, Paria Rashidinejad
+   分类: cs.LG, cs.AI, cs.CL
+   日期: 2026-06-03
+   摘要: Reasoning models have advanced rapidly, but the dominant reinforcement learning from verifiable rewards (RLVR) recipe remains surprisingly narrow: sam...
+   链接: https://arxiv.org/abs/2606.05152v1
+
+2. **Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)** ⭐
+   作者: Nizar Islah, Istabrak Abbes, Irina Rish
+   分类: cs.LG, cs.AI, cs.CL
+   日期: 2026-06-03
+   摘要: When post-trained language models fail on reasoning problems, the common test-time-scaling response is to spend more compute on additional attempts, a...
+   链接: https://arxiv.org/abs/2606.05145v1
+
+3. **STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations** 
+   作者: Rishit Dagli, Abir Harrasse, Luke Zhang
+   分类: cs.LG, cs.CL
+   日期: 2026-06-03
+   摘要: Training Data Attribution (TDA) seeks to trace a model's predictions back to its training data. The gold standard for TDA relies on causal interventio...
+   链接: https://arxiv.org/abs/2606.05165v1
+
+4. **An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers** 
+   作者: Gandhimathi Padmanaban, Fred Feng
+   分类: cs.CV, cs.LG, eess.IV
+   日期: 2026-06-03
+   摘要: Vehicle body type is a significant determinant of cyclist injury severity in overtaking crashes, yet automated tools for classifying vehicles into inj...
+   链接: https://arxiv.org/abs/2606.05149v1
+
+5. **Activation-Based Active Learning for In-Context Learning: Challenges and Insights** 
+   作者: Yaseen M. Osman, Geoff V. Merrett, Stuart E. Middleton
+   分类: cs.CL, cs.LG
+   日期: 2026-06-03
+   摘要: Deep active learning has previously been explored for LLM in-context sample selection, but not with methods that utilise recent advances in understand...
+   链接: https://arxiv.org/abs/2606.05134v1
+
+6. **BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning** 
+   作者: Luca Thale-Bombien, Jan Ewald, Ralf König
+   分类: cs.LG
+   日期: 2026-06-03
+   摘要: The rapid advancement of high-throughput sequencing has led to large, high-dimensional omics datasets. Deep unsupervised learning architectures, parti...
+   链接: https://arxiv.org/abs/2606.05139v1
+
+7. **Generating Financial Time Series by Matching Random Convolutional Features** 
+   作者: Konrad J. Mueller, Nikita Zozoulenko, Ben Wood
+   分类: cs.LG, q-fin.ST
+   日期: 2026-06-03
+   摘要: Generating realistic financial time series is challenging as training data is often limited to a single historical path. With such scarce data, overfi...
+   链接: https://arxiv.org/abs/2606.05138v1
+
+8. **Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning** 
+   作者: Kelan Gray, Finlay Brown, Nicolas Boullé
+   分类: cs.LG, math.DS, math.NA
+   日期: 2026-06-03
+   摘要: Koopman theory turns nonlinear dynamics into a linear spectral problem. In computation, however, everything depends on a hard finite-dimensional choic...
+   链接: https://arxiv.org/abs/2606.05131v1

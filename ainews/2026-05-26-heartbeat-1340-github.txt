@@ -1,0 +1,62 @@
+🔥 GitHub Trending (daily) - AI/ML 相关
+============================================================
+
+1. **Lum1104/Understand-Anything** (⭐ 32,210 total | +5,604 today)
+   Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+   https://github.com/Lum1104/Understand-Anything
+
+2. **anthropics/knowledge-work-plugins** (⭐ 15,849 total | +1,441 today)
+   Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+   https://github.com/anthropics/knowledge-work-plugins
+
+3. **rohitg00/ai-engineering-from-scratch** (⭐ 19,176 total | +3,154 today)
+   Learn it. Build it. Ship it for others.
+   https://github.com/rohitg00/ai-engineering-from-scratch
+
+4. **affaan-m/ECC** (⭐ 192,854 total | +2,025 today)
+   The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   https://github.com/affaan-m/ECC
+
+5. **mukul975/Anthropic-Cybersecurity-Skills** (⭐ 9,450 total | +1,004 today)
+   754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+   https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+
+6. **colbymchenry/codegraph** (⭐ 25,894 total | +3,161 today)
+   Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+   https://github.com/colbymchenry/codegraph
+
+7. **manaflow-ai/cmux** (⭐ 19,600 total | +603 today)
+   Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+   https://github.com/manaflow-ai/cmux
+
+8. **multica-ai/andrej-karpathy-skills** (⭐ 155,504 total | +2,749 today)
+   A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+   https://github.com/multica-ai/andrej-karpathy-skills
+
+9. **Fincept-Corporation/FinceptTerminal** (⭐ 23,981 total | +317 today)
+   FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+   https://github.com/Fincept-Corporation/FinceptTerminal
+
+10. **anthropics/claude-cookbooks** (⭐ 44,134 total | +141 today)
+   A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+   https://github.com/anthropics/claude-cookbooks
+
+11. **Leonxlnx/taste-skill** (⭐ 20,050 total | +264 today)
+   Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+   https://github.com/Leonxlnx/taste-skill
+
+12. **moeru-ai/airi** (⭐ 39,854 total | +62 today)
+   💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+   https://github.com/moeru-ai/airi
+
+13. **hardikpandya/stop-slop** (⭐ 4,548 total | +345 today)
+   A skill file for removing AI tells from prose
+   https://github.com/hardikpandya/stop-slop
+
+14. **garrytan/gstack** (⭐ 102,706 total | +640 today)
+   Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+   https://github.com/garrytan/gstack
+
+15. **paperless-ngx/paperless-ngx** (⭐ 41,425 total | +176 today)
+   A community-supported supercharged document management system: scan, index and archive all your documents
+   https://github.com/paperless-ngx/paperless-ngx

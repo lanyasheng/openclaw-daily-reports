@@ -1,0 +1,346 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-27T05:41:28.032615+00:00",
+  "params": {
+    "workers": 20,
+    "timeout": 10,
+    "days": 1,
+    "limit": 2,
+    "perSource": 1,
+    "maxTotal": 25,
+    "githubInput": ""
+  },
+  "stats": {
+    "rawItems": 97,
+    "cleanItems": 70,
+    "candidateItems": 22,
+    "byCategoryRaw": {
+      "papers": 8,
+      "company": 3,
+      "media": 16,
+      "tech_news": 5,
+      "community": 9,
+      "newsletter": 11,
+      "cn_media": 6,
+      "twitter": 12
+    },
+    "byCategoryCandidates": {
+      "twitter": 5,
+      "tech_news": 3,
+      "newsletter": 2,
+      "papers": 8,
+      "cn_media": 1,
+      "community": 2,
+      "media": 1
+    },
+    "githubTrendingCount": 14,
+    "githubTrendingError": "",
+    "githubTrendingSource": "live"
+  },
+  "candidates": [
+    {
+      "title": "Excited to dive into this - an open source agent designed with memory/continual learning in mind",
+      "url": "https://nitter.net/hwchase17/status/2059487107144655356#m",
+      "desc": "Excited to dive into this - an open source agent designed with memory/continual learning in mind\n\n\nQuarq (@quarqlabs)\n\nx.com/i/article/205929090850…\n\n\n\n— https://nitter.net/quarqlabs/status/2059320863",
+      "date": "Wed, 27 May 2026 04:09:24 GMT",
+      "source": "Harrison Chase (Twitter)",
+      "category": "twitter"
+    },
+    {
+      "title": "RT by @hwchase17: cool work!  fully open source, built on langchain & langgraph, thoughtful about organizing and updating memory",
+      "url": "https://nitter.net/Vtrivedy10/status/2059488548080832803#m",
+      "desc": "cool work!  fully open source, built on langchain & langgraph, thoughtful about organizing and updating memory\n\n\nQuarq (@quarqlabs)\n\nx.com/i/article/205929090850…\n\n\n\n— https://nitter.net/quarqlabs/sta",
+      "date": "Wed, 27 May 2026 04:15:07 GMT",
+      "source": "Harrison Chase (Twitter)",
+      "category": "twitter"
+    },
+    {
+      "title": "The AI Agent Harness: The Glue That Turns LLMs into Digital Workers",
+      "url": "https://thingswithai.org/posts/ai-agent-harness",
+      "desc": "Article URL: https://thingswithai.org/posts/ai-agent-harness\nComments URL: https://news.ycombinator.com/item?id=48289720\nPoints: 1\n# Comments: 0",
+      "date": "Wed, 27 May 2026 04:40:39 +0000",
+      "source": "Hacker News - AI",
+      "category": "tech_news"
+    },
+    {
+      "title": "MEMO: A Modular Framework for Training a Dedicated Memory Model on New Knowledge Without Modifying LLM Parameters",
+      "url": "https://www.marktechpost.com/2026/05/26/memo-a-modular-framework-for-training-a-dedicated-memory-model-on-new-knowledge-without-modifying-llm-parameters/",
+      "desc": "Researchers from NUS, MIT, and A*STAR propose MEMO, a modular framework that encodes corpus knowledge into a separate trainable MEMORY model.\nThe post MEMO: A Modular Framework for Training a Dedicate",
+      "date": "Wed, 27 May 2026 05:24:33 +0000",
+      "source": "MarkTechPost",
+      "category": "newsletter"
+    },
+    {
+      "title": "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline",
+      "url": "https://arxiv.org/abs/2605.26132",
+      "desc": "arXiv:2605.26132v1 Announce Type: new \nAbstract: Can post-trained large language models (LLMs) further improve themselves using only unlabeled prompts, without external teachers or feedback from tools",
+      "date": "Wed, 27 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "The Constraint Tax: Measuring Validity-Correctness Tradeoffs in Structured Outputs for Small Language Models",
+      "url": "https://arxiv.org/abs/2605.26128",
+      "desc": "arXiv:2605.26128v1 Announce Type: new \nAbstract: Production LLM systems increasingly require machine-readable outputs: JSON objects, typed traces, regex-constrained fields, and tool-call schemas. This",
+      "date": "Wed, 27 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "FlashLib: Bringing Flash Magic to Classical Machine Learning Operators",
+      "url": "https://flashml-org.github.io/",
+      "desc": "Article URL: https://flashml-org.github.io/\nComments URL: https://news.ycombinator.com/item?id=48289543\nPoints: 1\n# Comments: 0",
+      "date": "Wed, 27 May 2026 04:12:45 +0000",
+      "source": "Hacker News - Machine Learning",
+      "category": "tech_news"
+    },
+    {
+      "title": "Can LLMs Introspect? A Reality Check",
+      "url": "https://arxiv.org/abs/2605.26242",
+      "desc": "arXiv:2605.26242v1 Announce Type: new \nAbstract: Can large language models detect and report their own internal states? A number of studies have argued that the answer to this question is yes. We argu",
+      "date": "Wed, 27 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "Pretraining Data Exposure in Large Language Models: A Survey of Membership Inference, Data Contamination, and Security Implications",
+      "url": "https://arxiv.org/abs/2605.26133",
+      "desc": "arXiv:2605.26133v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have become the predominant paradigm in NLP, advancing both research and industry. As model sizes and pretraining data gro",
+      "date": "Wed, 27 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "GEM: Geometric Entropy Mixing for Optimal LLM Data Curation",
+      "url": "https://arxiv.org/abs/2605.26121",
+      "desc": "arXiv:2605.26121v1 Announce Type: new \nAbstract: LLM pre-training efficacy increasingly depends on data composition rather than sheer volume. Yet, optimal mixing is hindered by categorization flaws: h",
+      "date": "Wed, 27 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "为什么没人会喜欢你用 LLM 写出来的东西？",
+      "url": "https://sspai.com/post/110102",
+      "desc": "LLM 的后训练、对齐、蒸馏，不仅让模型输出变得更可控，但没人喜欢这样的东西。查看全文",
+      "date": "Wed, 27 May 2026 11:31:24 +0800",
+      "source": "少数派",
+      "category": "cn_media"
+    },
+    {
+      "title": "Gear Commit: Dev gadget box personalized from GitHub activity",
+      "url": "https://gearcommit.nanocorp.app/",
+      "desc": "Article URL: https://gearcommit.nanocorp.app/\nComments URL: https://news.ycombinator.com/item?id=48288761\nPoints: 5\n# Comments: 0",
+      "date": "Wed, 27 May 2026 02:29:24 +0000",
+      "source": "HN Best",
+      "category": "community"
+    },
+    {
+      "title": "I am not cynical enough.",
+      "url": "https://nitter.net/pmarca/status/2059505143289389126#m",
+      "desc": "I am not cynical enough.\n\n\nMarc Andreessen 🇺🇸 (@pmarca)\n\nGood Lord.\n\n\n\n— https://nitter.net/pmarca/status/2059505059063554335#m",
+      "date": "Wed, 27 May 2026 05:21:04 GMT",
+      "source": "Marc Andreessen (Twitter)",
+      "category": "twitter"
+    },
+    {
+      "title": "Good Lord.",
+      "url": "https://nitter.net/pmarca/status/2059505059063554335#m",
+      "desc": "Good Lord.\n\n\nSam Lyman (@SamLyman33)\n\nWe now know that People's Dispatch & CodePink, two Singham-funded & CCP-aligned organizations, have been directly involved in agitating against data center buildo",
+      "date": "Wed, 27 May 2026 05:20:44 GMT",
+      "source": "Marc Andreessen (Twitter)",
+      "category": "twitter"
+    },
+    {
+      "title": "🛫",
+      "url": "https://nitter.net/sama/status/2059492605634007125#m",
+      "desc": "🛫\n\n\nHermeus (@hermeuscorp)\n\nSupersonic. Mach 1.21.\n\nQuarterhorse Mk 2.1 is now the world’s first privately developed, unmanned supersonic jet and the fastest unmanned aircraft flying today.\n\nThis flig",
+      "date": "Wed, 27 May 2026 04:31:15 GMT",
+      "source": "Sam Altman (Twitter)",
+      "category": "twitter"
+    },
+    {
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "desc": "Article URL: https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram\nComments URL: https://news.ycombinator.com/item?id=48289660\nPoints: 7\n# Comments: 2",
+      "date": "Wed, 27 May 2026 04:30:30 +0000",
+      "source": "Hacker News - AI",
+      "category": "tech_news"
+    },
+    {
+      "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
+      "url": "https://arxiv.org/abs/2605.26182",
+      "desc": "arXiv:2605.26182v1 Announce Type: new \nAbstract: Generating physically buildable brick structures from 3D shapes requires more than geometric reconstruction: the output must also satisfy discrete part",
+      "date": "Wed, 27 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
+      "url": "https://arxiv.org/abs/2605.26230",
+      "desc": "arXiv:2605.26230v1 Announce Type: new \nAbstract: Multi-view 3D reconstruction has achieved remarkable progress with the advent of feed-forward 3D reconstruction models. However, these models are typic",
+      "date": "Wed, 27 May 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    },
+    {
+      "title": "Not All Modalities Are Equal: Instruction-Aware Gating for Multimodal Videos",
+      "url": "https://arxiv.org/abs/2605.26232",
+      "desc": "arXiv:2605.26232v1 Announce Type: new \nAbstract: Pre-trained video large language models excel at visual reasoning. However, they struggle when videos arrive with auxiliary streams, such as audio, dep",
+      "date": "Wed, 27 May 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    },
+    {
+      "title": "The just-say-no engineer was a ZIRP phenomenon",
+      "url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+      "desc": "Article URL: https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/\nComments URL: https://news.ycombinator.com/item?id=48289439\nPoints: 81\n# Comments: 64",
+      "date": "Wed, 27 May 2026 03:56:42 +0000",
+      "source": "HN Best",
+      "category": "community"
+    },
+    {
+      "title": "勝山湧斗：「量産から逆算」、UCLAから産業界に転じた電池エンジニア",
+      "url": "https://www.technologyreview.jp/s/381911/trajectory-of-u35-innovators-yuto-katsuyama/",
+      "desc": "UCLAで次世代電池を研究し、2022年には「35歳未満のイノベーター」に選ばれた勝山湧斗が選んだのは、アカデミアではなく産業界だった。世界最高性能と量産性を両立する次世代リチウムイオン電池の実現を目指している。",
+      "date": "Wed, 27 May 2026 03:35:18 +0000",
+      "source": "MIT Tech Review JP",
+      "category": "media"
+    },
+    {
+      "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+      "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+      "desc": "it's funding news, but it's good news.",
+      "date": "Wed, 27 May 2026 03:33:53 GMT",
+      "source": "Latent Space",
+      "category": "newsletter"
+    }
+  ],
+  "githubTrending": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "stars_today": 4697,
+      "total_stars": 36788,
+      "stars": 36788,
+      "lang": "TypeScript",
+      "url": "https://github.com/Lum1104/Understand-Anything"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars_today": 1915,
+      "total_stars": 194810,
+      "stars": 194810,
+      "lang": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "stars_today": 2155,
+      "total_stars": 21115,
+      "stars": 21115,
+      "lang": "Python",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "stars_today": 1718,
+      "total_stars": 16812,
+      "stars": 16812,
+      "lang": "Python",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "stars_today": 880,
+      "total_stars": 10277,
+      "stars": 10277,
+      "lang": "Python",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from prose",
+      "stars_today": 539,
+      "total_stars": 5152,
+      "stars": 5152,
+      "lang": "",
+      "url": "https://github.com/hardikpandya/stop-slop"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "stars_today": 1430,
+      "total_stars": 22463,
+      "stars": 22463,
+      "lang": "Shell",
+      "url": "https://github.com/Leonxlnx/taste-skill"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars_today": 1219,
+      "total_stars": 167801,
+      "stars": 167801,
+      "lang": "HTML",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "stars_today": 216,
+      "total_stars": 46975,
+      "stars": 46975,
+      "lang": "TypeScript",
+      "url": "https://github.com/twentyhq/twenty"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "stars_today": 156,
+      "total_stars": 12257,
+      "stars": 12257,
+      "lang": "TypeScript",
+      "url": "https://github.com/Open-Dev-Society/OpenStock"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars_today": 352,
+      "total_stars": 78821,
+      "stars": 78821,
+      "lang": "TypeScript",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "desc": "The Free Software Media System - Server Backend & API",
+      "stars_today": 83,
+      "total_stars": 52442,
+      "stars": 52442,
+      "lang": "C#",
+      "url": "https://github.com/jellyfin/jellyfin"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "desc": "Curated list of the best free apps for PC and mobile",
+      "stars_today": 731,
+      "total_stars": 5420,
+      "stars": 5420,
+      "lang": "JavaScript",
+      "url": "https://github.com/Axorax/awesome-free-apps"
+    },
+    {
+      "name": "st-tech/ppf-contact-solver",
+      "desc": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+      "stars_today": 170,
+      "total_stars": 3572,
+      "stars": 3572,
+      "lang": "Python",
+      "url": "https://github.com/st-tech/ppf-contact-solver"
+    }
+  ]
+}

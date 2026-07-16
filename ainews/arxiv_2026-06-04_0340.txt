@@ -1,0 +1,75 @@
+  搜索: LLM agent...
+  ✓ LLM agent: 命中 10 篇 / 新增 10 篇
+
+📄 ArXiv AI 论文精选 - 从 10 篇中选出 Top 10
+============================================================
+
+1. **DELTAMEM: Incremental Experience Memory for LLM Agents via Residual Trees** ⭐⭐⭐
+   作者: Haoran Tan, Zeyu Zhang, Zhicheng Cao
+   分类: cs.AI
+   日期: 2026-06-02
+   摘要: Large Language Model (LLM)-based agents increasingly rely on memory to learn from experiences over continual interactions. However, storing experience...
+   链接: https://arxiv.org/abs/2606.03083v1
+
+2. **EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management** ⭐⭐
+   作者: Zherui Yang, Fan Liu, Yansong Ning
+   分类: cs.AI
+   日期: 2026-06-02
+   摘要: Recent progress in Large Language Model (LLM) agents has enabled promising advances in automated data science. However, existing approaches remain fun...
+   链接: https://arxiv.org/abs/2606.03841v1
+
+3. **Capability Advertisement as a Market for Lemons: A Trust Layer for Heterogeneous Agent Networks** ⭐⭐
+   作者: Gaurav Naresh Mittal
+   分类: cs.MA, cs.AI
+   日期: 2026-06-02
+   摘要: Large language model (LLM) agents have begun to delegate work to one another. Protocols such as the Model Context Protocol (MCP) and the Agent2Agent p...
+   链接: https://arxiv.org/abs/2606.03034v1
+
+4. **EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents** ⭐⭐
+   作者: Tong Nie, Yuewen Mei, Yihong Tang
+   分类: cs.AI
+   日期: 2026-06-02
+   摘要: Generating safety-critical scenarios is essential for validating and improving autonomous driving systems, yet it inherently requires maximizing adver...
+   链接: https://arxiv.org/abs/2606.03678v1
+
+5. **MemTrain: Self-Supervised Context Memory Training** ⭐⭐
+   作者: Ziheng Li, Xingrun Xing, Haoqing Wang
+   分类: cs.CL
+   日期: 2026-06-02
+   摘要: Memory is an indispensable capability for long-horizon LLM agents, enabling them to preserve and utilize information accumulated across extended inter...
+   链接: https://arxiv.org/abs/2606.03197v1
+
+6. **Uncertainty-Aware Clarification in LLM Agents with Information Gain** ⭐⭐
+   作者: Mengyi Deng, Zhiwei Li, Xin Li
+   分类: cs.AI
+   日期: 2026-06-02
+   摘要: Large Language Model (LLM) agents often operate under underspecified user instructions, where latent uncertainty over user intent leads to erroneous t...
+   链接: https://arxiv.org/abs/2606.03135v1
+
+7. **Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents** ⭐
+   作者: Yingqi Zhang
+   分类: cs.OS, cs.AI, cs.CR
+   日期: 2026-06-02
+   摘要: Large language model (LLM) agents are evolving from request-response assistants into long-running software actors: they maintain state across model ca...
+   链接: https://arxiv.org/abs/2606.03895v1
+
+8. **FederatedSkill: Federated Learning for Agentic Skill Evolution** ⭐
+   作者: Jingbo Yang, Guanyu Yao, Yang Zhang
+   分类: cs.LG, cs.CL
+   日期: 2026-06-02
+   摘要: Modern LLM agents increasingly rely on skill libraries to handle complex tasks, making skill evolution a primary driver of self-improvement. However, ...
+   链接: https://arxiv.org/abs/2606.03143v1
+
+9. **SkillDAG: Self-Evolving Typed Skill Graphs for LLM Skill Selection at Scale** ⭐
+   作者: Tong Bai, Zhenglin Wan, Pengfei Zhou
+   分类: cs.AI
+   日期: 2026-06-02
+   摘要: As LLM agents adopt large skill libraries, selecting the right subset becomes a structural problem rather than a similarity-matching one: skills depen...
+   链接: https://arxiv.org/abs/2606.03056v1
+
+10. **BotDirector: Robot Storytelling Across the Symmetrical Reality with Multi-modal Interactions** 
+   作者: Zhe Sun, Meng Wang, Lei Wang
+   分类: cs.RO, cs.AI
+   日期: 2026-06-02
+   摘要: Robot storytelling offers a unique blend of technological innovation and creative expression that engages children in unprecedented ways. However, the...
+   链接: https://arxiv.org/abs/2606.03223v1

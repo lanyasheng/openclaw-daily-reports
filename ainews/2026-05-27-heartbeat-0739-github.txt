@@ -1,0 +1,58 @@
+🔥 GitHub Trending (daily) - AI/ML 相关
+============================================================
+
+1. **Lum1104/Understand-Anything** (⭐ 35,678 total | +4,721 today)
+   Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+   https://github.com/Lum1104/Understand-Anything
+
+2. **affaan-m/ECC** (⭐ 194,296 total | +1,912 today)
+   The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   https://github.com/affaan-m/ECC
+
+3. **rohitg00/ai-engineering-from-scratch** (⭐ 20,659 total | +2,169 today)
+   Learn it. Build it. Ship it for others.
+   https://github.com/rohitg00/ai-engineering-from-scratch
+
+4. **anthropics/knowledge-work-plugins** (⭐ 16,634 total | +1,698 today)
+   Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+   https://github.com/anthropics/knowledge-work-plugins
+
+5. **mukul975/Anthropic-Cybersecurity-Skills** (⭐ 10,082 total | +871 today)
+   754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+   https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+
+6. **hardikpandya/stop-slop** (⭐ 4,993 total | +547 today)
+   A skill file for removing AI tells from prose
+   https://github.com/hardikpandya/stop-slop
+
+7. **Leonxlnx/taste-skill** (⭐ 21,530 total | +1,440 today)
+   Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
+   https://github.com/Leonxlnx/taste-skill
+
+8. **DigitalPlatDev/FreeDomain** (⭐ 167,281 total | +1,127 today)
+   DigitalPlat FreeDomain: Free Domain For Everyone
+   https://github.com/DigitalPlatDev/FreeDomain
+
+9. **twentyhq/twenty** (⭐ 46,836 total | +237 today)
+   The open alternative to Salesforce, designed for AI.
+   https://github.com/twentyhq/twenty
+
+10. **Open-Dev-Society/OpenStock** (⭐ 12,083 total | +128 today)
+   OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+   https://github.com/Open-Dev-Society/OpenStock
+
+11. **thedotmack/claude-mem** (⭐ 78,621 total | +319 today)
+   Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
+   https://github.com/thedotmack/claude-mem
+
+12. **jellyfin/jellyfin** (⭐ 52,366 total | +91 today)
+   The Free Software Media System - Server Backend & API
+   https://github.com/jellyfin/jellyfin
+
+13. **Axorax/awesome-free-apps** (⭐ 5,238 total | +738 today)
+   Curated list of the best free apps for PC and mobile
+   https://github.com/Axorax/awesome-free-apps
+
+14. **st-tech/ppf-contact-solver** (⭐ 3,473 total | +207 today)
+   A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
+   https://github.com/st-tech/ppf-contact-solver

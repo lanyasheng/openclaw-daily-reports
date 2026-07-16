@@ -1,0 +1,58 @@
+🔥 GitHub Trending (daily) - AI/ML 相关
+============================================================
+
+1. **chopratejas/headroom** (⭐ 9,248 total | +3,528 today)
+   Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+   https://github.com/chopratejas/headroom
+
+2. **affaan-m/ECC** (⭐ 205,453 total | +2,147 today)
+   The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   https://github.com/affaan-m/ECC
+
+3. **aquasecurity/trivy** (⭐ 35,335 total | +26 today)
+   Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+   https://github.com/aquasecurity/trivy
+
+4. **NousResearch/hermes-agent** (⭐ 178,840 total | +1,736 today)
+   The agent that grows with you
+   https://github.com/NousResearch/hermes-agent
+
+5. **microsoft/markitdown** (⭐ 142,674 total | +2,006 today)
+   Python tool for converting files and office documents to Markdown.
+   https://github.com/microsoft/markitdown
+
+6. **nesquena/hermes-webui** (⭐ 13,031 total | +734 today)
+   Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+   https://github.com/nesquena/hermes-webui
+
+7. **opendataloader-project/opendataloader-pdf** (⭐ 23,171 total | +573 today)
+   PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+   https://github.com/opendataloader-project/opendataloader-pdf
+
+8. **Open-LLM-VTuber/Open-LLM-VTuber** (⭐ 8,865 total | +702 today)
+   Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+   https://github.com/Open-LLM-VTuber/Open-LLM-VTuber
+
+9. **lyogavin/airllm** (⭐ 18,785 total | +208 today)
+   AirLLM 70B inference with single 4GB GPU
+   https://github.com/lyogavin/airllm
+
+10. **supermemoryai/supermemory** (⭐ 25,089 total | +601 today)
+   Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+   https://github.com/supermemoryai/supermemory
+
+11. **HKUDS/Vibe-Trading** (⭐ 9,794 total | +221 today)
+   "Vibe-Trading: Your Personal Trading Agent"
+   https://github.com/HKUDS/Vibe-Trading
+
+12. **D4Vinci/Scrapling** (⭐ 60,060 total | +1,078 today)
+   🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+   https://github.com/D4Vinci/Scrapling
+
+13. **odoo/odoo** (⭐ 51,876 total | +29 today)
+   Odoo. Open Source Apps To Grow Your Business.
+   https://github.com/odoo/odoo
+
+14. **jwasham/coding-interview-university** (⭐ 348,924 total | +459 today)
+   A complete computer science study plan to become a software engineer.
+   https://github.com/jwasham/coding-interview-university

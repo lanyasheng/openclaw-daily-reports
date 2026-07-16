@@ -1,0 +1,104 @@
+10:13:44 - INFO - Fetching 101 sources with 10 workers...
+10:13:45 - INFO - ✅ Anthropic Engineering: 0 items
+10:13:45 - INFO - ✅ Anthropic News: 0 items
+10:13:45 - INFO - ✅ Microsoft AI Blog: 0 items
+10:13:45 - WARNING - ❌ Google AI Blog: HTTP 404
+10:13:45 - INFO - ✅ Hugging Face Blog: 1 items
+10:13:45 - INFO - ✅ Anthropic Research: 0 items
+10:13:45 - INFO - ✅ Google DeepMind Blog: 0 items
+10:13:46 - INFO - ✅ AWS ML Blog: 4 items
+10:13:46 - INFO - ✅ OpenAI News: 4 items
+10:13:46 - INFO - ✅ BAIR Blog: 0 items
+10:13:46 - INFO - ✅ Apple ML Research: 0 items
+10:13:46 - INFO - ✅ NVIDIA AI Blog: 2 items
+10:13:46 - WARNING - ❌ HuggingFace Daily Papers: HTTP 404
+10:13:46 - WARNING - ❌ Meta AI Blog: HTTP 404
+10:13:46 - INFO - ✅ Google Research Blog: 25 items
+10:13:47 - INFO - ✅ arXiv - CV: 227 items
+10:13:47 - INFO - ✅ arXiv - ML: 404 items
+10:13:47 - INFO - ✅ arXiv - AI: 440 items
+10:13:47 - INFO - ✅ arXiv - NLP: 215 items
+10:13:47 - INFO - ✅ OpenAI Blog: 4 items
+10:13:47 - INFO - ✅ The Verge - AI: 10 items
+10:13:47 - INFO - ✅ TechCrunch - AI: 8 items
+10:13:47 - INFO - ✅ MIT Technology Review: 2 items
+10:13:47 - INFO - ✅ Stability AI News: 0 items
+10:13:48 - INFO - ✅ Wired - AI: 7 items
+10:13:48 - INFO - ✅ Science Magazine: 0 items
+10:13:48 - INFO - ✅ AI Trends: 0 items
+10:13:48 - INFO - ✅ Ars Technica - AI: 1 items
+10:13:48 - INFO - ✅ Synced (AI Review): 0 items
+10:13:48 - WARNING - ❌ Semafor AI: HTTP 500
+10:13:48 - INFO - ✅ AI News: 3 items
+10:13:48 - INFO - ✅ Financial Times - AI: 14 items
+10:13:48 - INFO - ✅ MIT Tech Review JP: 2 items
+10:13:49 - INFO - ✅ Hacker News - LLM: 15 items
+10:13:49 - INFO - ✅ HelloGitHub: 0 items
+10:13:49 - INFO - ✅ Hacker News - Machine Learning: 0 items
+10:13:49 - INFO - ✅ The Decoder: 8 items
+10:13:49 - INFO - ✅ GitHub Trending Daily: 11 items
+10:13:49 - INFO - ✅ GitHub Trending Python: 14 items
+10:13:49 - INFO - ✅ GitHub Trending Weekly: 21 items
+10:13:49 - INFO - ✅ Product Hunt: 50 items
+10:13:50 - INFO - ✅ Lobsters: 17 items
+10:13:50 - INFO - ✅ Hacker News - AI: 20 items
+10:13:50 - INFO - ✅ LlamaIndex Releases: 10 items
+10:13:50 - INFO - ✅ LangChain Releases: 10 items
+10:13:50 - INFO - ✅ Microsoft AutoGen Releases: 10 items
+10:13:50 - INFO - ✅ crewAI Releases: 10 items
+10:13:50 - INFO - ✅ V2EX Hot: 9 items
+10:13:50 - INFO - ✅ mem0 Releases: 10 items
+10:13:50 - WARNING - ❌ MCP Spec Releases: HTTP 404
+10:13:51 - INFO - ✅ awesome-mcp-servers: 20 items
+10:13:51 - INFO - ✅ Lilian Weng (Lil'Log): 0 items
+10:13:51 - WARNING - ❌ The Batch (Andrew Ng): HTTP 308
+10:13:51 - INFO - ✅ Simon Willison: 30 items
+10:13:51 - INFO - ✅ Machine Learning Mastery: 0 items
+10:13:51 - INFO - ✅ KDnuggets: 2 items
+10:13:51 - INFO - ✅ OpenHands Releases: 10 items
+10:13:51 - INFO - ✅ MarkTechPost: 4 items
+10:13:51 - INFO - ✅ 机器之心: 0 items
+10:13:51 - INFO - ✅ 少数派: 4 items
+10:13:51 - INFO - ✅ InfoQ 中文: 19 items
+10:13:52 - INFO - ✅ Import AI: 0 items
+10:13:52 - INFO - ✅ Ben's Bites: 0 items
+10:13:52 - INFO - ✅ 36氪快讯: 0 items
+10:13:52 - INFO - ✅ HN Best: 20 items
+10:13:52 - INFO - ✅ Towards Data Science: 4 items
+10:13:52 - INFO - ✅ Kotlin Blog: 1 items
+10:13:52 - INFO - ✅ 阮一峰周刊: 3 items
+10:13:52 - INFO - ✅ Latent Space: 3 items
+10:13:52 - INFO - ✅ 量子位: 5 items
+10:13:52 - INFO - ✅ Swift Blog: 0 items
+10:13:53 - INFO - ✅ Apple Newsroom: 20 items
+10:13:53 - WARNING - ❌ LlamaIndex Blog: HTTP 308
+10:13:53 - WARNING - ❌ Mem0 Blog: HTTP 404
+10:13:53 - INFO - ✅ Andrej Karpathy: 0 items
+10:13:53 - WARNING - ❌ VentureBeat AI: HTTP 308
+10:13:53 - INFO - ✅ Ollama Blog: 0 items
+10:13:54 - WARNING - ❌ Mistral AI: HTTP 404
+10:13:54 - WARNING - ❌ Pinecone Blog: HTTP 404
+10:13:54 - INFO - ✅ IEEE Spectrum AI: 2 items
+10:13:54 - WARNING - ❌ vLLM Blog: HTTP 404
+10:13:54 - WARNING - ❌ Weights & Biases: HTTP 404
+10:13:55 - INFO - ✅ LangChain Blog: 0 items
+10:13:55 - INFO - ✅ Sam Altman (Twitter): 0 items
+10:13:55 - INFO - ✅ AI Act: 0 items
+10:13:55 - INFO - ✅ Andrej Karpathy (Twitter): 0 items
+10:13:55 - INFO - ✅ Demis Hassabis (Twitter): 1 items
+10:13:55 - INFO - ✅ Yann LeCun (Twitter): 0 items
+10:13:56 - INFO - ✅ Dario Amodei (Twitter): 0 items
+10:13:56 - INFO - ✅ Greg Brockman (Twitter): 4 items
+10:13:56 - INFO - ✅ Cohere Blog: 0 items
+10:13:56 - INFO - ✅ Jim Fan (Twitter): 0 items
+10:13:56 - INFO - ✅ Sebastian Raschka: 0 items
+10:13:56 - INFO - ✅ Harrison Chase (Twitter): 13 items
+10:13:56 - INFO - ✅ Marc Andreessen (Twitter): 19 items
+10:13:56 - INFO - ✅ Eugene Yan: 0 items
+10:13:56 - INFO - ✅ Paul Graham (Twitter): 2 items
+10:13:56 - INFO - ✅ Gwern: 0 items
+10:13:56 - INFO - ✅ Minimaxir (Max Woolf): 0 items
+10:13:57 - WARNING - ❌ Dwarkesh Patel: HTTP 308
+10:13:58 - INFO - ✅ Stephen Wolfram: 0 items
+10:13:58 - INFO - 
+Completed in 13.7s - 1288 articles from 87/101 sources

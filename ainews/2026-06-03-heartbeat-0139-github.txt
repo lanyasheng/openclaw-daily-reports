@@ -1,0 +1,45 @@
+🔥 GitHub Trending (daily) - AI/ML 相关
+============================================================
+
+1. **chopratejas/headroom** (⭐ 5,661 total | +1,266 today)
+   Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+   https://github.com/chopratejas/headroom
+
+2. **microsoft/markitdown** (⭐ 140,800 total | +3,616 today)
+   Python tool for converting files and office documents to Markdown.
+   https://github.com/microsoft/markitdown
+
+3. **affaan-m/ECC** (⭐ 203,396 total | +1,597 today)
+   The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+   https://github.com/affaan-m/ECC
+
+4. **nesquena/hermes-webui** (⭐ 12,394 total | +1,725 today)
+   Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+   https://github.com/nesquena/hermes-webui
+
+5. **stefan-jansen/machine-learning-for-trading** (⭐ 18,309 total | +570 today)
+   Code for Machine Learning for Algorithmic Trading, 2nd edition.
+   https://github.com/stefan-jansen/machine-learning-for-trading
+
+6. **jamwithai/production-agentic-rag-course** (⭐ 6,305 total | +31 today)
+   https://github.com/jamwithai/production-agentic-rag-course
+
+7. **supermemoryai/supermemory** (⭐ 24,496 total | +677 today)
+   Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+   https://github.com/supermemoryai/supermemory
+
+8. **Open-LLM-VTuber/Open-LLM-VTuber** (⭐ 8,212 total | +65 today)
+   Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+   https://github.com/Open-LLM-VTuber/Open-LLM-VTuber
+
+9. **D4Vinci/Scrapling** (⭐ 58,967 total | +1,196 today)
+   🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+   https://github.com/D4Vinci/Scrapling
+
+10. **reconurge/flowsint** (⭐ 4,388 total | +190 today)
+   A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+   https://github.com/reconurge/flowsint
+
+11. **OpenBMB/VoxCPM** (⭐ 24,979 total | +779 today)
+   VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+   https://github.com/OpenBMB/VoxCPM

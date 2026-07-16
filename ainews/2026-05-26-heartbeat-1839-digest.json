@@ -1,0 +1,682 @@
+{
+  "ok": true,
+  "generatedAt": "2026-05-26T10:41:17.987823+00:00",
+  "params": {
+    "workers": 20,
+    "timeout": 10,
+    "days": 1,
+    "limit": 30,
+    "perSource": 5,
+    "maxTotal": 80,
+    "githubInput": ""
+  },
+  "stats": {
+    "rawItems": 566,
+    "cleanItems": 354,
+    "candidateItems": 80,
+    "byCategoryRaw": {
+      "papers": 120,
+      "media": 31,
+      "tech_news": 37,
+      "community": 87,
+      "cn_media": 32,
+      "newsletter": 11,
+      "twitter": 36
+    },
+    "byCategoryCandidates": {
+      "community": 19,
+      "tech_news": 12,
+      "media": 2,
+      "papers": 40,
+      "cn_media": 4,
+      "twitter": 1,
+      "newsletter": 2
+    },
+    "githubTrendingCount": 0,
+    "githubTrendingError": "",
+    "githubTrendingSource": "none"
+  },
+  "candidates": [
+    {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.Language: English | Português",
+      "date": "",
+      "source": "GitHub Trending Daily",
+      "category": "community"
+    },
+    {
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
+      "date": "",
+      "source": "GitHub Trending Daily",
+      "category": "community"
+    },
+    {
+      "title": "dograh-hq/dograh",
+      "url": "https://github.com/dograh-hq/dograh",
+      "desc": "Open Source Voice Agent PlatformDograh AI \nThe open-source, self-hostable alternative to Vapi & Retell — build production voice agents with a drag-and-drop workflow builder. From zero to a working bot",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.Superpowers \nSuperpowers is a complete software development methodology for your coding agents, built on top of a set of compo",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "Multi-Agent LLM Orchestration with Docker Compose and MCP",
+      "url": "https://github.com/PacktPublishing/Operational-AI-with-Docker",
+      "desc": "Article URL: https://github.com/PacktPublishing/Operational-AI-with-Docker\nComments URL: https://news.ycombinator.com/item?id=48275638\nPoints: 2\n# Comments: 0",
+      "date": "Tue, 26 May 2026 06:07:06 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+      "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "desc": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+      "date": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired - AI",
+      "category": "media"
+    },
+    {
+      "title": "Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs",
+      "url": "https://arxiv.org/abs/2605.23929",
+      "desc": "arXiv:2605.23929v1 Announce Type: new \nAbstract: Modern AI systems increasingly rely on workflows composed of multiple interacting agents, some powered by large language models (LLMs) and others by co",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agentsChrome DevTools for agents \n \nChrome DevTools for agents (chrome-devtools-mcp) lets your coding agent (such as Antigravity, Claude, Cursor or Copilot) control and insp",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "OpenClaw for Sales – Using Local-First AI Agents for Sales Workflows",
+      "url": "https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution",
+      "desc": "Article URL: https://www.kickscale.com/en/blog/openclaw-sales-ai-agent-revolution\nComments URL: https://news.ycombinator.com/item?id=48276845\nPoints: 4\n# Comments: 0",
+      "date": "Tue, 26 May 2026 08:34:23 +0000",
+      "source": "Hacker News - AI",
+      "category": "tech_news"
+    },
+    {
+      "title": "DRIVE: Modeling Skills at the Reasoning and Interaction Levels for Web Agents under Continual Learning",
+      "url": "https://arxiv.org/abs/2605.23939",
+      "desc": "arXiv:2605.23939v1 Announce Type: new \nAbstract: Web agents require both high-level reasoning (for task decomposition) and low-level interactions (for page elements manipulation) to conduct different",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "phodal/routa",
+      "url": "https://github.com/phodal/routa",
+      "desc": "Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/ A2A support across web and desktop. \n  \n Routa \n Workspace-first multi-agent",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop   \nTaste Skill \n The Anti-Slop Frontend Framework for AI Agents  \n     \n     \nPortable Agent Skills that upgra",
+      "date": "",
+      "source": "GitHub Trending Daily",
+      "category": "community"
+    },
+    {
+      "title": "Structure-Aware RAG: Structured Retrieval Augmented Generation from Noisy Data for Conversational Agents",
+      "url": "https://arxiv.org/abs/2605.24366",
+      "desc": "arXiv:2605.24366v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have been widely adopted in conversational applications. However, their reliance on parametric knowledge limits reliabilit",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.Karpathy-Inspired Claude Code Guidelines \n \n Check out my new project Multic",
+      "date": "",
+      "source": "GitHub Trending Daily",
+      "category": "community"
+    },
+    {
+      "title": "Show HN: AI agent token cost calculator for Codex and Claude Code loops",
+      "url": "https://tinyopsstudio.com/ai-agent-token-cost-calculator",
+      "desc": "Article URL: https://tinyopsstudio.com/ai-agent-token-cost-calculator\nComments URL: https://news.ycombinator.com/item?id=48276358\nPoints: 1\n# Comments: 0",
+      "date": "Tue, 26 May 2026 07:34:28 +0000",
+      "source": "Hacker News - AI",
+      "category": "tech_news"
+    },
+    {
+      "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
+      "url": "https://www.qbitai.com/2026/05/424851.html",
+      "desc": "深度适配OpenClaw、Claude Code、Hermes等",
+      "date": "Tue, 26 May 2026 04:13:32 +0000",
+      "source": "量子位",
+      "category": "cn_media"
+    },
+    {
+      "title": "ContextEcho: A Benchmark for Persona Drift in Long Agentic-Coding Sessions",
+      "url": "https://arxiv.org/abs/2605.24279",
+      "desc": "arXiv:2605.24279v1 Announce Type: new \nAbstract: A frontier language model's acknowledged \"helpful programming assistant\" persona does not survive long agentic-coding sessions in the deployment regime",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalizeAcademic Research Skills for Claude Code \n   \n简体中文版 | 繁體中文版 | 日本語版 \nA comprehensive suite of Claude Code skills f",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "Methods for Formal Verification of Agent Skills: Three Layers Toward a Mechanically Checkable Capability-Containment Proof",
+      "url": "https://arxiv.org/abs/2605.23951",
+      "desc": "arXiv:2605.23951v1 Announce Type: new \nAbstract: The companion paper introduced a four-level verification lattice on agent-skill manifests (unverified, declared, tested, formal) and left the top level",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.🌍 English | 日本語 | 简",
+      "date": "",
+      "source": "GitHub Trending Python",
+      "category": "community"
+    },
+    {
+      "title": "Show HN: Layered retrieval beats grep alone for LLM-generated engineering docs",
+      "url": "https://github.com/rduffyuk/engineering-memory-benchmark",
+      "desc": "Article URL: https://github.com/rduffyuk/engineering-memory-benchmark\nComments URL: https://news.ycombinator.com/item?id=48276649\nPoints: 2\n# Comments: 0",
+      "date": "Tue, 26 May 2026 08:09:33 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "Machine Psychometrics: A Mathematical Psychology of Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2605.23952",
+      "desc": "arXiv:2605.23952v1 Announce Type: new \nAbstract: Artificial agents now generate behavior rich enough to invite trust, surprise, and concern, yet our evaluation tools still privilege capability scores",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "RT by @pmarca: People misinterpret the Ramanujan and Einstein examples and assume this just means AGI has to be a super genius otherwise it doesn't count. To me this doesn't seem to be the point; they're illustrations of categories more than thresholds. Demis previously described creativity as falling into three buckets: \n\nInterpolation, i.e. averaging many data points and recombining them, e.g. an image model producing a new photo that would have not been in a dataset before. Extrapolation, i.e. going beyond the convex hull of the training data to produce something experts recognise as genuinely new - we have a lot of examples of this with existing systems, like Move 37 and all the recent maths examples. And thirdly, invention: actually coming up with the game of Go in the first place. It's the third type that existing systems, at least as currently scaffolded/used, appear to lack. \n\nThere may be a difference between solving existing conjectures or problems, and actually coming up with the theory in the first place. Language models produce all sorts of new outputs, but the outputs differ qualitatively in kind even if they're novel to varying degrees. Does the new output live inside the conceptual space defined by the training data (interpolation), push outside it along existing dimensions (extrapolation), or reframe the space itself by proposing a new conceptual structure (invention)?\n\nRamanujan illustrates the depth of intuition and innovation that the third 'true creativity/invention' category represents. There may be recombination and extrapolation as part of that process, but at least so far they don't seem to be sufficient. Of course you can argue that most humans don't do this - when was the last time you invented a new abstraction? \n\nMy uneducated view is that this third type of creativity doesn't have to lead to crazy new inventions - obviously inventing the theory of relativity is both more impressive and more *valuable* (and thus depends also on a social aspect and utility), but I think individuals do this third type of creativity in many smaller/micro ways too. For example a teenager on TikTok warping a meme format into something the format didn't previously allow/cater for. This kind of type-3 operation should be observable at small scales, frequently, with low stakes too. \n\nI think it's very reasonable to argue that this is *just* interpolation/extrapolation, but I personally don't think this is all there is. If it was then it should be feasible for e.g. Talkie (the model trained up to 1930s data) to be prompted/scaffolded to create a new abstraction entirely. I haven't seen this, except by teaching it basic coding through fine-tuning - but that's not the same thing, since you're showing it the new abstractions (coding) to start with! \n\nI'm not sure if this is because (a) language models lack the cognitive operation entirely, given the architecture; or (b) it has the operation but lacks the appropriate scaffolding, memory, and process. Maybe it's (b), though I lean towards (a): language models are better at paradigm exploitation than paradigm generation. Of course practically speaking, you don't strictly need this third type of creativity for the technology to be transformative and revolutionize fields; but it's a difference that is still worth highlighting and accounting for, since it also implies certain ceilings determined by the shape of the existing conceptual space.",
+      "url": "https://nitter.net/sebkrier/status/2059024005865050498#m",
+      "desc": "People misinterpret the Ramanujan and Einstein examples and assume this just means AGI has to be a super genius otherwise it doesn't count. To me this doesn't seem to be the point; they're illustratio",
+      "date": "Mon, 25 May 2026 21:29:12 GMT",
+      "source": "Marc Andreessen (Twitter)",
+      "category": "twitter"
+    },
+    {
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "desc": "Financial data platform for analysts, quants and AI agents. \n \n \n \n \n          \nOpen Data Platform by OpenBB (ODP) is the open-source toolset that helps data engineers integrate proprietary, licensed,",
+      "date": "",
+      "source": "GitHub Trending Python",
+      "category": "community"
+    },
+    {
+      "title": "SEAL: Synergistic Co-Evolution of Agents and Learning Environments",
+      "url": "https://arxiv.org/abs/2605.24426",
+      "desc": "arXiv:2605.24426v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents are increasingly improved through interaction, yet most self-evolution methods adapt either the policy or the learnin",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "Stop Comparing LLM Agents Without Disclosing the Harness",
+      "url": "https://arxiv.org/abs/2605.23950",
+      "desc": "arXiv:2605.23950v1 Announce Type: new \nAbstract: This position paper argues that, for long-horizon tasks evaluated across models with comparable frontier capability, the agent execution harness, namel",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "Mixture of Complementary Agents for Robust LLM Ensemble",
+      "url": "https://arxiv.org/abs/2605.24048",
+      "desc": "arXiv:2605.24048v1 Announce Type: new \nAbstract: Multi-AI collaboration, such as ensembling or debating large language models (LLMs), is a promising paradigm for aggregating information and boosting p",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "Agent-ToM: Learning to Monitor Autonomous LLM Agents via Theory-of-Mind Reasoning",
+      "url": "https://arxiv.org/abs/2605.24216",
+      "desc": "arXiv:2605.24216v1 Announce Type: new \nAbstract: Monitoring autonomous large language model (LLM) agents for covert malicious behavior is challenging due to delayed, context-dependent, and long-horizo",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "各位 Javaer 现在是怎么用 idea+各种 AI 工具的",
+      "url": "https://www.v2ex.com/t/1215463",
+      "desc": "SilenceLL: 我自己的使用阶段：\n\nIDEA + 插件\nIDEA 看代码 + codex/Claude code (终端不好用)\ngateway + wsl  + codex/Claude code （很多 bug ）",
+      "date": "Tue, 26 May 2026 01:41:21 GMT",
+      "source": "V2EX Hot",
+      "category": "community"
+    },
+    {
+      "title": "QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks",
+      "url": "https://arxiv.org/abs/2605.24218",
+      "desc": "arXiv:2605.24218v1 Announce Type: new \nAbstract: Deep research agents extend the role of search engines from retrieving keyword-matched pages to synthesizing knowledge, fundamentally changing how huma",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "Practical Quantum CIM Empowerment via All-Domestic-Core Agentic Large Model",
+      "url": "https://arxiv.org/abs/2605.23934",
+      "desc": "arXiv:2605.23934v1 Announce Type: new \nAbstract: Quantum computing devices are recognized as powerful tools for solving NP-complete problems. However, the intricacy of their modeling presents notable",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "PrivFusion: A Privacy-preserving Multi-Agent Framework for Harmonizing Distributed Datasets",
+      "url": "https://arxiv.org/abs/2605.24249",
+      "desc": "arXiv:2605.24249v1 Announce Type: new \nAbstract: The growing availability of clinical data has increased the use of machine learning, yet centralized data aggregation is often infeasible for sensitive",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "ClickHouse实战：Agentic Coding，是“神”还是“坑”？",
+      "url": "https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article",
+      "desc": "点击查看原文>",
+      "date": "Mon, 25 May 2026 15:46:38 GMT",
+      "source": "InfoQ 中文",
+      "category": "cn_media"
+    },
+    {
+      "title": "从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article",
+      "desc": "点击查看原文>",
+      "date": "Mon, 25 May 2026 14:53:04 GMT",
+      "source": "InfoQ 中文",
+      "category": "cn_media"
+    },
+    {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more   \n A coding agent with the IDE wired in. omp.sh  \n          \n Fork of Pi by",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agentscmux \nA Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents \n     \n English | 日",
+      "date": "",
+      "source": "GitHub Trending Daily",
+      "category": "community"
+    },
+    {
+      "title": "LGMT: Logic-Grounded Metamorphic Testing for Evaluating the Reasoning Reliability of LLMs",
+      "url": "https://arxiv.org/abs/2605.23965",
+      "desc": "arXiv:2605.23965v1 Announce Type: new \nAbstract: Large Language Models (LLMs) achieve strong performance on logical reasoning benchmarks, yet their reliability remains uncertain. Existing evaluations",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "DRIVESPATIAL: A Benchmark for Spatiotemporal Intelligence in VLMs for Autonomous Driving",
+      "url": "https://arxiv.org/abs/2605.23176",
+      "desc": "arXiv:2605.23176v1 Announce Type: new \nAbstract: Spatiotemporal intelligence in autonomous driving (AD) requires an agent to integrate multi-view observations into a coherent scene representation, mai",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    },
+    {
+      "title": "IntentionNav: A Benchmark for Intent-Driven Object Navigation from Implicit Human Instruction",
+      "url": "https://arxiv.org/abs/2605.23187",
+      "desc": "arXiv:2605.23187v1 Announce Type: new \nAbstract: Existing object navigation benchmarks usually tell an embodied agent which object category to find, such as microwave or chair. Human-facing embodied A",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    },
+    {
+      "title": "Ask HN: Is there a need for YAML in post-LLM world?",
+      "url": "https://news.ycombinator.com/item?id=48277424",
+      "desc": "Curious to know your opinion about YAML and other DSL created to make workflows/processes less software engineering (imperative) and more configuration (declarative).Take a look at K8s for example, lo",
+      "date": "Tue, 26 May 2026 09:54:34 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "A Multi-Probe Audit of Clinical-Interview Depression Detection Benchmarks",
+      "url": "https://arxiv.org/abs/2605.23977",
+      "desc": "arXiv:2605.23977v1 Announce Type: new \nAbstract: This paper audits benchmark evaluation in clinical-interview depression detection through four complementary probes across DAIC/E-DAIC, CMDC, ANDROIDS,",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "BoxLitE: A Faithful Knowledge Base Embedding Based on Convex Optimization",
+      "url": "https://arxiv.org/abs/2605.23937",
+      "desc": "arXiv:2605.23937v1 Announce Type: new \nAbstract: Knowledge base (KB) embeddings aim at combining the capability of classical knowledge graph embeddings to generalize the information present in facts,",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "Rethinking Continual Anomaly Detection on the Edge: Benchmarking Under Realistic Industrial Conditions",
+      "url": "https://arxiv.org/abs/2605.24251",
+      "desc": "arXiv:2605.24251v1 Announce Type: new \nAbstract: Continual anomaly detection (CAD) addresses the need for industrial inspection systems to adapt to evolving production conditions, yet existing methods",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "VideoOdyssey: A Benchmark for Ultra-Long-Context and Omni-Modal Video Understanding",
+      "url": "https://arxiv.org/abs/2605.22907",
+      "desc": "arXiv:2605.22907v1 Announce Type: new \nAbstract: Real-world long video understanding requires models to perform continuous tracking, information integration and memory retention over massive temporal",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    },
+    {
+      "title": "My LLM optimization loop reward-hacked its own benchmark (and other lessons) [pdf]",
+      "url": "https://github.com/CodeReclaimers/bishop-loop-experiment-3/blob/main/paper/paper.pdf",
+      "desc": "Article URL: https://github.com/CodeReclaimers/bishop-loop-experiment-3/blob/main/paper/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48267210\nPoints: 1\n# Comments: 2",
+      "date": "Mon, 25 May 2026 14:23:32 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QAgstack \n \n \"I don't think I've typed like a line of code pr",
+      "date": "",
+      "source": "GitHub Trending Daily",
+      "category": "community"
+    },
+    {
+      "title": "如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG?utm_source=rss&utm_medium=article",
+      "desc": "点击查看原文>",
+      "date": "Tue, 26 May 2026 11:24:26 GMT",
+      "source": "InfoQ 中文",
+      "category": "cn_media"
+    },
+    {
+      "title": "Improving Local Techdocs for Your AI Coding Agent",
+      "url": "https://www.heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/",
+      "desc": "Article URL: https://www.heltweg.org/posts/improving-local-techdocs-for-your-ai-coding-agent/\nComments URL: https://news.ycombinator.com/item?id=48276548\nPoints: 2\n# Comments: 0",
+      "date": "Tue, 26 May 2026 07:57:15 +0000",
+      "source": "Hacker News - AI",
+      "category": "tech_news"
+    },
+    {
+      "title": "Prompt Politeness Affects LLM Accuracy",
+      "url": "https://arxiv.org/abs/2510.04950",
+      "desc": "Article URL: https://arxiv.org/abs/2510.04950\nComments URL: https://news.ycombinator.com/item?id=48276429\nPoints: 2\n# Comments: 0",
+      "date": "Tue, 26 May 2026 07:43:22 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "You don't need all the LLM benchmarks",
+      "url": "https://alex.smola.org/posts/34-benchmark-selection/",
+      "desc": "Article URL: https://alex.smola.org/posts/34-benchmark-selection/\nComments URL: https://news.ycombinator.com/item?id=48275201\nPoints: 3\n# Comments: 0",
+      "date": "Tue, 26 May 2026 05:00:19 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "Faithful or Fabricated? A Causal Framework for Rationalization Bias in LLM Judges",
+      "url": "https://arxiv.org/abs/2605.23970",
+      "desc": "arXiv:2605.23970v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used as automatic judges for summarization and dialogue evaluation. Prior work has documented biases such",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "Discovering Lexical Gaps Using Embeddings from Multilingual LLMs",
+      "url": "https://arxiv.org/abs/2605.24310",
+      "desc": "arXiv:2605.24310v1 Announce Type: new \nAbstract: Lexical gaps are words that do not exist in certain languages. They pose challenges for building multilingual lexical resources, for machine translatio",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "How Much Structure Do LLMs Need? Evaluating LLMs for Bibliometric Cluster Description",
+      "url": "https://arxiv.org/abs/2605.24351",
+      "desc": "arXiv:2605.24351v1 Announce Type: new \nAbstract: Large language models (LLMs) can support scientific literature synthesis, but remain prone to hallucinated references, uneven coverage, and weakly grou",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "When Correct Beliefs Collapse: Epistemic Resilience of LLMs under Clinical Pressure",
+      "url": "https://arxiv.org/abs/2605.23932",
+      "desc": "arXiv:2605.23932v1 Announce Type: new \nAbstract: Despite strong medical benchmark accuracy, LLMs can exhibit severe multi-turn sycophancy in clinical dialogue, abandoning initial correct diagnosis und",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "Operationalizing Reconstructive Authority: Runtime Construction, Dependency Resolution, and Execution Gating in Autonomous Agent Systems",
+      "url": "https://arxiv.org/abs/2605.23935",
+      "desc": "arXiv:2605.23935v1 Announce Type: new \nAbstract: Autonomous agent systems fail not only due to incorrect decisions, but due to executing decisions whose authority no longer holds at runtime. Prior wor",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "MEMOR-E: In-Context and Fine-Tuned LLM Personalization for Alzheimer's Assistive Robotics",
+      "url": "https://arxiv.org/abs/2605.23941",
+      "desc": "arXiv:2605.23941v1 Announce Type: new \nAbstract: Alzheimer's disease is a neurodegenerative disorder marked by progressive declines in memory and language that reduce independence in daily life, motiv",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "QUIVER: A Formal Framework for Quantifying Perturbation Propagation and Bifurcation in Compound AI Systems",
+      "url": "https://arxiv.org/abs/2605.23956",
+      "desc": "arXiv:2605.23956v1 Announce Type: new \nAbstract: Compound AI systems that chain multiple LLM calls into directed computation graphs are now the dominant architecture for production AI. Although these",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "Truthful Online Preference Aggregation for LLM Fine-Tuning in Mobile Crowdsourcing",
+      "url": "https://arxiv.org/abs/2605.24052",
+      "desc": "arXiv:2605.24052v1 Announce Type: new \nAbstract: To better serve users' demands in mobile applications (e.g., navigation), mobile crowdsourcing platforms can iteratively align large language model (LL",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "Generative Representation Learning on Hyper-relational Knowledge Graphs via Masked Discrete Diffusion",
+      "url": "https://arxiv.org/abs/2605.24064",
+      "desc": "arXiv:2605.24064v1 Announce Type: new \nAbstract: Hyper-relational knowledge graphs (HKGs) effectively represent complex facts. While inferring new knowledge in HKGs is a critical problem, current meth",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "Not All Transitions Matter: Evidence from PPO",
+      "url": "https://arxiv.org/abs/2605.24071",
+      "desc": "arXiv:2605.24071v1 Announce Type: new \nAbstract: Training a reinforcement learning agent on-policy means collecting fresh experience at every update, and that experience comes with a hidden problem. E",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection",
+      "url": "https://arxiv.org/abs/2605.24171",
+      "desc": "arXiv:2605.24171v1 Announce Type: new \nAbstract: Large language models are increasingly used for vulnerability detection, yet their reliability under different prompt formulations remains uncharacteri",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "Show HN: SynapCores – AI-native database (vector, graph, SQL, AutoML, LLM)",
+      "url": "https://synapcores.com",
+      "desc": "Article URL: https://synapcores.com\nComments URL: https://news.ycombinator.com/item?id=48268700\nPoints: 2\n# Comments: 0",
+      "date": "Mon, 25 May 2026 16:28:38 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "Introducing the Agent Toolkit for Amazon Web Services",
+      "url": "https://towardsdatascience.com/introducing-the-agent-toolkit-for-amazon-web-services/",
+      "desc": "It’s like having your own personal expert AWS solutions architect and data engineer rolled into one.\nThe post Introducing the Agent Toolkit for Amazon Web Services appeared first on Towards Data Scien",
+      "date": "Mon, 25 May 2026 12:00:00 +0000",
+      "source": "Towards Data Science",
+      "category": "newsletter"
+    },
+    {
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/  CLI-Anything: Making ALL Software Agent-Native \n \n  \n \n Today's Software Serves Humans👨‍💻. Tomorrow's Users will b",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official pluginsCursor plugins \nOfficial Cursor plugins for popular developer tools, frameworks, and SaaS products. Each plugin is a standalone directory at the reposit",
+      "date": "",
+      "source": "GitHub Trending Weekly",
+      "category": "community"
+    },
+    {
+      "title": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from proseStop Slop \nA skill for removing AI tells from prose. \n \nWhat this is \nAI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches",
+      "date": "",
+      "source": "GitHub Trending Daily",
+      "category": "community"
+    },
+    {
+      "title": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能",
+      "date": "",
+      "source": "GitHub Trending Python",
+      "category": "community"
+    },
+    {
+      "title": "Show HN: Judicex – Open-source legal AI that abstains instead of hallucinating",
+      "url": "https://github.com/JustVugg/judicex",
+      "desc": "Article URL: https://github.com/JustVugg/judicex\nComments URL: https://news.ycombinator.com/item?id=48277539\nPoints: 3\n# Comments: 0",
+      "date": "Tue, 26 May 2026 10:09:09 +0000",
+      "source": "Hacker News - AI",
+      "category": "tech_news"
+    },
+    {
+      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+      "url": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+      "desc": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+      "date": "Tue, 26 May 2026 10:00:00 +0000",
+      "source": "Wired - AI",
+      "category": "media"
+    },
+    {
+      "title": "Design a Complete Multimodal RLVR Pipeline with Open-MM-RL, Vision-Language Prompting, Reward Scoring, and GRPO Export",
+      "url": "https://www.marktechpost.com/2026/05/26/design-a-complete-multimodal-rlvr-pipeline-with-open-mm-rl-vision-language-prompting-reward-scoring-and-grpo-export/",
+      "desc": "In this tutorial, we explore the TuringEnterprises/Open-MM-RL dataset as a practical foundation for multimodal reasoning and reinforcement learning with verifiable rewards. We load the dataset, inspec",
+      "date": "Tue, 26 May 2026 07:25:55 +0000",
+      "source": "MarkTechPost",
+      "category": "newsletter"
+    },
+    {
+      "title": "Outlines – Structured LLM Outputs",
+      "url": "https://dottxt-ai.github.io/outlines/latest/",
+      "desc": "Article URL: https://dottxt-ai.github.io/outlines/latest/\nComments URL: https://news.ycombinator.com/item?id=48275845\nPoints: 1\n# Comments: 0",
+      "date": "Tue, 26 May 2026 06:32:45 +0000",
+      "source": "Hacker News - LLM",
+      "category": "tech_news"
+    },
+    {
+      "title": "Multi-Persona Debate System for Automated Scientific Hypothesis Generation",
+      "url": "https://arxiv.org/abs/2605.23917",
+      "desc": "arXiv:2605.23917v1 Announce Type: new \nAbstract: Modern scientific discovery is bottlenecked not by data scarcity, but by the inability to synthesize fragmented knowledge into actionable hypotheses. T",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "Improving Labeling Consistency with Detailed Constitutional Definitions and AI-Driven Evaluation",
+      "url": "https://arxiv.org/abs/2605.24247",
+      "desc": "arXiv:2605.24247v1 Announce Type: new \nAbstract: Many automated labeling pipelines classify inputs into categories defined by a written specification, content moderation being a prominent use case. Si",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "Temporal Concept Drift in Legal Judgment Prediction: Neural Baselines Across Three Epochs of Ukrainian Court Decisions",
+      "url": "https://arxiv.org/abs/2605.24452",
+      "desc": "arXiv:2605.24452v1 Announce Type: new \nAbstract: Legal NLP benchmarks evaluate models on randomly split data, implicitly assuming that legal language is stationary. We test this assumption by fine-tun",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - NLP",
+      "category": "papers"
+    },
+    {
+      "title": "In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2605.23908",
+      "desc": "arXiv:2605.23908v1 Announce Type: new \nAbstract: We are in the midst of large-scale industrial and academic efforts to automate the processes of scientific, technological and creative production throu",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - AI",
+      "category": "papers"
+    },
+    {
+      "title": "A Large-Scale Dataset and Benchmark: Do Protein-Ligand Models Learn Binding Sites or Just Binding Likelihood?",
+      "url": "https://arxiv.org/abs/2605.24045",
+      "desc": "arXiv:2605.24045v1 Announce Type: new \nAbstract: Protein-ligand modeling underpins computational drug discovery and molecular design. Existing protein-ligand benchmarks typically evaluate whether a pr",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "Signs Beat Floats: Low-Rank Double-Binary Adaptation for On-Device Fine-Tuning",
+      "url": "https://arxiv.org/abs/2605.24058",
+      "desc": "arXiv:2605.24058v1 Announce Type: new \nAbstract: On-device adaptation of large language models commonly keeps a quantized base model frozen while training and deploying a small, task-specific LoRA ada",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "Knowledge Graph Modulated Deep Learning for Limited-Sample Clinical Data Analysis",
+      "url": "https://arxiv.org/abs/2605.24162",
+      "desc": "arXiv:2605.24162v1 Announce Type: new \nAbstract: Biological systems are governed by structured molecular interactions, where pathways, regulatory circuits, and functional gene relationships shape cell",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - ML",
+      "category": "papers"
+    },
+    {
+      "title": "RoboSurg-VQA: A Multimodal Benchmark for Surgical Segmentation-Aware Visual Question Answering",
+      "url": "https://arxiv.org/abs/2605.23068",
+      "desc": "arXiv:2605.23068v1 Announce Type: new \nAbstract: Reliable visual understanding in robot-assisted and minimally invasive surgery (RMIS/MIS) demands more than accurate masks: in clinical practice, clini",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    },
+    {
+      "title": "CaST-Bench: Benchmarking Causal Chain-Grounded Spatio-Temporal Reasoning for Video Question Answering",
+      "url": "https://arxiv.org/abs/2605.23216",
+      "desc": "arXiv:2605.23216v1 Announce Type: new \nAbstract: Cause-and-effect reasoning in video is a significant challenge for Vision-Language Models (VLMs), as it requires going beyond surface-level perception",
+      "date": "Tue, 26 May 2026 00:00:00 -0400",
+      "source": "arXiv - CV",
+      "category": "papers"
+    }
+  ],
+  "githubTrending": []
+}

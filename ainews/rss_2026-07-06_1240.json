@@ -1,0 +1,2928 @@
+[
+  {
+    "title": "🤗 Kernels: Major Updates",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "desc": "",
+    "date": "Mon, 06 Jul 2026 00:00:00 GMT",
+    "source": "Hugging Face Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "desc": "These may be the last days of Amazon’s Mechanical Turk.",
+    "date": "Sun, 05 Jul 2026 17:43:36 +0000",
+    "source": "TechCrunch - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "Why OpenAI and Anthropic may struggle to float",
+    "url": "https://www.ft.com/content/7bff5ad3-a7dc-4641-be97-7f383446ff75",
+    "desc": "The costs of remaining at the frontier of AI are punishing, but the penalties for falling behind may be even worse",
+    "date": "Mon, 06 Jul 2026 04:00:23 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "Son remakes SoftBank in his own image",
+    "url": "https://www.ft.com/content/a29a698c-3fb6-4e6f-ab02-1b7843786066",
+    "desc": "The veteran investor has put himself at the centre of the global AI boom. Some think he now has too much control",
+    "date": "Mon, 06 Jul 2026 04:00:13 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "London’s push for AI sovereignty",
+    "url": "https://www.ft.com/content/d55da957-60f5-4b9b-bd14-220ed173cc0e",
+    "desc": "The tech sector is buzzing in Britain. But can it ever be more than a US outpost?",
+    "date": "Mon, 06 Jul 2026 04:00:00 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "UK regulator warns of ‘arms race’ to keep up with AI use in financial services",
+    "url": "https://www.ft.com/content/7f501320-9037-410f-b8e7-3111b9041311",
+    "desc": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions",
+    "date": "Sun, 05 Jul 2026 21:00:06 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "2009年以降生まれには一生売らない——英「たばこ根絶」への賭け",
+    "url": "https://www.technologyreview.jp/s/385694/the-uks-generational-tobacco-ban-might-not-work-im-supporting-it-anyway/",
+    "desc": "2009年1月1日以降に生まれた人には、生涯たばこを売らない——。英国が可決した世代別販売禁止は、消費削減ではなく「根絶」を掲げるエンドゲーム政策だ。だが同様の法を2022年に定めたニュージーランドは施行前に廃止し、英国でも右派政党が撤回を約束する。前例なき賭けは根づくのか。",
+    "date": "Sun, 05 Jul 2026 21:55:21 +0000",
+    "source": "MIT Tech Review JP"
+  },
+  {
+    "title": "短期の冷却、長期の温暖化——カリフォルニア酪農補助金の致命的誤算",
+    "url": "https://www.technologyreview.jp/s/385606/why-californias-carbon-manure-math-doesnt-add-up/",
+    "desc": "牛の糞尿から出るメタンを燃料に変える——。カリフォルニア州が酪農家に手厚い補助金を出すこの制度は、大人気を博している。だが数十年で分解するメタンを削減する見返りに、数千年間大気に残る二酸化炭素の排出を許してしまう。短期の冷却と引き換えに、長期の温暖化を固定化していないか。",
+    "date": "Sun, 05 Jul 2026 21:33:37 +0000",
+    "source": "MIT Tech Review JP"
+  },
+  {
+    "title": "Shrimple – A Simpler, Nicer Markdown",
+    "url": "https://qount25.dev/Shrimple/",
+    "desc": "Article URL: https://qount25.dev/Shrimple/\nComments URL: https://news.ycombinator.com/item?id=48800026\nPoints: 4\n# Comments: 4",
+    "date": "Mon, 06 Jul 2026 02:24:15 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Building relationships with customers through support didn't turn out as hoped",
+    "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+    "desc": "Article URL: https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support\nComments URL: https://news.ycombinator.com/item?id=48799929\nPoints: 26\n# Comments: 13",
+    "date": "Mon, 06 Jul 2026 02:06:49 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "The Sneakerweb",
+    "url": "https://sneakerweb.org/",
+    "desc": "Article URL: https://sneakerweb.org/\nComments URL: https://news.ycombinator.com/item?id=48799781\nPoints: 30\n# Comments: 7",
+    "date": "Mon, 06 Jul 2026 01:35:09 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "GPT-5.6 Sol Ultra will be in Codex",
+    "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+    "desc": "Article URL: https://twitter.com/thsottiaux/status/2073933490513752151\nComments URL: https://news.ycombinator.com/item?id=48799614\nPoints: 143\n# Comments: 78",
+    "date": "Mon, 06 Jul 2026 01:04:03 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+    "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+    "desc": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt\nComments URL: https://news.ycombinator.com/item?id=48799256\nPoints: 121\n# Comments: 43",
+    "date": "Mon, 06 Jul 2026 00:04:48 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "The Private Capture of Public Genius",
+    "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
+    "desc": "Article URL: https://www.wysr.xyz/p/the-private-capture-of-public-genius\nComments URL: https://news.ycombinator.com/item?id=48799178\nPoints: 60\n# Comments: 17",
+    "date": "Sun, 05 Jul 2026 23:52:20 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Has_not_been_viewed_much",
+    "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+    "desc": "Article URL: https://iamwillwang.com/notes/has-not-been-viewed-much/\nComments URL: https://news.ycombinator.com/item?id=48799155\nPoints: 139\n# Comments: 38",
+    "date": "Sun, 05 Jul 2026 23:49:00 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Connections in Math: the two kinds of random",
+    "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+    "desc": "Article URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/\nComments URL: https://news.ycombinator.com/item?id=48799026\nPoints: 29\n# Comments: 20",
+    "date": "Sun, 05 Jul 2026 23:31:30 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Does Code Cleanliness Affect Coding Agents?",
+    "url": "https://arxiv.org/abs/2605.20049",
+    "desc": "Article URL: https://arxiv.org/abs/2605.20049\nComments URL: https://news.ycombinator.com/item?id=48798815\nPoints: 65\n# Comments: 25",
+    "date": "Sun, 05 Jul 2026 23:03:55 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "DNSGlobe – Rust TUI to watch DNS propagate around the world",
+    "url": "https://github.com/514-labs/dnsglobe",
+    "desc": "Article URL: https://github.com/514-labs/dnsglobe\nComments URL: https://news.ycombinator.com/item?id=48798313\nPoints: 33\n# Comments: 24",
+    "date": "Sun, 05 Jul 2026 21:55:53 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Composite Video on the NES: Why's it so wobbly?",
+    "url": "https://nicole.express/2026/phase-altering-by-line.html",
+    "desc": "Article URL: https://nicole.express/2026/phase-altering-by-line.html\nComments URL: https://news.ycombinator.com/item?id=48798247\nPoints: 65\n# Comments: 6",
+    "date": "Sun, 05 Jul 2026 21:45:17 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+    "url": "https://homegames.io",
+    "desc": "I'm making a platform for simple open source games you can play anywhere.Games are all just JavaScript classes and you can read the source of every game on the platform.I started working on initial \"g",
+    "date": "Sun, 05 Jul 2026 21:32:44 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Completing a computer science degree on Coursera",
+    "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
+    "desc": "Article URL: https://notesbylex.com/completing-a-computer-science-degree-on-coursera\nComments URL: https://news.ycombinator.com/item?id=48798061\nPoints: 139\n# Comments: 103",
+    "date": "Sun, 05 Jul 2026 21:20:49 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "OpenPrinter",
+    "url": "https://www.opentools.studio/",
+    "desc": "Article URL: https://www.opentools.studio/\nComments URL: https://news.ycombinator.com/item?id=48797916\nPoints: 557\n# Comments: 128",
+    "date": "Sun, 05 Jul 2026 21:03:06 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Dungeon Proof Crawler: learn how to write proofs with RPG",
+    "url": "https://dhilst.github.io/algae/game/index.html",
+    "desc": "Article URL: https://dhilst.github.io/algae/game/index.html\nComments URL: https://news.ycombinator.com/item?id=48797895\nPoints: 46\n# Comments: 13",
+    "date": "Sun, 05 Jul 2026 21:00:27 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Cursed circuits #5: capacitance multiplier",
+    "url": "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier",
+    "desc": "Article URL: https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier\nComments URL: https://news.ycombinator.com/item?id=48797467\nPoints: 71\n# Comments: 6",
+    "date": "Sun, 05 Jul 2026 20:00:30 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+    "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+    "desc": "Article URL: https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/\nComments URL: https://news.ycombinator.com/item?id=48797141\nP",
+    "date": "Sun, 05 Jul 2026 19:22:51 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "desc": "Article URL: https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf\nComments URL: https://news.ycombinator.com/item?id=48796817\nPoints: 143\n# Comments: 87",
+    "date": "Sun, 05 Jul 2026 18:47:43 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "You need a webring",
+    "url": "https://shub.club/writings/2026/july/you-need-a-webring/",
+    "desc": "Article URL: https://shub.club/writings/2026/july/you-need-a-webring/\nComments URL: https://news.ycombinator.com/item?id=48796792\nPoints: 71\n# Comments: 47",
+    "date": "Sun, 05 Jul 2026 18:46:07 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "The future of Flipper Zero development",
+    "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+    "desc": "Article URL: https://blog.flipper.net/future-of-flipper-zero-development/\nComments URL: https://news.ycombinator.com/item?id=48796552\nPoints: 258\n# Comments: 107",
+    "date": "Sun, 05 Jul 2026 18:22:00 +0000",
+    "source": "HN Best"
+  },
+  {
+    "title": "Zackriya-Solutions/meetily",
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "desc": "Use Codex from Claude Code to review code or delegate tasks.Codex plugin for Claude Code \nUse Codex from inside Claude Code for code reviews or to delegate tasks to Codex. \nThis plugin is for Claude C",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "asgeirtj/system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. ",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop   \nTaste Skill \n The Anti-Slop Frontend Framework for AI Agents  \n   \nSponsors \n \n \n   \n    \n   Emil Kowalski ",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "desc": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "rommapp/romm",
+    "url": "https://github.com/rommapp/romm",
+    "desc": "A beautiful, powerful, self-hosted rom manager and player. \n  \n  A beautiful, powerful, self-hosted ROM manager and player.  \n      \n  \nOverview \nRomM (ROM Manager) allows you to scan, enrich, browse ",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "desc": "agent multiplexer that lives in your terminal.herdr \n   \n herdr.dev · install · quick start · supported agents · docs · socket api · sponsor  \n     \n \nhttps://github.com/user-attachments/assets/043ec0",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.Page Agent \n \n  \n  \n \n     \nThe GUI Agent Living in Your Webpage. Control web interfaces with natural language. \n🌐 English | ",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "harvard-edge/cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "desc": "Machine Learning SystemsMachine Learning Systems \nPrinciples and Practices of Engineering Artificially Intelligent Systems \n English • 中文 • 日本語 • 한국어  \n \n  \n             \n  \n      \n  📘 Textbook • 📗 Vo",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.     \n \n Strix \n The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabiliti",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "hesreallyhim/awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable ",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "coreyhaines31/marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.Marketing Skills for AI Agents \nA collection of AI agent skills focused on marketing tasks. Bui",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman   \n why use many token when few do trick  \n Make your AI coding agent talk like a cavem",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "CoplayDev/unity-mcp",
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. \n  \n   \n   \n   \n \n English ",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "facebook/astryx",
+    "url": "https://github.com/facebook/astryx",
+    "desc": "An open source design system that's fully customizable and agent readyAstryx \nAn open source design system that's fully customizable and built for how we build now — by people and the agents working a",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "High performance self-hosted photo and video management solution.         \n   \nHigh performance self-hosted photo and video management solution \n \n   \n \n Català Español Français Italiano 日本語 한국어 Deuts",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.π RuView \n     \n     \nSee through walls w",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "gastownhall/gastown",
+    "url": "https://github.com/gastownhall/gastown",
+    "desc": "Gas Town - multi-agent workspace managerGas Town \nMulti-agent orchestration system for Claude Code, GitHub Copilot, and other AI agents with persistent work tracking \nOverview \nGas Town is a workspace",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "dotnet/skills",
+    "url": "https://github.com/dotnet/skills",
+    "desc": "Repository for skills to assist AI coding agents with .NET and C#.NET Agent Skills \n \nThis repository contains the .NET team's curated set of core skills and custom agents for coding agents. For infor",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "OthmanAdi/planning-with-files",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "desc": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "steipete/CodexBar",
+    "url": "https://github.com/steipete/CodexBar",
+    "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.CodexBar 🎚️ — May your tokens never run out. \n \n Every AI coding limit, in your menu bar. \n \n      \n \nTiny macOS 14+ menu bar",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "desc": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — e",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "rommapp/romm",
+    "url": "https://github.com/rommapp/romm",
+    "desc": "A beautiful, powerful, self-hosted rom manager and player. \n  \n  A beautiful, powerful, self-hosted ROM manager and player.  \n      \n  \nOverview \nRomM (ROM Manager) allows you to scan, enrich, browse ",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "harvard-edge/cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "desc": "Machine Learning SystemsMachine Learning Systems \nPrinciples and Practices of Engineering Artificially Intelligent Systems \n English • 中文 • 日本語 • 한국어  \n \n  \n             \n  \n      \n  📘 Textbook • 📗 Vo",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.     \n \n Strix \n The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabiliti",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "hesreallyhim/awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable ",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "OthmanAdi/planning-with-files",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "desc": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agen",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows ",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "cheahjs/free-llm-api-resources",
+    "url": "https://github.com/cheahjs/free-llm-api-resources",
+    "desc": "A list of free LLM inference resources accessible via API.Free LLM API resources \nThis lists various services that provide free access or credits towards API-based LLM usage. \n\n \n  \n   \n  Note\n Please",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework   \n \n  \n  \n  \n  \n  \n  \n \n \n  \n Deutsch | \n Español | \n français | \n 日本語 | \n 한국어 | \n Português | \n Русский | \n 中文 \n \n \nTradingAgents: Multi-A",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "bradautomates/claude-video",
+    "url": "https://github.com/bradautomates/claude-video",
+    "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude./watch \nGive Claude the ability to watch any video. \nClaude Code (recommended — auto-",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "google-antigravity/antigravity-sdk-python",
+    "url": "https://github.com/google-antigravity/antigravity-sdk-python",
+    "desc": "A Python library for building AI agents that leverage the full power of Google Antigravity.Google Antigravity SDK \nThe Google Antigravity SDK is a Python SDK for building AI agents powered by Antigrav",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "huggingface/speech-to-speech",
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "desc": "Build local voice agents with open-source models \n \n   \n  \n  \n Speech To Speech: Build voice agents with open-source models \n    \n \nA low-latency, fully modular voice-agent pipeline: VAD -> STT -> LLM",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "desc": "The simplest, fastest repository for training/finetuning medium-sized GPTs.nanoGPT \n \n \nUpdate Nov 2025 nanoGPT has a new and improved cousin called nanochat. It is very likely you meant to use/find n",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIsTry Public APIs for free \nThe Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of pub",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "ai-boost/awesome-harness-engineering",
+    "url": "https://github.com/ai-boost/awesome-harness-engineering",
+    "desc": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. \n  \n Awesome Harness Engineering \n Curated resources, patterns, and t",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud ",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "desc": "Robust Speech Recognition via Large-Scale Weak SupervisionWhisper \n[Blog] [Paper] [Model card] [Colab example] \nWhisper is a general-purpose speech recognition model. It is trained on a large dataset ",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary/last30days \n           \nAn AI agent-led search engine scored by up",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "GeeeekExplorer/nano-vllm",
+    "url": "https://github.com/GeeeekExplorer/nano-vllm",
+    "desc": "Nano vLLM   \n   \nNano-vLLM \nA lightweight vLLM implementation built from scratch. \nKey Features \n \n 🚀 Fast offline inference - Comparable inference speeds to vLLM \n 📖 Readable codebase - Clean impleme",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. \n ComfyUI \n The most powerful and modular AI engine for content creation. \n          \n  \n  \n  \n \nComfyU",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "If you’re a button, you have one job",
+    "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 03:24:06 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Rayfish - P2P VPN built on top of Iroh",
+    "url": "https://rayfish.xyz/blog/01-introducing-rayfish",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 13:39:26 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Work In Progress Rust",
+    "url": "https://blog.dureuill.net/articles/wip/",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 12:28:12 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Run Windows 2000 on a DEC Alpha with a new es40 fork",
+    "url": "https://raymii.org/s/blog/Run_Windows_2000_for_Dec_Alpha_on_a_new_es40_fork.html",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 08:47:33 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Embedding information in disorder",
+    "url": "https://thoughts.hmmz.org/2026-07-05.html",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 14:47:30 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "A Novel Look at Error Handling in Rust",
+    "url": "https://jtjlehi.github.io/2026/06/25/novel-rust-error-handling.html",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 19:17:01 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "ABI vs. API (2004)",
+    "url": "https://lists.debian.org/debian-user/2004/02/msg00648.html",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 05:00:49 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Installing A/UX 1.1 like it’s the 90s",
+    "url": "https://thomasw.dev/post/aux11/",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 14:08:21 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "How is Zig working out after 3 years and 100k lines of game code?",
+    "url": "https://www.youtube.com/watch?v=HXpUShkr2VQ",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 04:49:19 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "small details in my mastodon client that i wanted more people to notice",
+    "url": "https://w.on-t.work/outpost-frontend-details",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 02:05:45 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Version-controlled databases using Prolly trees",
+    "url": "https://lwn.net/Articles/1068864/",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 14:28:52 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Composite video on the NES: why's it so wobbly?",
+    "url": "https://nicole.express/2026/phase-altering-by-line.html",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 18:04:41 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "A Speed Limit for Computers",
+    "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 22:25:50 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Metastability in Recovery: Cascading Recovery with a Loop",
+    "url": "https://charap.co/metastability-in-recovery-cascading-recovery-with-a-loop/",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 22:21:38 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "The XMPP Newsletter June 2026",
+    "url": "https://xmpp.org/2026/07/the-xmpp-newsletter-june-2026/",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 23:39:57 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Is Starlink A Secret Radar Constellation?",
+    "url": "https://www.youtube.com/watch?v=jbp3kdJZ1_A",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 23:36:31 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Bench Press: Leaking Text Nodes with CSS",
+    "url": "https://blog.pspaul.de/posts/bench-press-leaking-text-nodes-with-css/",
+    "desc": "Comments",
+    "date": "Sun, 05 Jul 2026 13:40:08 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "What Is AI Native Development?",
+    "url": "https://brunelly.com/articles/what-is-ai-native-development",
+    "desc": "Article URL: https://brunelly.com/articles/what-is-ai-native-development\nComments URL: https://news.ycombinator.com/item?id=48800518\nPoints: 2\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 04:06:27 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Learn Faster with Your Personal AI Teacher",
+    "url": "https://aischoolbuilder.com/school/school-1786",
+    "desc": "Article URL: https://aischoolbuilder.com/school/school-1786\nComments URL: https://news.ycombinator.com/item?id=48800410\nPoints: 1\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 03:41:28 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "How AI Poisons Creativity [video]",
+    "url": "https://www.youtube.com/watch?v=WeCSzEtZcUw",
+    "desc": "Article URL: https://www.youtube.com/watch?v=WeCSzEtZcUw\nComments URL: https://news.ycombinator.com/item?id=48800326\nPoints: 3\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 03:25:24 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Cewsco – a multimodal AI assistant powered by Dravik",
+    "url": "https://cewsco.com/",
+    "desc": "Article URL: https://cewsco.com/\nComments URL: https://news.ycombinator.com/item?id=48800302\nPoints: 1\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 03:20:43 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Technical Report on the Pangram AI-Generated Text Classifier (2024)",
+    "url": "https://arxiv.org/abs/2402.14873",
+    "desc": "Article URL: https://arxiv.org/abs/2402.14873\nComments URL: https://news.ycombinator.com/item?id=48800043\nPoints: 1\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 02:27:50 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "People Who Will Thrive in the AI Age",
+    "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/",
+    "desc": "Article URL: https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/\nComments URL: https://news.ycombinator.com/item?id=48799974\nPoints: 7\n# Comments: 1",
+    "date": "Mon, 06 Jul 2026 02:14:24 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "AI Costs More Than the People It Replaced",
+    "url": "https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/",
+    "desc": "Article URL: https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/\nComments URL: https://news.ycombinator.com/item?id=48799841\nPoints: 3\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 01:50:14 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Midjourney: From AI slop to medical research [video]",
+    "url": "https://www.youtube.com/watch?v=4nzzpUKhj1M",
+    "desc": "Article URL: https://www.youtube.com/watch?v=4nzzpUKhj1M\nComments URL: https://news.ycombinator.com/item?id=48799667\nPoints: 1\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 01:13:21 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Show HN: AI Notebook for Data Science – Kind of Like Cursor but for Jupyter",
+    "url": "https://www.clusy.io",
+    "desc": "Article URL: https://www.clusy.io\nComments URL: https://news.ycombinator.com/item?id=48799415\nPoints: 1\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 00:30:22 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "LLM Big Bang: I gave AI agents a social network. One is running for president",
+    "url": "https://noozra.com/articles/the-llm-big-bang",
+    "desc": "Article URL: https://noozra.com/articles/the-llm-big-bang\nComments URL: https://news.ycombinator.com/item?id=48799386\nPoints: 2\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 00:25:37 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+    "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+    "desc": "Article URL: https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt\nComments URL: https://news.ycombinator.com/item?id=48799256\nPoints: 122\n# Comments: 45",
+    "date": "Mon, 06 Jul 2026 00:04:48 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Show HN: AI-related Jax module (I hate if)",
+    "url": "https://github.com/PJHkorea/egregore-core-jax",
+    "desc": "Article URL: https://github.com/PJHkorea/egregore-core-jax\nComments URL: https://news.ycombinator.com/item?id=48799235\nPoints: 3\n# Comments: 5",
+    "date": "Mon, 06 Jul 2026 00:01:26 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "We're All Managers Now: My Journey into AI-Assisted Development",
+    "url": "https://mattmccormick.ca/we-re-all-managers-now-my-journey-into-ai-assisted-development/",
+    "desc": "Article URL: https://mattmccormick.ca/we-re-all-managers-now-my-journey-into-ai-assisted-development/\nComments URL: https://news.ycombinator.com/item?id=48799212\nPoints: 6\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 23:57:12 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Show HN: AI integrated in any terminal that's invisible until you need it",
+    "url": "https://terminai.app",
+    "desc": "I built an open source terminal app that transparently wraps your shell so you can have access to AI whenever you need it, while it stays completely out of your way the rest of the time.Bring your own",
+    "date": "Sun, 05 Jul 2026 23:46:24 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Is it true about the Terms of Service of AI's?",
+    "url": "https://news.ycombinator.com/item?id=48798971",
+    "desc": "A respected engineer has informed me that the terms of service of most if not all AI outfits mandate that anything you submit becomes their property, and he said that already he knows of 2 instances o",
+    "date": "Sun, 05 Jul 2026 23:23:43 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "AI 2027",
+    "url": "https://ai-2027.com/?agi=true",
+    "desc": "Article URL: https://ai-2027.com/?agi=true\nComments URL: https://news.ycombinator.com/item?id=48798738\nPoints: 2\n# Comments: 2",
+    "date": "Sun, 05 Jul 2026 22:52:45 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "The AI Compass Quiz",
+    "url": "https://bambamramfan.github.io/ai-compass/",
+    "desc": "Article URL: https://bambamramfan.github.io/ai-compass/\nComments URL: https://news.ycombinator.com/item?id=48798605\nPoints: 27\n# Comments: 10",
+    "date": "Sun, 05 Jul 2026 22:36:44 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Context graphs: how AI agents can store and use past decisions",
+    "url": "https://nanonets.com/blog/what-is-a-context-graph/",
+    "desc": "Article URL: https://nanonets.com/blog/what-is-a-context-graph/\nComments URL: https://news.ycombinator.com/item?id=48798442\nPoints: 9\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 22:16:31 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Tell HN: don't trust Bigco AI agents with AI research IP",
+    "url": "https://news.ycombinator.com/item?id=48798385",
+    "desc": "I am very paranoid about sharing potential AI research with e.g. Claude [Code] or ChatGPT/Codex.I believe that any company is essentially a paperclip optimizer that will do whatever it takes to win ov",
+    "date": "Sun, 05 Jul 2026 22:08:30 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
+    "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
+    "desc": "Article URL: https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/\nComments URL: https://news.ycombinator.com",
+    "date": "Sun, 05 Jul 2026 21:58:20 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "招聘遇到工作经历完全造假的 211",
+    "url": "https://www.v2ex.com/t/1225204",
+    "desc": "hoky: 上次分享了招聘了一个 [完全不会手写代码的程序员]( https://www.v2ex.com/t/1203210#reply150)这次遇到一个简历全面造假的程序员。我与他线上面试的时候，他说话语速极快，我们这个岗位没有涉及 Yolo 视觉识别训练，但是我刚好做过此类项目，就与他简单沟通了一下，发现对这块有基础的认识。后面聊到意图识别，因为他涉及的业务都是单意图的，所以没有涉及也就没",
+    "date": "Mon, 06 Jul 2026 02:20:35 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "我自己也经常看演唱会呀，为什么 v 友对女生看演唱会那么大的仇意？",
+    "url": "https://www.v2ex.com/t/1225167",
+    "desc": "052678: 我的情况其实和以下帖子中的女孩差不多，请假也要去，票我都是尽量买最前排的，只抢到最后几排的我反而不想去了。不仅爱看演唱会，还爱去水上乐园、欢乐谷等地方看小姐姐跳舞，偶尔还会看几场脱口秀。虽然确实花钱，但是我很快乐呀。但是看大部分 v 友的感觉，好像这个东西是非常不可理喻的。至于说用这个钱孝顺父母的，我觉得大可不必，他们确实不爱去演唱会，但喜欢去旅游。去北京，爱唱红歌，天天放。\n附下",
+    "date": "Mon, 06 Jul 2026 01:10:34 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "“万 1 免 5”股票 ETF 大笑脸低佣开户，抽键盘迈从 Ace 68 V2；鼠标迈从 A7 V3 PRO+。 [7.6 日~7.13 日]",
+    "url": "https://www.v2ex.com/t/1225158",
+    "desc": "daxiaolian: 这周抽鼠标迈从 A7 V3 PRO+，键盘迈从 Ace 68 V2 大笑脸开户，最近新增了很多新的低门槛免 5 券商，股票，etf 全网超低费率，欢迎来开！开户和推荐朋友都有红包！⚠️回帖即可参与！⚠️大笑脸低佣开户推荐：GF 证券：ETF 万 0.5 免 5 [etf 费率最低，适合 etf ，打新，纳指，宽基，LOF 套利 ，逆回购 1 折，新手必备]YH 证券：ETF",
+    "date": "Mon, 06 Jul 2026 00:28:20 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "琥珀香氛新品来了，盖楼送新品🎁",
+    "url": "https://www.v2ex.com/t/1225157",
+    "desc": "xiaocongcong1: 新品上线，本周盖楼，每 20 楼送一个新品。\n就长话短说吧，应该很多人跟我一样，因为之前被中转站给轰炸屏蔽了推广节点，所以也不期待帖子大热。\n这次筹备了很久的新品终于上架了。在筹备之初，我们挑选了很多不同的容器款式和测试使用效果。有些外观比较出众，但是因为比较小众，采购成本比较高，所以脱离了我们平价的定位。有些则是外观稍优于目前这一款，但是扩香能力明显弱于现在这个新品",
+    "date": "Mon, 06 Jul 2026 00:19:40 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "[从零到一] 一个小尝试，在小红书赚到 3000 元，实战分享",
+    "url": "https://www.v2ex.com/t/1225149",
+    "desc": "coala: 前置技能树\n先点了 3D 打印技能，能简单操作和理解原理。\n术\n电商通用入门法则 找新鲜的对标 -> 预售 ->  复制 ->  预期切 10% 的盘子 ->  然后很快迎接死亡。\n对标\n5 月 15 日， 发现一款 3D 打印好物， 鸡蛋托冰箱贴， 销量 4000 左右， 出现时间大约 1 个半月，个人作品，个人制造，发不出来货，预售模式。\n执行\n\n5 月 20 日，准备好了账号，",
+    "date": "Sun, 05 Jul 2026 19:17:49 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "问界 m6 现金优惠能有多少？",
+    "url": "https://www.v2ex.com/t/1225135",
+    "desc": "different: m6 24.98 万那一款，目前聊到现金优惠最多 8-10k 封顶了。\n是我没有找到更便宜的了吗？还是封顶了？\n目前更倾向使用智驾，特斯拉的买断费用太贵了。其他的智驾我好像又感觉有点风险（不知道是不是我先入为主，各种媒体什么的都催遥遥领先第一梯队），因此我试驾其实也只试驾了智界 r7 跟问界 m6 ，这个价位是否还有更合适的推荐（更倾向于落地 25 万以内）？",
+    "date": "Sun, 05 Jul 2026 15:24:36 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "Claude 被封了也不要去用 codex",
+    "url": "https://www.v2ex.com/t/1225093",
+    "desc": "hengxiangbianhua: \n额度变少了\n上下文压缩超时的问题依然没有解决\n上下文太短\n",
+    "date": "Sun, 05 Jul 2026 10:05:16 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "一线城市合租快窒息了，各位佬是不是也需要独立空间？",
+    "url": "https://www.v2ex.com/t/1225071",
+    "desc": "lvmeishuang: 在一线城市，和别人合租一个小单间。住了半个月，我发现整个人是绷着的——转身都撞到，对方干什么我都看得到，完全没有属于自己的时刻。本来是我租的房间，后面朋友面试是需要来这个城市线下面的，我让他免费住的，后面面试通过，我主动提出可以合租。然后后面我跟朋友提出想自己住，愿意免这半个月房租作为补偿。结果对方很生气，说“如果不是你我可能不会来这个城市”，还要求我把共同买的厨具折现给",
+    "date": "Sun, 05 Jul 2026 07:30:59 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "[新用户送 10 刀] 超低价 Codex API，最低每刀不到 0.05R，纯血 gpt plus 号池反代，可用 gpt5.5， gpt5.4, gpt-image2，稳定好用",
+    "url": "https://www.v2ex.com/t/1225059",
+    "desc": "runcode: 卡网： https://pay.ldxp.cn/shop/O1Q7PYYC\n中转站： https://app.runcode.win\n下方留言注册邮箱，送 10 刀",
+    "date": "Sun, 05 Jul 2026 05:52:24 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "车祸中窥探中国医院的专科细分。",
+    "url": "https://www.v2ex.com/t/1225056",
+    "desc": "ota: 最近遇到车祸了，还挺严重。\n本身有 tarlov 囊肿，但 90%的病患是无症状伴随。我老婆也一样。\n车祸后，骶骨骨折，囊肿内出血膨胀压迫神经，也有可能骨折外伤导致神经部分断裂。\n简言之：大小便功能障碍+尾巴骨麻木。\n我这几天，跑了 4 家医院，陆陆续续 13 个医生。\n非病急乱投医，因为这个情况不光要骨科，泌尿科，还得神经外科综合会诊。\n其中发现，医生的意见几乎各不相同。\n神外：有说保",
+    "date": "Sun, 05 Jul 2026 05:22:44 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.     \n \n Strix \n The open-source AI pentesting tool. Autonomous AI hackers that find and fix your app’s vulnerabiliti",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "xbtlin/ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "diegosouzapw/OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95%",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "simplex-chat/simplex-chat",
+    "url": "https://github.com/simplex-chat/simplex-chat",
+    "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!     \n| 30/03/2023 | EN, FR, CZ, PL | \n \nInvest in Simple",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data \n  \n LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction \n Robbyant Team \n \n \n       \n \nhttps://",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "desc": "agent multiplexer that lives in your terminal.herdr \n   \n herdr.dev · install · quick start · supported agents · docs · socket api · sponsor  \n     \n \nhttps://github.com/user-attachments/assets/043ec0",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "desc": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.  \n   \n    \n    \n    \n     \n       \nLogto \nLogto is the modern, ",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "Zackriya-Solutions/meetily",
+    "url": "https://github.com/Zackriya-Solutions/meetily",
+    "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "desc": "Edit videos with coding agents   \nvideo-use \nIntroducing video-use — edit videos with Claude Code. 100% open source. \nDrop raw footage in a folder, chat with Claude Code, get final.mp4 back. Works for",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.Page Agent \n \n  \n  \n \n     \nThe GUI Agent Living in Your Webpage. Control web interfaces with natural language. \n🌐 English | ",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "Starmel/OpenSuperWhisper",
+    "url": "https://github.com/Starmel/OpenSuperWhisper",
+    "desc": "macOS dictation appOpenSuperWhisper \nOpenSuperWhisper is a macOS application that provides real-time audio transcription using the Whisper model. It offers a seamless way to record and transcribe audi",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "apache/maven",
+    "url": "https://github.com/apache/maven",
+    "desc": "Apache Maven coreApache Maven \n  \n \n  master = 4.1.x    \n  4.0.x:     \n  3.10.x:    \n  3.9.x:     \n \nApache Maven is a software project management and comprehension tool. Based on the concept of a pro",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "desc": "Use Codex from Claude Code to review code or delegate tasks.Codex plugin for Claude Code \nUse Codex from inside Claude Code for code reviews or to delegate tasks to Codex. \nThis plugin is for Claude C",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "DeusData/codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.  Orca  \n        \n Español · Português · 中文 · 日本語 · 한국어  \n",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.   \nOpenMontage \nThe first open",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "JCodesMore/ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "desc": "Clone any website with one command using AI coding agentsAI Website Cloner Template \n   \nA reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding a",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-fr",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "allenai/olmocr",
+    "url": "https://github.com/allenai/olmocr",
+    "desc": "Toolkit for linearizing PDFs for LLM datasets/training \n  \n  \n \n                    \nA toolkit for converting PDFs and other image-based document formats into clean, readable, plain text format. \nTry ",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. \n    \n  \n Cognee - The Open-Source A",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "Training Gemma-3 for Structured Mathematical Reasoning with Tunix GRPO, LoRA Adapters, and GSM8K Rewards",
+    "url": "https://www.marktechpost.com/2026/07/05/training-gemma-3-for-structured-mathematical-reasoning-with-tunix-grpo-lora-adapters-and-gsm8k-rewards/",
+    "desc": "We build an end-to-end GRPO training workflow that teaches Gemma-3 to reason through GSM8K math problems. We prepare the environment, authenticate with Hugging Face, load Gemma-3, and wrap examples in",
+    "date": "Mon, 06 Jul 2026 04:26:58 +0000",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "Meituan Releases LongCat-2.0: A 1.6T-Parameter Open MoE Model with Native 1M Context and LongCat Sparse Attention",
+    "url": "https://www.marktechpost.com/2026/07/05/meituan-releases-longcat-2-0-a-1-6t-parameter-open-moe-model-with-native-1m-context-and-longcat-sparse-attention/",
+    "desc": "Meituan has released LongCat-2.0, a 1.6 trillion-parameter Mixture-of-Experts model that activates about 48 billion parameters per token. It pairs a native 1-million-token context, built on LongCat Sp",
+    "date": "Sun, 05 Jul 2026 21:25:10 +0000",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "LlamaIndex ‘legal-kb’: Agentic Retrieval over Index v2 with retrieve, find, read, and grep Tools",
+    "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools/",
+    "desc": "LlamaIndex’s legal-kb is a public reference app that gives agents filesystem-style access to a document knowledge base on Index v2. It exposes retrieve (hybrid semantic search), find, read, and grep a",
+    "date": "Sun, 05 Jul 2026 07:50:19 +0000",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "自动给文章术语加百科链接，这个方案一分钟搞定",
+    "url": "https://sspai.com/post/111702",
+    "desc": "我给博客做了一个「术语小助手」，让陌生名词不再打断阅读。查看全文",
+    "date": "Mon, 06 Jul 2026 11:30:41 +0800",
+    "source": "少数派"
+  },
+  {
+    "title": "派早报：阿里禁用 Claude 模型",
+    "url": "https://sspai.com/post/111973",
+    "desc": "阿里禁用 Claude 模型索尼调整计划，2028 年前发售游戏可继续生产光盘千问、豆包将下线智能体功能Android 反垄断案欧洲终审败诉 混动车、商用纯电车将不再免征车船税电商法修正案征求意见看看就行的小道消息少数派的近期动态你可能错过的好文章查看全文",
+    "date": "Mon, 06 Jul 2026 07:40:25 +0800",
+    "source": "少数派"
+  },
+  {
+    "title": "背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」",
+    "url": "https://sspai.com/post/111632",
+    "desc": "每个单词都认识，为什么还是读不懂英文？查看全文",
+    "date": "Sun, 05 Jul 2026 17:08:05 +0800",
+    "source": "少数派"
+  },
+  {
+    "title": "Windows平台安全与保护AI智能体的竞赛",
+    "url": "https://www.infoq.cn/article/LT7lx2Qe5KkS9QCVSXCQ?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Mon, 06 Jul 2026 11:21:00 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "73% PR 由AI生成！Claude Code之父对话Spotify：2900名工程师每天部署4500次，坐地铁都能提交代码",
+    "url": "https://www.infoq.cn/article/e6J4FbXQj28CiziktLuS?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Mon, 06 Jul 2026 10:27:32 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "豆包、千问关停智能体功能；曝腾讯研发token额度1400元/月起步，有人过万；美团限豆包、阿里禁Claude Code｜AI周报",
+    "url": "https://www.infoq.cn/article/rs0HJTRdN6Pl88LIFh1a?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Mon, 06 Jul 2026 10:22:58 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+    "url": "https://www.infoq.cn/article/jpGdhU4YBXiXOloMEb2I?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Mon, 06 Jul 2026 10:19:26 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "数亿元融资落地！光象科技自研物理原生基座模型，跳出 VLA 与世界模型路线",
+    "url": "https://www.infoq.cn/article/m4QJlWAyRq7Fp4yQImp9?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Mon, 06 Jul 2026 10:06:52 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "Azure Functions在Build 2026发布Serverless智能体运行时",
+    "url": "https://www.infoq.cn/article/kGHZu2K5V8IrwYvo6Cm3?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Mon, 06 Jul 2026 09:19:08 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "Assemble Each RAG Generation Prompt from a Base Prompt Plus the Rules Each Question Needs",
+    "url": "https://towardsdatascience.com/assemble-each-rag-generation-prompt-from-a-base-prompt-plus-the-rules-each-question-needs/",
+    "desc": "Enterprise Document Intelligence [Vol.1 #8B] - A fixed BASE, the rules each question needs, one registry: the dispatcher that turns a parsed question into a typed LLM call\nThe post Assemble Each RAG G",
+    "date": "Sun, 05 Jul 2026 15:00:00 +0000",
+    "source": "Towards Data Science"
+  },
+  {
+    "title": "PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up",
+    "url": "https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/",
+    "desc": "Understanding how PANet shortens the path between low-level and high-level features\nThe post PANet Paper Walkthrough: When Feature Pyramids Go Bottom-Up appeared first on Towards Data Science.",
+    "date": "Sun, 05 Jul 2026 13:00:00 +0000",
+    "source": "Towards Data Science"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "OpenSquilla发布0.5.0 Preview：多模型集成登顶DRACO双榜，对比名单中出现最新旗舰Fable 5",
+    "url": "https://www.qbitai.com/2026/07/443559.html",
+    "desc": "少烧钱、真交付",
+    "date": "Mon, 06 Jul 2026 04:14:08 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "征程赶超｜WAIC 2026世界模型激辩：答案不在VLA或世界模型，而在？",
+    "url": "https://www.qbitai.com/2026/07/443522.html",
+    "desc": "",
+    "date": "Mon, 06 Jul 2026 01:54:37 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "征程赶超｜WAIC 2026模型与智能体：后Scaling时代范式重构，迈入智能体生产力时代",
+    "url": "https://www.qbitai.com/2026/07/443399.html",
+    "desc": "",
+    "date": "Mon, 06 Jul 2026 01:45:55 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
+    "url": "https://www.qbitai.com/2026/07/443339.html",
+    "desc": "正考虑推出Meta Compute",
+    "date": "Sun, 05 Jul 2026 14:30:31 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "华为更新韬定律论文！",
+    "url": "https://www.qbitai.com/2026/07/443186.html",
+    "desc": "放弃的路线也说清楚了",
+    "date": "Sun, 05 Jul 2026 13:38:45 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+    "url": "https://www.qbitai.com/2026/07/443066.html",
+    "desc": "一段视频，生成无限训练场景",
+    "date": "Sun, 05 Jul 2026 06:59:11 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "刚刚，LeCun团队让世界模型学会持续学习！",
+    "url": "https://www.qbitai.com/2026/07/442964.html",
+    "desc": "迈向持续学习的世界模型",
+    "date": "Sun, 05 Jul 2026 06:52:17 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "Underspecification Does Not Imply Incoherence in LLM Code Generation",
+    "url": "https://arxiv.org/abs/2607.01953",
+    "desc": "Article URL: https://arxiv.org/abs/2607.01953\nComments URL: https://news.ycombinator.com/item?id=48800505\nPoints: 1\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 04:03:39 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Show HN: An unmetered LLM API–$6/month, no token tracking, no limits",
+    "url": "https://yolo-auto.com/",
+    "desc": "Hi HN,I was once given the advice: Don't waste expensive frontier model credits (GPT/Claude/etc.) on bulk work. Send the boring, repetitive, high-volume jobs to a smaller model, and save the expensive",
+    "date": "Mon, 06 Jul 2026 01:22:10 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "LLM Big Bang: I gave AI agents a social network. One is running for president",
+    "url": "https://noozra.com/articles/the-llm-big-bang",
+    "desc": "Article URL: https://noozra.com/articles/the-llm-big-bang\nComments URL: https://news.ycombinator.com/item?id=48799386\nPoints: 2\n# Comments: 0",
+    "date": "Mon, 06 Jul 2026 00:25:37 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "AKM-CLR – pre-inference governance for vLLM-style LLM serving",
+    "url": "https://github.com/irenee28/akm-clr-governance-layer",
+    "desc": "Article URL: https://github.com/irenee28/akm-clr-governance-layer\nComments URL: https://news.ycombinator.com/item?id=48798328\nPoints: 2\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 21:58:11 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Show HN: Sidenote – comment on your rendered blog, an LLM writes the Git diff",
+    "url": "https://github.com/bharadwaj-pendyala/sidenote",
+    "desc": "Article URL: https://github.com/bharadwaj-pendyala/sidenote\nComments URL: https://news.ycombinator.com/item?id=48797739\nPoints: 9\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 20:39:11 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Fugu – A multi-agent LLM orchestrator delivered as a single API",
+    "url": "https://github.com/SakanaAI/fugu",
+    "desc": "Article URL: https://github.com/SakanaAI/fugu\nComments URL: https://news.ycombinator.com/item?id=48797562\nPoints: 5\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 20:13:11 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Show HN: Goldseam – heal broken Cypress selectors with a local LLM",
+    "url": "https://github.com/adam-s/goldseam",
+    "desc": "Article URL: https://github.com/adam-s/goldseam\nComments URL: https://news.ycombinator.com/item?id=48796042\nPoints: 2\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 17:27:15 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Show HN: microide, a 100% vibecoded IDE that LLM agents can drive",
+    "url": "https://pablojimenezmateo.github.io/microide/",
+    "desc": "I want to be very upfront: this IDE's code is 100% generated by LLMs supervised by me, I am not hiding this fact. This submission was written by a human.microide's focus is performance and privacy, I ",
+    "date": "Sun, 05 Jul 2026 14:49:19 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Show HN: UATC-Closed-loop VRAM control and dynamic data pruning for LLM training",
+    "url": "https://github.com/sajjaddoda72-design/UATC",
+    "desc": "Article URL: https://github.com/sajjaddoda72-design/UATC\nComments URL: https://news.ycombinator.com/item?id=48794152\nPoints: 2\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 13:24:38 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Show HN: Gubbi – Minimalist LLM Chatbot",
+    "url": "https://github.com/prahladyeri/gubbi",
+    "desc": "Article URL: https://github.com/prahladyeri/gubbi\nComments URL: https://news.ycombinator.com/item?id=48793557\nPoints: 3\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 12:08:20 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "A Postmortem of an LLM Social Network",
+    "url": "https://armx64.medium.com/emergence-without-understanding-a-postmortem-of-an-llm-social-network-96c855f49287",
+    "desc": "Article URL: https://armx64.medium.com/emergence-without-understanding-a-postmortem-of-an-llm-social-network-96c855f49287\nComments URL: https://news.ycombinator.com/item?id=48792307\nPoints: 2\n# Commen",
+    "date": "Sun, 05 Jul 2026 08:23:24 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Fidx – local semantic search in one SQLite file, no LLM at query",
+    "url": "https://github.com/williamliu-ai/fidx",
+    "desc": "Article URL: https://github.com/williamliu-ai/fidx\nComments URL: https://news.ycombinator.com/item?id=48791740\nPoints: 1\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 06:27:15 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "LLM's as a Different Kind of Intelligence",
+    "url": "https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/",
+    "desc": "Article URL: https://handmadeoasis.com/llms-as-a-different-kind-of-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48791650\nPoints: 8\n# Comments: 0",
+    "date": "Sun, 05 Jul 2026 06:07:35 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "I built a weather station that runs machine learning to forecast weather",
+    "url": "https://github.com/Dominic-Muscatella/weather-station-alpha/tree/master",
+    "desc": "Article URL: https://github.com/Dominic-Muscatella/weather-station-alpha/tree/master\nComments URL: https://news.ycombinator.com/item?id=48796441\nPoints: 4\n# Comments: 1",
+    "date": "Sun, 05 Jul 2026 18:11:04 +0000",
+    "source": "Hacker News - Machine Learning"
+  },
+  {
+    "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
+    "url": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
+    "desc": "\n        A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes. ",
+    "date": "Sun, 05 Jul 2026 15:58:56 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
+    "url": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
+    "desc": "\n        Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many ",
+    "date": "Sun, 05 Jul 2026 15:25:07 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
+    "url": "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/",
+    "desc": "\n        Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuiti",
+    "date": "Sun, 05 Jul 2026 10:45:46 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
+    "url": "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
+    "desc": "\n        Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their",
+    "date": "Sun, 05 Jul 2026 10:22:06 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
+    "url": "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
+    "desc": "\n        Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist ag",
+    "date": "Sun, 05 Jul 2026 09:02:36 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
+    "url": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
+    "desc": "\n        AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark calle",
+    "date": "Sun, 05 Jul 2026 07:52:17 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "RT by @ylecun: Trump not only seeks vengeance against his enemies but also fleeces his own supporters.",
+    "url": "https://nitter.net/NickKristof/status/2073764468514058749#m",
+    "desc": "Trump not only seeks vengeance against his enemies but also fleeces his own supporters.\n\n\nJonathan Lemire (@JonLemire)\n\nNearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin nyt",
+    "date": "Sun, 05 Jul 2026 13:42:32 GMT",
+    "source": "Yann LeCun (Twitter)"
+  },
+  {
+    "title": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+    "url": "https://nitter.net/sama/status/2073791666553844074#m",
+    "desc": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+    "date": "Sun, 05 Jul 2026 15:30:37 GMT",
+    "source": "Sam Altman (Twitter)"
+  },
+  {
+    "title": "R to @sama: they really nailed it with \"life, liberty, and the pursuit of happiness\"",
+    "url": "https://nitter.net/sama/status/2073636003215249515#m",
+    "desc": "they really nailed it with \"life, liberty, and the pursuit of happiness\"",
+    "date": "Sun, 05 Jul 2026 05:12:04 GMT",
+    "source": "Sam Altman (Twitter)"
+  },
+  {
+    "title": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250. most impressive social experiment in history.",
+    "url": "https://nitter.net/sama/status/2073635910512726444#m",
+    "desc": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.\n\nmost impressive social experiment in",
+    "date": "Sun, 05 Jul 2026 05:11:42 GMT",
+    "source": "Sam Altman (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: new favorite episode of Max Agency with @bentannyhill and @hwchase17 ! They sit down to talk about how we built Engine, our agent for agent engineering, at @LangChain. So much to love about this episode - spans everything from the who builds agents, how we did it, and tools we used to get it done. if you can't tell, I've never been more excited about a product at LangChain! listen here 👇 https://www.youtube.com/watch?si=wp2AKnhbVnFSCzb8&v=YqjR4vQwbTc&feature=youtu.be https://podcasts.apple.com/nz/podcast/the-best-ai-agents-are-secretly-teams-ben-tannyhill/id1891551672?i=1000775182821",
+    "url": "https://nitter.net/j_schottenstein/status/2073945601683996982#m",
+    "desc": "new favorite episode of Max Agency with @bentannyhill  and @hwchase17 ! They sit down to talk about how we built Engine, our agent for agent engineering, at @LangChain. \n\nSo much to love about this ep",
+    "date": "Mon, 06 Jul 2026 01:42:18 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: Yes using deep agents and okf both for my wiki. https://github.com/varunyn/wiki-langGraph",
+    "url": "https://nitter.net/varun1_yadav/status/2073834715526664563#m",
+    "desc": "Yes using deep agents and okf both for my wiki. github.com/varunyn/wiki-lang…\n\nLink\n\n\n\nGitHub - varunyn/wiki-langGraph: LangGraph pipeline that ingests raw markdown, compiles an Obsidi...\n\nLangGraph p",
+    "date": "Sun, 05 Jul 2026 18:21:40 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: If you want to keep up with the industry, just follow what the Langchain team are doing it is all open source I’ve been following them since Langgraph multi agent collaboration, to deepagents with sandbox and filesystem, until now Oh how fast the scene are evolving it’s crazy",
+    "url": "https://nitter.net/farhanhelmycode/status/2073807015252775276#m",
+    "desc": "If you want to keep up with the industry, just follow what the Langchain team are doing it is all open source\n\nI’ve been following them since Langgraph multi agent collaboration, to deepagents with sa",
+    "date": "Sun, 05 Jul 2026 16:31:36 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "anyone looked into or using Open Knowledge Format (https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) for their wikis?",
+    "url": "https://nitter.net/hwchase17/status/2073805140738609176#m",
+    "desc": "anyone looked into or using Open Knowledge Format (github.com/GoogleCloudPlatfo…) for their wikis?\n\nLink\n\n\n\nknowledge-catalog/okf/SPEC.md at main · GoogleCloudPlatform/knowledge-catalog\n\nGoogle Cloud ",
+    "date": "Sun, 05 Jul 2026 16:24:09 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: As you are hiring AI people, look for folks who have kept up with the trajectory of the industry, especially OSS. Someone who has their ear to the ground. Things are moving FAST.",
+    "url": "https://nitter.net/AdibChristian/status/2073797230784340242#m",
+    "desc": "As you are hiring AI people, look for folks who have kept up with the trajectory of the industry, especially OSS. Someone who has their ear to the ground. Things are moving FAST.\n\n\nHarrison Chase (@hw",
+    "date": "Sun, 05 Jul 2026 15:52:43 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "(deepagents existed ~10 months before EVE, but...) yes - the agent industry has shifted from: ~agent frameworks~ (langchain, ai sdk, llama index) to ~agent harnesses~ (deepagents, claude agent SDK, EVE)",
+    "url": "https://nitter.net/hwchase17/status/2073793142739132625#m",
+    "desc": "(deepagents existed ~10 months before EVE, but...)\n\nyes - the agent industry has shifted from:\n\n~agent frameworks~ (langchain, ai sdk, llama index)\n\nto\n\n~agent harnesses~ (deepagents, claude agent SDK",
+    "date": "Sun, 05 Jul 2026 15:36:29 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "Interesting.",
+    "url": "https://nitter.net/pmarca/status/2073935045098893638#m",
+    "desc": "Interesting.\n\n\nJosh Zoffer (@joshzoff)\n\nI’m in @FT today making a simple argument: data centers are creating market-driven demand for American-made industrial tech. This is the kind of industrial rena",
+    "date": "Mon, 06 Jul 2026 01:00:21 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "RT by @pmarca: I’m in @FT today making a simple argument: data centers are creating market-driven demand for American-made industrial tech. This is the kind of industrial renaissance Ds and Rs say they want, but politics are pushing hard the other way. /1 https://giftarticle.ft.com/giftarticle/actions/redeem/e8720037-862f-423a-8fa7-24db5fa1eaaf",
+    "url": "https://nitter.net/joshzoff/status/2073799941433053532#m",
+    "desc": "I’m in @FT today making a simple argument: data centers are creating market-driven demand for American-made industrial tech. This is the kind of industrial renaissance Ds and Rs say they want, but pol",
+    "date": "Sun, 05 Jul 2026 16:03:30 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Wow.",
+    "url": "https://nitter.net/pmarca/status/2073666849133470127#m",
+    "desc": "Wow.\n\nVideo\n  \n",
+    "date": "Sun, 05 Jul 2026 07:14:38 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Image",
+    "url": "https://nitter.net/pmarca/status/2073662025407091022#m",
+    "desc": "\n\n\n\nTroy – Invader from Zim (@Lusavitch)\n\nHappy 250th birthday to the Aerospace Republic!\n\n\n\n\n\n— https://nitter.net/Lusavitch/status/2073402647747477883#m\n\n",
+    "date": "Sun, 05 Jul 2026 06:55:28 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Image",
+    "url": "https://nitter.net/pmarca/status/2073639076184617406#m",
+    "desc": "\n\n\n\nstephanie wakefield (@stephwakefield_)\n\n\n\n\n\n\n— https://nitter.net/stephwakefield_/status/2073476853264748737#m\n\n",
+    "date": "Sun, 05 Jul 2026 05:24:16 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Futurist America.",
+    "url": "https://nitter.net/pmarca/status/2073636530095325447#m",
+    "desc": "Futurist America.\n\n\nBronze Age Pervert (@bronzeagemantis)\n\nHappy birthday to a Futurist America 😸\n\n\n\n— https://nitter.net/bronzeagemantis/status/2073492478871642487#m\n\n",
+    "date": "Sun, 05 Jul 2026 05:14:09 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Image",
+    "url": "https://nitter.net/pmarca/status/2073634667983704472#m",
+    "desc": "\n\n\n\nMax Hodak (@maxhodak_)\n\nwe're taking this flag to the stars\n\n\n\n\n\n— https://nitter.net/maxhodak_/status/2073468479588770191#m\n\n",
+    "date": "Sun, 05 Jul 2026 05:06:45 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Image",
+    "url": "https://nitter.net/pmarca/status/2073633791298711923#m",
+    "desc": "\n\n\n\nNASA Administrator Jared Isaacman (@NASAAdmin)\n\nHappy 250th birthday America! As a nation, we have so much history to celebrate, and at @NASA, we are just getting started. God bless the USA 🇺🇸\n\n\n\n",
+    "date": "Sun, 05 Jul 2026 05:03:16 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "We start from scratch and beat you.",
+    "url": "https://nitter.net/pmarca/status/2073631761884754352#m",
+    "desc": "We start from scratch and beat you.\n\n\nrinko (@mrinko)\n\nlee kuan yew on american culture\n\n\n\n\n\n— https://nitter.net/mrinko/status/2073464838433710474#m\n\n",
+    "date": "Sun, 05 Jul 2026 04:55:12 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Looks legit.",
+    "url": "https://nitter.net/paulg/status/2073811696540422434#m",
+    "desc": "Looks legit.\n",
+    "date": "Sun, 05 Jul 2026 16:50:12 GMT",
+    "source": "Paul Graham (Twitter)"
+  },
+  {
+    "title": "RT by @paulg: For treatment and outcomes for cancer, the tumor microenvironment (TME) is pivotal, but we've never had a non-invasive way to assess it. Until now, a blood test breakthrough! (<-a term I use sparingly) Pictured below, schematically, the TME surrounds the cancer cells and consists of immune cells, blood vessel (endothelial) cells, fibroblasts and matrix",
+    "url": "https://nitter.net/EricTopol/status/2073767977481318881#m",
+    "desc": "For treatment and outcomes for cancer, the tumor microenvironment (TME) is pivotal, but we've never had a non-invasive way to assess it. Until now, a blood test breakthrough! (<-a term I use sparingly",
+    "date": "Sun, 05 Jul 2026 13:56:29 GMT",
+    "source": "Paul Graham (Twitter)"
+  },
+  {
+    "title": "\"No one can beat death. The best you can hope for is a tie after extra time.\" — Jan Houtema",
+    "url": "https://nitter.net/paulg/status/2073767411379998926#m",
+    "desc": "\"No one can beat death. The best you can hope for is a tie after extra time.\"\n\n— Jan Houtema",
+    "date": "Sun, 05 Jul 2026 13:54:14 GMT",
+    "source": "Paul Graham (Twitter)"
+  },
+  {
+    "title": "R to @paulg: There is an interesting implicit claim here: that mobile and internet revenues grew at the same rate. It would be interesting to know if that is in fact true.",
+    "url": "https://nitter.net/paulg/status/2073712079270211914#m",
+    "desc": "There is an interesting implicit claim here: that mobile and internet revenues grew at the same rate. It would be interesting to know if that is in fact true.",
+    "date": "Sun, 05 Jul 2026 10:14:22 GMT",
+    "source": "Paul Graham (Twitter)"
+  },
+  {
+    "title": "AI companies are making a lot of money. Apparently the revenues from this wave of technology are growing \"roughly three times more rapidly than the mobile or Internet waves.\"",
+    "url": "https://nitter.net/paulg/status/2073711117298188369#m",
+    "desc": "AI companies are making a lot of money. Apparently the revenues from this wave of technology are growing \"roughly three times more rapidly than the mobile or Internet waves.\"\n\n\nAzeem Azhar (@azeem)\n\nT",
+    "date": "Sun, 05 Jul 2026 10:10:32 GMT",
+    "source": "Paul Graham (Twitter)"
+  }
+]

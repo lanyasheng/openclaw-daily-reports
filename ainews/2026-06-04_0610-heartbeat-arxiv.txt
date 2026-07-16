@@ -1,0 +1,73 @@
+
+📄 ArXiv AI 论文精选 - 从 10 篇中选出 Top 10
+============================================================
+
+1. **LLM Consortium for Software Design Refinement: A Controlled Experiment on Multi-Agent Collaboration Topologies** ⭐⭐
+   作者: Nagarjuna Kanamarlapudi, Praveen K
+   分类: cs.SE, cs.AI, cs.MA
+   日期: 2026-05-31
+   摘要: We present a controlled experiment evaluating 12 multi-agent LLM collaboration topologies for software architecture design. Using a $2\times2\times2$ ...
+   链接: https://arxiv.org/abs/2606.01490v1
+
+2. **Governing AI-Assisted Security Operations: A Design Science Framework for Operational Decision Support** ⭐⭐
+   作者: Elyson A. De La Cruz, Rishikesh Sahay, Md Rasel Al Mamun
+   分类: cs.CR, cs.AI
+   日期: 2026-05-10
+   摘要: Engineering managers increasingly must decide how to introduce generative artificial intelligence (AI), retrieval-augmented generation, and coding age...
+   链接: https://arxiv.org/abs/2605.09534v1
+
+3. **LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning** ⭐
+   作者: Elliot Gestrin, Jendrik Seipp
+   分类: cs.AI
+   日期: 2026-05-28
+   摘要: Heuristic search is the dominant paradigm in symbolic AI planning, and the strongest heuristics are the result of decades of work by planning research...
+   链接: https://arxiv.org/abs/2605.29649v1
+
+4. **Two-Fidelity Best-Action Identification for Stochastic Minimax Tree** ⭐
+   作者: Peter Chen, Xi Chen
+   分类: cs.LG, cs.AI
+   日期: 2026-06-01
+   摘要: We study fixed-confidence best-action identification (BAI) in stochastic minimax trees. This problem is increasingly relevant in modern AI planning, w...
+   链接: https://arxiv.org/abs/2606.01708v1
+
+5. **Training Prompt Matters: State-Adaptive Optimization for Robust Fine-Tuning** ⭐
+   作者: Wenhang Shi, Yiren Chen, Shuqing Bian
+   分类: cs.CL
+   日期: 2026-06-01
+   摘要: While prompt engineering is instrumental in maximizing the capabilities of Large Language Models (LLMs) during inference, the role of prompts during t...
+   链接: https://arxiv.org/abs/2606.01967v1
+
+6. **Efficient Test-time Inference for Generative Planning Models** ⭐
+   作者: Robert Gieselmann, Mihai Samson, Federico Pecora
+   分类: cs.AI
+   日期: 2026-05-30
+   摘要: Generative models have emerged as a powerful paradigm for AI planning, yet their performance remains constrained by the training data distribution. On...
+   链接: https://arxiv.org/abs/2606.00618v1
+
+7. **Learning Lifted Action Models from Unsupervised Visual Traces** ⭐
+   作者: Kai Xi, Stephen Gould, Sylvie Thiébaux
+   分类: cs.AI
+   日期: 2026-04-21
+   摘要: Efficient construction of models capturing the preconditions and effects of actions is essential for applying AI planning in real-world domains. Exten...
+   链接: https://arxiv.org/abs/2604.19043v2
+
+8. **On Wednesdays, We Ask Questions: Optimizing "Active Listening" in Automated Legal Triage and Referral** 
+   作者: Quinten Steenhuis, Jacqueline Harvey
+   分类: cs.AI, cs.CL, cs.CY
+   日期: 2026-05-29
+   摘要: The FETCH classifier generates follow-up questions to help refine the best match for the applicant's legal problem, using a low-cost ensemble of LLMs....
+   链接: https://arxiv.org/abs/2606.00272v1
+
+9. **Density-Aware Translation of Spurious Correlations in Zero-Shot VLMs** 
+   作者: Afsaneh Hasanebrahimi, Hanxun Huang, Christopher Leckie
+   分类: cs.CV, cs.LG
+   日期: 2026-06-01
+   摘要: Vision-Language models (VLMs), such as CLIP, achieve powerful zero-shot classification. However, their predictions remain sensitive to spurious correl...
+   链接: https://arxiv.org/abs/2606.01710v1
+
+10. **IstGPT: LLM-based Anomaly Detection for Spatial-Temporal Graph in Industrial Systems** 
+   作者: Yuchen Zhang, Ning Xi, Pengbin Feng
+   分类: cs.CR, cs.LG
+   日期: 2026-06-01
+   摘要: Industrial Internet systems face increasing threats from sophisticated industrial control system (ICS) attacks, resulting in critical safety incidents...
+   链接: https://arxiv.org/abs/2606.01691v1

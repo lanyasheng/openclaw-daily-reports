@@ -1,0 +1,2459 @@
+[
+  {
+    "title": "Technical deep dive: AgentCore payments and innovation in agentic commerce",
+    "url": "https://aws.amazon.com/blogs/machine-learning/technical-deep-dive-agentcore-payments-and-innovation-in-agentic-commerce/",
+    "desc": "Amazon Bedrock AgentCore payments is now available in preview, it provides instant payments to paid external services with no manual billing setup per provider, stablecoin support for cost-effective m",
+    "date": "Tue, 26 May 2026 17:57:18 +0000",
+    "source": "AWS ML Blog"
+  },
+  {
+    "title": "Build highly scalable serverless LangGraph multi-agent systems in AWS with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-highly-scalable-serverless-langgraph-multi-agent-systems-in-aws-with-amazon-bedrock-agentcore/",
+    "desc": "In this post, we provide a solution to build highly scalable, serverless multi-agent generative AI systems on AWS using LangGraph Agents as orchestrators integrated with Amazon Bedrock AgentCore Memor",
+    "date": "Tue, 26 May 2026 17:41:26 +0000",
+    "source": "AWS ML Blog"
+  },
+  {
+    "title": "Build high-performance generative AI systems with Strands Agents, NVIDIA NIM, and Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-high-performance-generative-ai-systems-with-strands-agents-nvidia-nim-and-amazon-bedrock-agentcore/",
+    "desc": "In this post you'll learn how to build a multi-agent campaign review system that demonstrates parallel reasoning, context persistence, and traceable execution paths using an integrated architecture th",
+    "date": "Tue, 26 May 2026 17:39:46 +0000",
+    "source": "AWS ML Blog"
+  },
+  {
+    "title": "AgentWatch: Proactive AWS monitoring with ambient agents",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentwatch-proactive-aws-monitoring-with-ambient-agents/",
+    "desc": "In this post, we demonstrate the capabilities of AgentWatch through practical implementation. You will see how the solution performs infrastructure checks every 15 minutes, summarizing CloudWatch metr",
+    "date": "Tue, 26 May 2026 17:22:48 +0000",
+    "source": "AWS ML Blog"
+  },
+  {
+    "title": "From idea to AI app: Creating intelligent research assistants with Strands",
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-idea-to-ai-app-creating-intelligent-research-assistants-with-strands/",
+    "desc": "Building an AI app shouldn’t require a PhD in machine learning (ML) or months of wrestling with complex architectures. Yet that’s exactly what happens when you try to orchestrate multiple API calls, m",
+    "date": "Tue, 26 May 2026 16:28:08 +0000",
+    "source": "AWS ML Blog"
+  },
+  {
+    "title": "Build an enterprise observability solution for Amazon Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-enterprise-observability-solution-for-amazon-quick/",
+    "desc": "When hundreds to thousands of users are onboarded to an enterprise AI platform, business leaders and platform owners need visibility into who is using the platform, whether users are satisfied with th",
+    "date": "Tue, 26 May 2026 16:09:06 +0000",
+    "source": "AWS ML Blog"
+  },
+  {
+    "title": "Transforming professional work: How Amazon Quick turns document creation from hours into minutes",
+    "url": "https://aws.amazon.com/blogs/machine-learning/transforming-professional-work-how-amazon-quick-turns-document-creation-from-hours-into-minutes/",
+    "desc": "In this post, we explore how the Amazon Quick document and visualization creation capabilities work, what you can build with them, and how professionals across roles are using them to reclaim hours of",
+    "date": "Tue, 26 May 2026 15:59:16 +0000",
+    "source": "AWS ML Blog"
+  },
+  {
+    "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+    "desc": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark ",
+    "date": "Tue, 26 May 2026 21:15:15 +0000",
+    "source": "NVIDIA AI Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Google Research Blog"
+  },
+  {
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "desc": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+    "date": "Tue, 26 May 2026 22:32:56 +0000",
+    "source": "TechCrunch - AI"
+  },
+  {
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "desc": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "date": "Tue, 26 May 2026 18:33:01 +0000",
+    "source": "TechCrunch - AI"
+  },
+  {
+    "title": "This startup is betting India’s gig economy can train the world’s robots",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "desc": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat",
+    "date": "Tue, 26 May 2026 16:00:00 +0000",
+    "source": "TechCrunch - AI"
+  },
+  {
+    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "desc": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
+    "date": "Tue, 26 May 2026 14:55:05 +0000",
+    "source": "TechCrunch - AI"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+    "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+    "desc": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
+    "date": "Tue, 26 May 2026 14:00:00 +0000",
+    "source": "TechCrunch - AI"
+  },
+  {
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "desc": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.  Although 85% of organizations say they want to be agentic within the next th",
+    "date": "Tue, 26 May 2026 14:54:10 +0000",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "The Download: puncturing the AI jobs panic",
+    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "desc": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hy",
+    "date": "Tue, 26 May 2026 12:10:00 +0000",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "A reality check on the AI jobs hysteria",
+    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "desc": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all",
+    "date": "Tue, 26 May 2026 09:00:00 +0000",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "It’s time to address the looming crisis in entry-level work.",
+    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+    "desc": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited eviden",
+    "date": "Tue, 26 May 2026 09:00:00 +0000",
+    "source": "MIT Technology Review"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "The Verge - AI"
+  },
+  {
+    "title": "Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline",
+    "url": "https://arxiv.org/abs/2605.26132",
+    "desc": "arXiv:2605.26132v1 Announce Type: new \nAbstract: Can post-trained large language models (LLMs) further improve themselves using only unlabeled prompts, without external teachers or feedback from tools",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "Pretraining Data Exposure in Large Language Models: A Survey of Membership Inference, Data Contamination, and Security Implications",
+    "url": "https://arxiv.org/abs/2605.26133",
+    "desc": "arXiv:2605.26133v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have become the predominant paradigm in NLP, advancing both research and industry. As model sizes and pretraining data gro",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "SPEAR: Code-Augmented Agentic Prompt Optimization",
+    "url": "https://arxiv.org/abs/2605.26275",
+    "desc": "arXiv:2605.26275v1 Announce Type: new \nAbstract: Automatic prompt engineering (APE) rewrites prompts to improve downstream task performance, but existing APE loops treat the optimizer itself as a fixe",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "CroCo: Cross-Lingual Contrastive Preference Tuning on Self-Generations",
+    "url": "https://arxiv.org/abs/2605.26293",
+    "desc": "arXiv:2605.26293v1 Announce Type: new \nAbstract: Prior work establishes that controlled contrastiveness between self-generated responses from large language models, set via reward scores, improves dow",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "The Daily Dose: Workflow-Integrated Large Language Model Automation for Clinical Summarization and Trial Identification in Radiation Oncology",
+    "url": "https://arxiv.org/abs/2605.26346",
+    "desc": "arXiv:2605.26346v1 Announce Type: new \nAbstract: Objective: To describe the design and early clinical evaluation of The Daily Dose (TDD), an LLM-driven, automated clinical summarization and clinical-t",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "RICE-PO: Turning Retrieval Interactions into Credit Signals for Reasoning Agents",
+    "url": "https://arxiv.org/abs/2605.26352",
+    "desc": "arXiv:2605.26352v1 Announce Type: new \nAbstract: Retrieval is increasingly moving from one-shot matching toward interactive reasoning, where language agents iteratively inspect evidence, reformulate q",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "In-Context Optimization for Retrieval-Augmented Generation: A Gradient-Descent Perspective",
+    "url": "https://arxiv.org/abs/2605.26356",
+    "desc": "arXiv:2605.26356v1 Announce Type: new \nAbstract: In-context learning has recently been linked to implicit gradient descent in linear self-attention models, suggesting that context can induce a forward",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "Why LLMs Hallucinate on Structured Knowledge: A Mechanistic Analysis of Reasoning over Linearized Representations",
+    "url": "https://arxiv.org/abs/2605.26362",
+    "desc": "arXiv:2605.26362v1 Announce Type: new \nAbstract: In many reasoning tasks, large language models (LLMs) rely on structured external knowledge, such as graphs and tables, which is typically linearized i",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "Cultural Value Alignment Via Latent Activation Steering in Large Language Models",
+    "url": "https://arxiv.org/abs/2605.26365",
+    "desc": "arXiv:2605.26365v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often exhibit homogenized cultural perspectives. While the World Values Survey (WVS) provides a gold standard for mapping ",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "Memory Architectures for Multi-Turn Text-to-SQL: A Benchmark and Empirical Study",
+    "url": "https://arxiv.org/abs/2605.26394",
+    "desc": "arXiv:2605.26394v1 Announce Type: new \nAbstract: Multi-turn Text-to-SQL is central to enterprise analytics yet remains predominantly evaluated in single-turn settings. We introduce EnterpriseMem-Bench",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - NLP"
+  },
+  {
+    "title": "GEM: Geometric Entropy Mixing for Optimal LLM Data Curation",
+    "url": "https://arxiv.org/abs/2605.26121",
+    "desc": "arXiv:2605.26121v1 Announce Type: new \nAbstract: LLM pre-training efficacy increasingly depends on data composition rather than sheer volume. Yet, optimal mixing is hindered by categorization flaws: h",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "The Constraint Tax: Measuring Validity-Correctness Tradeoffs in Structured Outputs for Small Language Models",
+    "url": "https://arxiv.org/abs/2605.26128",
+    "desc": "arXiv:2605.26128v1 Announce Type: new \nAbstract: Production LLM systems increasingly require machine-readable outputs: JSON objects, typed traces, regex-constrained fields, and tool-call schemas. This",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "AirCast-SR: A Foundation Model for Kilometer-Scale Atmospheric Super-Resolution via Latent Consistency Diffusion",
+    "url": "https://arxiv.org/abs/2605.26130",
+    "desc": "arXiv:2605.26130v1 Announce Type: new \nAbstract: Operational weather prediction at kilometer scales remains computationally prohibitive for traditional numerical weather prediction (NWP) models, limit",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "SilIF: Silhouette-Augmented Isolation Forest for Unsupervised Transaction Fraud Detection",
+    "url": "https://arxiv.org/abs/2605.26135",
+    "desc": "arXiv:2605.26135v1 Announce Type: new \nAbstract: Unsupervised anomaly detection is widely used in transaction fraud detection where labels are scarce. Isolation Forest (IF) is among the most popular c",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "Neural Bayesian Sequential Routing",
+    "url": "https://arxiv.org/abs/2605.26147",
+    "desc": "arXiv:2605.26147v1 Announce Type: new \nAbstract: Human decision-making is sequential and uncertainty-aware, yet standard neural networks often rely on static, dense forward computation with limited vi",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "TSFMAudit: Data Contamination Auditing in Forecasting Time Series Foundation Models",
+    "url": "https://arxiv.org/abs/2605.26161",
+    "desc": "arXiv:2605.26161v1 Announce Type: new \nAbstract: Time series foundation models (TSFMs) are increasingly pretrained on large corpora, raising concerns that evaluation datasets may have been exposed dur",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "On the Push-Based Asynchronous Federated Learning: A Bias-Correction Aggregation Approach",
+    "url": "https://arxiv.org/abs/2605.26162",
+    "desc": "arXiv:2605.26162v1 Announce Type: new \nAbstract: Asynchronous decentralized federated learning (ADFL) eliminates central coordination and global synchronization, making it attractive for large-scale a",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "Planning Neural Dynamics with Lie Group Embedding through Supervised Projective Manifold Learning",
+    "url": "https://arxiv.org/abs/2605.26167",
+    "desc": "arXiv:2605.26167v1 Announce Type: new \nAbstract: We propose Lie group embedded dynamical neural networks (LieEDNN) and the corresponding learning algorithms based on gradient descent and metric projec",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "When Rule Violations Are Rare: Chimera Training for Logical Anomaly Detection",
+    "url": "https://arxiv.org/abs/2605.26171",
+    "desc": "arXiv:2605.26171v1 Announce Type: new \nAbstract: Many practical anomalies are not merely rare inputs, but violations of semantic constraints: objects co-occur in structured ways, actions imply precond",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "ARBITER: Reasoning Trajectory Basins and Majority Vote Failures in Test-Time Sampling",
+    "url": "https://arxiv.org/abs/2605.26172",
+    "desc": "arXiv:2605.26172v1 Announce Type: new \nAbstract: When language models use test-time sampling, they generate multiple reasoning trajectories and select an answer by majority vote. We show that these tr",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - ML"
+  },
+  {
+    "title": "BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization",
+    "url": "https://arxiv.org/abs/2605.26182",
+    "desc": "arXiv:2605.26182v1 Announce Type: new \nAbstract: Generating physically buildable brick structures from 3D shapes requires more than geometric reconstruction: the output must also satisfy discrete part",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "Can LLMs Introspect? A Reality Check",
+    "url": "https://arxiv.org/abs/2605.26242",
+    "desc": "arXiv:2605.26242v1 Announce Type: new \nAbstract: Can large language models detect and report their own internal states? A number of studies have argued that the answer to this question is yes. We argu",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory",
+    "url": "https://arxiv.org/abs/2605.26252",
+    "desc": "arXiv:2605.26252v1 Announce Type: new \nAbstract: Long-running AI agents need persistent memory. Memory supports learning across sessions, reduces repeated context injection, and enables auditing of pa",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions",
+    "url": "https://arxiv.org/abs/2605.26256",
+    "desc": "arXiv:2605.26256v1 Announce Type: new \nAbstract: Multimodal large language model (MLLM)-based embodied agents have shown strong potential for solving complex tasks in physical environments. However, p",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "Constraint acquisition needs better benchmarks",
+    "url": "https://arxiv.org/abs/2605.26279",
+    "desc": "arXiv:2605.26279v1 Announce Type: new \nAbstract: Constraint Acquisition (CA) and related research on the validation and enhancement of Mathematical Programming (MP) models from domain knowledge artifa",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems",
+    "url": "https://arxiv.org/abs/2605.26302",
+    "desc": "arXiv:2605.26302v1 Announce Type: new \nAbstract: Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "Experiments in Agentic AI for Science",
+    "url": "https://arxiv.org/abs/2605.26305",
+    "desc": "arXiv:2605.26305v1 Announce Type: new \nAbstract: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remot",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "Anchor: Mitigating Artifact Drift in Agent Benchmark Generation",
+    "url": "https://arxiv.org/abs/2605.26321",
+    "desc": "arXiv:2605.26321v1 Announce Type: new \nAbstract: AI agents are beginning to complete valuable, long-horizon business operations tasks, but training and evaluation environments for enterprise work stil",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling",
+    "url": "https://arxiv.org/abs/2605.26322",
+    "desc": "arXiv:2605.26322v1 Announce Type: new \nAbstract: Theory of Mind (ToM), the ability to infer others' knowledge, intentions, and emotions, is commonly evaluated in large language models (LLMs) using end",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "JobBench: Aligning Agent Work With Human Will",
+    "url": "https://arxiv.org/abs/2605.26329",
+    "desc": "arXiv:2605.26329v1 Announce Type: new \nAbstract: Current benchmarks for occupational AI agents are scoped primarily by economic values, telling a replacement story. We introduce JobBench, which evalua",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - AI"
+  },
+  {
+    "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
+    "url": "https://arxiv.org/abs/2605.26230",
+    "desc": "arXiv:2605.26230v1 Announce Type: new \nAbstract: Multi-view 3D reconstruction has achieved remarkable progress with the advent of feed-forward 3D reconstruction models. However, these models are typic",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "Not All Modalities Are Equal: Instruction-Aware Gating for Multimodal Videos",
+    "url": "https://arxiv.org/abs/2605.26232",
+    "desc": "arXiv:2605.26232v1 Announce Type: new \nAbstract: Pre-trained video large language models excel at visual reasoning. However, they struggle when videos arrive with auxiliary streams, such as audio, dep",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "DuoGesture: Neuro-Inspired and Biomechanically Informed Dual-Stream Co-Speech Gesture Generation",
+    "url": "https://arxiv.org/abs/2605.26236",
+    "desc": "arXiv:2605.26236v1 Announce Type: new \nAbstract: Co-speech gesture generation requires both semantic expressivity and biomechanically plausible rhythmic motion. Existing holistic gesture models mix le",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "Sentinel: Embodied Cooperative Spatial Reasoning and Planning",
+    "url": "https://arxiv.org/abs/2605.26239",
+    "desc": "arXiv:2605.26239v1 Announce Type: new \nAbstract: In this work, we study Cooperative Spatial Intelligence, the ability of decentralized embodied agents to coordinate effectively under dynamic environme",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "RoMo: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation",
+    "url": "https://arxiv.org/abs/2605.26241",
+    "desc": "arXiv:2605.26241v1 Announce Type: new \nAbstract: Success in generative modeling across language, image, and video demonstrates that large, well-curated datasets are the key driver for building capable",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "LongAV-Compass: Towards Unified Evaluation of Minute-Scale Audio-Visual Generation Across T2AV, I2AV, and V2AV",
+    "url": "https://arxiv.org/abs/2605.26244",
+    "desc": "arXiv:2605.26244v1 Announce Type: new \nAbstract: Audio-visual generation is rapidly advancing from short clips to minute-long content, while existing evaluation protocols remain largely confined to sh",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "Dimensional Distribution Emotion State: Leveraging Valence and Arousal as a Common Embedding Space for Visual Emotion Analysis",
+    "url": "https://arxiv.org/abs/2605.26262",
+    "desc": "arXiv:2605.26262v1 Announce Type: new \nAbstract: Museums are important sites for the dissemination of culture and art. They are institutions rooted in history and tradition; their exhibitions are ofte",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "Frequency-Guided Fusion For RGB-Thermal Semantic Segmentation",
+    "url": "https://arxiv.org/abs/2605.26273",
+    "desc": "arXiv:2605.26273v1 Announce Type: new \nAbstract: Semantic segmentation in complex environments such as urban driving scenes remains challenging under adverse lighting conditions, where RGB images alon",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "VesselSim: learning 3D blood vessel segmentation without expert annotations",
+    "url": "https://arxiv.org/abs/2605.26277",
+    "desc": "arXiv:2605.26277v1 Announce Type: new \nAbstract: Blood vessel segmentation is a core task in medical image analysis for the care of vascular diseases and surgical planning, yet the challenges of provi",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "Benchmarking Convolutional, Transformer, Hybrid, and Vision Language Models for Multi Disease Retinal Screening",
+    "url": "https://arxiv.org/abs/2605.26283",
+    "desc": "arXiv:2605.26283v1 Announce Type: new \nAbstract: Modern deep learning offers powerful tools for automated retinal screening, but it remains unclear how different visual model families compare in reali",
+    "date": "Wed, 27 May 2026 00:00:00 -0400",
+    "source": "arXiv - CV"
+  },
+  {
+    "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+    "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+    "desc": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+    "date": "Tue, 26 May 2026 23:19:03 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+    "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+    "desc": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+    "date": "Tue, 26 May 2026 20:46:03 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+    "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+    "desc": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+    "date": "Tue, 26 May 2026 20:17:47 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+    "desc": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+    "date": "Tue, 26 May 2026 10:00:00 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "Quiz: Will AI Destroy Your Career?",
+    "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+    "desc": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+    "date": "Tue, 26 May 2026 10:00:00 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "AI Is Taking Over the Most Cursed Job in the World",
+    "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+    "desc": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+    "date": "Tue, 26 May 2026 10:00:00 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+    "url": "https://www.wired.com/story/household-chores-training-robots/",
+    "desc": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
+    "date": "Tue, 26 May 2026 10:00:00 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "To Land a Job in AI, Try Reading Kant",
+    "url": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+    "desc": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+    "date": "Tue, 26 May 2026 10:00:00 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+    "url": "https://www.wired.com/story/ai-or-die-trying/",
+    "desc": "AI could make you redundant. Here’s what you need to know.",
+    "date": "Tue, 26 May 2026 10:00:00 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+    "url": "https://www.wired.com/story/fact-checking-ai/",
+    "desc": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+    "date": "Tue, 26 May 2026 10:00:00 +0000",
+    "source": "Wired - AI"
+  },
+  {
+    "title": "勝山湧斗：「量産から逆算」、UCLAから産業界に転じた電池エンジニア",
+    "url": "https://www.technologyreview.jp/s/381911/trajectory-of-u35-innovators-yuto-katsuyama/",
+    "desc": "UCLAで次世代電池を研究し、2022年には「35歳未満のイノベーター」に選ばれた勝山湧斗が選んだのは、アカデミアではなく産業界だった。世界最高性能と量産性を両立する次世代リチウムイオン電池の実現を目指している。",
+    "date": "Wed, 27 May 2026 03:35:18 +0000",
+    "source": "MIT Tech Review JP"
+  },
+  {
+    "title": "人間の限界を押し広げる「ドーピングOK」のスポーツ競技会が開催",
+    "url": "https://www.technologyreview.jp/s/383581/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+    "desc": "パフォーマンスを向上させる薬物の使用を認めるスポーツ競技大会「エンハンスト・ゲームズ」が開催され、水泳の世界記録が「更新」された。私たちは今、あらゆる手を使って人間の能力を拡大することを是とする世界に生きている。",
+    "date": "Tue, 26 May 2026 21:45:38 +0000",
+    "source": "MIT Tech Review JP"
+  },
+  {
+    "title": "「臓器袋」から全身置換へ ステルス企業R3が隠す 「脳なし」クローン計画",
+    "url": "https://www.technologyreview.jp/s/380138/inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+    "desc": "米カリフォルニア州のスタートアップ「R3」は2026年3月、動物実験の代替として知覚のないサルの「臓器袋」を作ると公表した。しかしMITテクノロジーレビューの調査が明らかにしたのは、脳のないヒトクローンを使った全身置換——第二の人生を手に入れる計画——を同社が秘密裏に追求していたという事実だ。不死への執念は、倫理の境界線をすでに越えつつある。",
+    "date": "Tue, 26 May 2026 21:30:22 +0000",
+    "source": "MIT Tech Review JP"
+  },
+  {
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+    "desc": "\"BadHost\" was found in Starlette, a package with 325 million weekly downloads.",
+    "date": "Tue, 26 May 2026 19:50:33 +0000",
+    "source": "Ars Technica - AI"
+  },
+  {
+    "title": "Chipmaker ETF rides AI excitement to quickest $10bn valuation on record",
+    "url": "https://www.ft.com/content/95415dfc-904e-4ce5-a457-f50041c07ec9",
+    "desc": "Roundhill Memory ETF, known as DRAM, surges 87% within 50 days of April launch",
+    "date": "Tue, 26 May 2026 17:17:05 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "UK law firm Pinsent Masons reprimanded by court over AI error",
+    "url": "https://www.ft.com/content/5ba4690b-8b98-43b3-ba0b-f2ec5591a572",
+    "desc": "Judge Mark Mullen warns lawyers against outsourcing legal research or reasoning",
+    "date": "Tue, 26 May 2026 15:17:14 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "AI tools lead to ‘clear racial disparities’ in job hiring",
+    "url": "https://www.ft.com/content/5c442b38-6989-461a-988e-653f7a275eee",
+    "desc": "New Stanford-led study finds candidates that fail AI-hiring tests face ‘systemic rejection’ across companies",
+    "date": "Tue, 26 May 2026 13:00:02 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "Hedge funds are AImaxxing",
+    "url": "https://www.ft.com/content/66fc88ec-af0d-452f-a535-193d9d5279f8",
+    "desc": "Software is out, semis are in",
+    "date": "Tue, 26 May 2026 11:56:19 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "ECB says private-credit fuelled AI boom poses risk to financial system",
+    "url": "https://www.ft.com/content/7ecdff9f-4f3a-40dd-b984-9860097dd083",
+    "desc": "Central bank warns that investors could be exposed to losses if the technology does not meet its potential",
+    "date": "Tue, 26 May 2026 11:49:15 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "ByteDance offers AI team special stock to fend off poaching",
+    "url": "https://www.ft.com/content/557561df-4b72-48e8-89cb-239829de694a",
+    "desc": "TikTok owner issues shares tied to AI business unit as China’s tech talent war heats up",
+    "date": "Tue, 26 May 2026 08:25:14 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "FTAV’s further reading",
+    "url": "https://www.ft.com/content/a676eae2-8a56-4511-bff2-2afa4211547a",
+    "desc": "Is AI profitable yet; Enhanced Games; SpaceX; Shoreditch lunching",
+    "date": "Tue, 26 May 2026 05:30:02 GMT",
+    "source": "Financial Times - AI"
+  },
+  {
+    "title": "Autonomous AI systems test governance in physical environments",
+    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
+    "desc": "Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cov",
+    "date": "Tue, 26 May 2026 10:00:00 +0000",
+    "source": "AI News"
+  },
+  {
+    "title": "FlashLib: Bringing Flash Magic to Classical Machine Learning Operators",
+    "url": "https://flashml-org.github.io/",
+    "desc": "Article URL: https://flashml-org.github.io/\nComments URL: https://news.ycombinator.com/item?id=48289543\nPoints: 1\n# Comments: 0",
+    "date": "Wed, 27 May 2026 04:12:45 +0000",
+    "source": "Hacker News - Machine Learning"
+  },
+  {
+    "title": "Claude Mythos reportedly solves OpenAI's landmark Erdős problem with a \"cute, simple proof\"",
+    "url": "https://the-decoder.com/claude-mythos-reportedly-solves-openais-landmark-erdos-problem-with-a-cute-simple-proof/",
+    "desc": "\n        Shortly after OpenAI disproved Erdős' unit-distance conjecture, Anthropic shows Claude Mythos can solve the problem too - \"over the weekend.\" Engineer Sholto Douglas says Mythos cracked the 1",
+    "date": "Tue, 26 May 2026 18:31:07 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "China reportedly now requires top AI researchers to get permission before leaving the country",
+    "url": "https://the-decoder.com/china-reportedly-now-requires-top-ai-researchers-to-get-permission-before-leaving-the-country/",
+    "desc": "\n        China is now restricting overseas travel for top AI researchers at private companies like Alibaba and DeepSeek. Those affected need official approval before leaving the country. Beijing fears",
+    "date": "Tue, 26 May 2026 14:25:50 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "Google Cloud COO says AI security belongs in the boardroom, not just the server room",
+    "url": "https://the-decoder.com/google-cloud-coo-says-ai-security-belongs-in-the-boardroom-not-just-the-server-room/",
+    "desc": "\n        Google Cloud COO Francis de Souza is urging companies to build security into their AI strategy from day one.\nThe article Google Cloud COO says AI security belongs in the boardroom, not just t",
+    "date": "Tue, 26 May 2026 13:25:58 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "AI-hallucinated citations are creeping into papers that shape clinical guidelines, researchers warn",
+    "url": "https://the-decoder.com/ai-hallucinated-citations-are-creeping-into-papers-that-shape-clinical-guidelines-researchers-warn/",
+    "desc": "\n        An audit of 2.5 million biomedical papers by Columbia University and other institutions shows that the rate of fabricated references has increased more than twelvefold since 2023. The researc",
+    "date": "Tue, 26 May 2026 12:36:11 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "Y Combinator founder Paul Graham says AI-written founder emails feel like being lied to",
+    "url": "https://the-decoder.com/y-combinator-founder-paul-graham-says-ai-written-founder-emails-feel-like-being-lied-to/",
+    "desc": "\n        Y Combinator founder Paul Graham ignores emails clearly written by AI—they feel \"like being lied to,\" he says. That's coming from one of OpenAI's earliest investors. Studies suggest his react",
+    "date": "Tue, 26 May 2026 11:00:57 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "The AI justice gap solution is slowly turning into an existential paperwork nightmare for US federal courts",
+    "url": "https://the-decoder.com/the-ai-justice-gap-solution-is-slowly-turning-into-an-existential-paperwork-nightmare-for-us-federal-courts/",
+    "desc": "\n        A new study from MIT and the University of Southern California shows that lawsuits filed without a lawyer at US federal courts have nearly doubled since ChatGPT went mainstream. One in five c",
+    "date": "Tue, 26 May 2026 10:42:00 +0000",
+    "source": "The Decoder"
+  },
+  {
+    "title": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.Language: English | Português",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "desc": "Learn it. Build it. Ship it for others.   \n       \n░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒\n \n \n 84% of students already use AI tools. Only 18% feel p",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude CoworkKnowledge Work Plugins \nPlugins that turn Claude into a specialist for your role, team, and company. B",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "mukul975/Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "hardikpandya/stop-slop",
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "desc": "A skill file for removing AI tells from proseStop Slop \nA skill for removing AI tells from prose. \n \nWhat this is \nAI writing has patterns. Predictable phrases, structures, rhythms. This skill teaches",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop   \nTaste Skill \n The Anti-Slop Frontend Framework for AI Agents  \n     \n     \nPortable Agent Skills that upgra",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "DigitalPlatDev/FreeDomain",
+    "url": "https://github.com/DigitalPlatDev/FreeDomain",
+    "desc": "DigitalPlat FreeDomain: Free Domain For Everyone🌐 Welcome to DigitalPlat Domain \n \n  \n \nWelcome to DigitalPlat FreeDomain, where we believe everyone deserves a digital identity. Whether you're an indi",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System - Server Backend & APIJellyfin \nThe Free Software Media System \n \n                                 \n \nJellyfin is a Free Software Media System that puts you in control o",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "Axorax/awesome-free-apps",
+    "url": "https://github.com/Axorax/awesome-free-apps",
+    "desc": "Curated list of the best free apps for PC and mobile   \nWindows Only — macOS Only — Linux Only — Open-source Only — Recommended Only \nMobile version — Android Only — iOS Only \n \n  \n   \n   Icon \n   Mea",
+    "date": "",
+    "source": "GitHub Trending Daily"
+  },
+  {
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "desc": "Learn it. Build it. Ship it for others.   \n       \n░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒\n \n \n 84% of students already use AI tools. Only 18% feel p",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude CoworkKnowledge Work Plugins \nPlugins that turn Claude into a specialist for your role, team, and company. B",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "mukul975/Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Cop",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "st-tech/ppf-contact-solver",
+    "url": "https://github.com/st-tech/ppf-contact-solver",
+    "desc": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.ZOZO's Contact Solver 🫶 \nA contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods. ",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "microsoft/agent-governance-toolkit",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.🌍 English | 日本語 | 简",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "desc": "Fully automatic censorship removal for language models \nHeretic: Fully automatic censorship removal for language models   \n \nHeretic is a tool that removes censorship (aka \"safety alignment\") from tra",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "harvard-edge/cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "desc": "Machine Learning SystemsMachine Learning Systems \nPrinciples and Practices of Engineering Artificially Intelligent Systems \n English • 中文 • 日本語 • 한국어  \n \n  \n             \n  \n      \n  📘 Textbook • 📗 Vo",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1English | 中文 | 日本語 \n \nLearn Claude Code -- Harness Engineering for Real Agents \nAgency Comes from the Model. An Agent P",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "dograh-hq/dograh",
+    "url": "https://github.com/dograh-hq/dograh",
+    "desc": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.Dograh",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "desc": "Hunt down social media accounts by username across social networks    Hunt down social media accounts by username across 400+ social networks   \n Installation    •    Usage    •    Contributing  \n   \n",
+    "date": "",
+    "source": "GitHub Trending Python"
+  },
+  {
+    "title": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local \n CodeGraph \n Supercharge Claude Cod",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI,",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "desc": "Learn it. Build it. Ship it for others.   \n       \n░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒░░░▒▒▒\n \n \n 84% of students already use AI tools. Only 18% feel p",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.OpenHuman \n   \n           \n        \n OpenHuman is your Personal AI super intelligence: local memory, managed services where ",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalizeAcademic Research Skills for Claude Code \n   \n简体中文版 | 繁體中文版 | 日本語版 \nA comprehensive suite of Claude Code skills f",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.π RuView \n     \n     \nSee through walls w",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "HKUDS/ViMax",
+    "url": "https://github.com/HKUDS/ViMax",
+    "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\" \n  \n  \n  \n  \n ViMax: Agentic Video Generation \n  \n  \n      \n     \n    \n \n \n     \n    \n \n \n🚨 Current",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks   \n  Your coding agent remembers everything. No more re-explaining. Built on iii engine  Persistent memory for Claude Code, Cur",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more   \n A coding agent with the IDE wired in. omp.sh  \n          \n Fork of Pi by",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "NVlabs/Sana",
+    "url": "https://github.com/NVlabs/Sana",
+    "desc": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer   \n 📚 Docs | SANA | SANA-1.5 | SANA-Sprint | SANA-Video | SANA-WM | Sol-RL Demo | 🤗 HuggingFace | ComfyUI | SGLang | C",
+    "date": "",
+    "source": "GitHub Trending Weekly"
+  },
+  {
+    "title": "Stop advertising in your commits",
+    "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 12:56:24 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "What is a harmonic? An interactive comic about additive synthesis",
+    "url": "https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 07:33:39 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "readable.css",
+    "url": "https://readable-css.freedomtowrite.org/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 09:04:27 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Using SwiftUI to Build a Mac-assed App in 2026",
+    "url": "https://pfandrade.me/blog/mac-assed-swiftui-app/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 05:40:40 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "The pressure",
+    "url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 01:47:38 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Fast is better than slow",
+    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 20:39:11 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Software For My New Home Server",
+    "url": "https://nathangrigg.com/2026/05/home-server-software/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 11:35:09 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Building an AsyncIO executor for the 3DS",
+    "url": "https://blog.cat-girl.gay/3ds-async-part-one/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 10:01:02 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "Theseus: translating win32 to wasm",
+    "url": "https://neugierig.org/software/blog/2026/05/theseus-wasm.html",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 20:45:01 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "A portentous reunion",
+    "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+    "desc": "Comments",
+    "date": "Tue, 26 May 2026 04:13:18 -0500",
+    "source": "Lobsters"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Product Hunt"
+  },
+  {
+    "title": "老婆最近频繁让我准备润去新加坡",
+    "url": "https://www.v2ex.com/t/1215832",
+    "desc": "VoiceEXONE: 情况\n\n目前外企在职，情况一般般 P9 管理大头兵\n3 月老婆检查怀孕，目前在家稳定待产\n目前无负债有存款，双方固定资产 3-5 套房（二线）\n现在 30 出头的年龄，对工作也好像没有激情\n老婆喜欢旅游，去过十几个国家，所以目前想去新加坡/日本，说是为了孩子教育\n\n想问问新加坡的朋友是否值得去？\n当下去的话是否在生活跟工作上有所改善",
+    "date": "Wed, 27 May 2026 02:34:37 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "工作多年，还是改不了待人热情，这是不是一个缺点？",
+    "url": "https://www.v2ex.com/t/1215825",
+    "desc": "freefly111: 之所以有这个疑问，是前几天和同事聊天，他们觉得待人热情的人，大多都是另有所图。\n可工作这么多年，我始终没变，遇见陌生人、接触新事物，依旧心怀热忱。就像有新人入职，我会主动约他们一起吃饭，对方遇到难处也会搭把手。于我而言，这只是团队里本该有的相处方式，真的没有任何别的想法。如果说奢求什么，一句简单的 “谢谢” 就足够了。\n也想问问大家，在职场历练多年后，我这样的热情，算得上是",
+    "date": "Wed, 27 May 2026 02:18:08 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "身为广东人，为啥我身边不洗澡的人越来越多了",
+    "url": "https://www.v2ex.com/t/1215806",
+    "desc": "Jiahim: 坐标深圳，感觉在身边越来越多的人不洗澡（路人或同事），路过他或者擦身而过，我都能 yue 一声那种，是生理不适到要吐那种。以前这周味道我只在流浪汉边上闻到过，那种浑身黢黑脏兮兮的流浪汉。\n我说的有味道的人，有的穿的衣服就像咸菜，但是还有的是传的很好看，远看根本想不到靠近味道那么冲。\n真的很好奇：\n1 他自己不难受不知道吗？\n2 是巧合还是真的越来越多这种人\n不吐不快，我最近真的鼻子",
+    "date": "Wed, 27 May 2026 01:51:42 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "寻找 postman、xshell、navicat 的替代软件",
+    "url": "https://www.v2ex.com/t/1215798",
+    "desc": "shuang: postman: 接口调试工具。\n替换原因：强制账号登录\nxshell: 远程连接工具。\n替换原因：强制版本更新\nnavicat：数据库管理工具。\n替换原因：收到官方邮件了，商业使用需付费\n求推荐免费、轻量、好用的替代软件",
+    "date": "Wed, 27 May 2026 01:30:42 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "白送一千亿 token 谁用得完！ MiMo 续费倒找钱，最新羊毛！",
+    "url": "https://www.v2ex.com/t/1215784",
+    "desc": "TuTouPower: 现在 mimo 国内版和国际版续费都是负值，只需要一分钱就能续费用到 6.27 ，多的钱还会变成可用的 credits 。快薅！！！\n国内账号续费需要实名认证，一个人只能续费一个账号。\n国外账号无限制，一个号也是一美分，实测招行 Visa 卡可用。\n原理：续费的时候按照剩下的额度减免费用，因为几小时前刚刚全部重置额度，再加上新用户减免，所以续费倒找钱。\n一个 max 账号一",
+    "date": "Wed, 27 May 2026 01:04:11 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "自建 AI 中转站，新用户送 $10 永久额度 + 免费订阅套餐，欢迎试用",
+    "url": "https://www.v2ex.com/t/1215781",
+    "desc": "stackoverflowos: 自己搭了一个 AI API 中转站，支持 OpenAI / Claude / Gemini 等主流模型，按量/订阅 计费，适合日常 API 调用、接 Cursor 、ChatBox 、沉浸式翻译等工具使用。\n新用户福利\n\n注册即送免费订阅套餐，无需充值直接可用\n在本帖评论区留下你的用户 ID ，额外到账 $10 额度，永久有效，不会过期\n\n适合人群\n\n需要稳定 A",
+    "date": "Wed, 27 May 2026 00:50:57 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "做了一个“全网视频下载”的 Windows 桌面应用：仅 2.2MB，粘贴链接就能下，欢迎试用",
+    "url": "https://www.v2ex.com/t/1215779",
+    "desc": "Chlience: 最近做了一个自己一直想要的工具：yt-dlp-tauri 。\n项目地址： https://github.com/Chlience/yt-dlp-tauri\n﻿\n一句话：把 yt-dlp 做成一个更像正常桌面软件的 Windows 应用。粘贴视频链接，解析标题、封面、时长和清晰度，选一个格式，然后下载。\n说“全网”当然不是我自己重新造了一个下载内核，而是站在 yt-dlp 的肩膀",
+    "date": "Wed, 27 May 2026 00:43:29 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "[送码] 维护了快一年的会员订阅管理工具 — 口袋订阅，最近大幅优化了一版本",
+    "url": "https://www.v2ex.com/t/1215718",
+    "desc": "iPocket: 一个苹果 iOS 原生制作的会员订阅管理工具 —— 口袋订阅，维护了快一年了，总体很稳定了，非常感谢国内外的朋友反馈，特别是一个老外叫 Jimmy ，好像非常喜欢我这款产品，他发现 bug 总是发邮件给我，邮件里有和他对话的几十封邮件了，真的非常感谢，也很开心。产品主打简约，可以快速添加会员订阅，快速查找会员订阅，其他功能，订阅 APP 里该有的应该都有。然后可以通过长按别的 A",
+    "date": "Tue, 26 May 2026 13:10:39 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "这两年帮家里老人看手机，我越来越害怕各种“自动续费”了",
+    "url": "https://www.v2ex.com/t/1215700",
+    "desc": "hashtome: 最近一两年，我有个越来越强烈的感受：国内很多软件的订阅和扣费流程，对中老年人实在太不友好了。\n我母亲快 70 岁了，用的是安卓手机，电脑是 Windows 。因为她不太会看微信支付记录，我有时候会帮她翻一下账单。结果反复看到一些音乐、办公、系统工具、压缩工具之类的软件，每个月扣十几块、几十块。\n最夸张的是，有些项目已经连续扣了半年甚至一年。你去问她“这个你什么时候订的”，她完全",
+    "date": "Tue, 26 May 2026 11:24:55 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "在深住小区房和城中村单间的幸福感真的天壤之别",
+    "url": "https://www.v2ex.com/t/1215576",
+    "desc": "victimsss: 刚来深圳的时候，在南山住的自如，看着就是两居室改过来的，客厅基本没有。所幸三个都是男生，也讲素质，日常也没有受到什么影响。最致命的是，市区比我想象中还要吵，旁边全是商超，一大早就被吵醒，戴着耳机强忍了一年。租期快到的时候，也考虑过继续待南山，后面找房子的时候，发现预算内的要么合租要么感觉没阳光。然后跑去宝安租房了，宝安那边的城中村，找了一个相对安静的大单间，虽然是“大”单间，",
+    "date": "Tue, 26 May 2026 06:38:42 GMT",
+    "source": "V2EX Hot"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "crewAI Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Microsoft AutoGen Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LangChain Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "LlamaIndex Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "mem0 Releases"
+  },
+  {
+    "title": "I ditched LM Studio for llama.cpp and my local LLM doesn't feel like a downgrade",
+    "url": "https://www.xda-developers.com/ditched-lm-studio-for-llama-cpp-and-local-llm-doesnt-feel-like-downgrade-anymore/",
+    "desc": "Article URL: https://www.xda-developers.com/ditched-lm-studio-for-llama-cpp-and-local-llm-doesnt-feel-like-downgrade-anymore/\nComments URL: https://news.ycombinator.com/item?id=48287907\nPoints: 2\n# Co",
+    "date": "Wed, 27 May 2026 00:30:27 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Lago Open-source SDK: Bill on top of your LLM token cost with no middleware",
+    "url": "https://github.com/getlago/lago-agent-sdk-python",
+    "desc": "Article URL: https://github.com/getlago/lago-agent-sdk-python\nComments URL: https://news.ycombinator.com/item?id=48287802\nPoints: 2\n# Comments: 0",
+    "date": "Wed, 27 May 2026 00:17:38 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Investigating the hidden moat behind all the LLM apps",
+    "url": "https://simianwords.bearblog.dev/investigating-the-hidden-moat-behind-all-the-llm-apps/",
+    "desc": "Article URL: https://simianwords.bearblog.dev/investigating-the-hidden-moat-behind-all-the-llm-apps/\nComments URL: https://news.ycombinator.com/item?id=48286682\nPoints: 1\n# Comments: 1",
+    "date": "Tue, 26 May 2026 22:08:25 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Transpiler : The best of every language, in one. And LLM ready",
+    "url": "https://amalgame.me/en/",
+    "desc": "Article URL: https://amalgame.me/en/\nComments URL: https://news.ycombinator.com/item?id=48286555\nPoints: 2\n# Comments: 0",
+    "date": "Tue, 26 May 2026 21:56:53 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Nexus – open-source AI gateway for enterprise LLM traffic",
+    "url": "https://github.com/AlphaBitCore/nexus-gateway",
+    "desc": "Article URL: https://github.com/AlphaBitCore/nexus-gateway\nComments URL: https://news.ycombinator.com/item?id=48286488\nPoints: 4\n# Comments: 0",
+    "date": "Tue, 26 May 2026 21:50:44 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Show HN: Clark-agent, a Rust library for LLM tool loops",
+    "url": "https://github.com/clark-labs-inc/clark-agent",
+    "desc": "Hi HN,I wrote clark-agent, a small Rust library for running LLM tool loops.The loop is:context -> model -> tool call -> tool result -> repeatThe parts I wanted typed were:- transcript messages\n- tool ",
+    "date": "Tue, 26 May 2026 19:19:42 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Humanize – two LLM-agnostic skills to rewrite and detect AI text",
+    "url": "https://github.com/harshaneel/humanize",
+    "desc": "Article URL: https://github.com/harshaneel/humanize\nComments URL: https://news.ycombinator.com/item?id=48283802\nPoints: 1\n# Comments: 0",
+    "date": "Tue, 26 May 2026 18:29:48 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "Show HN: An LLM translator whose source is a single prompt",
+    "url": "https://github.com/hamsterbase/llm-translator",
+    "desc": "Article URL: https://github.com/hamsterbase/llm-translator\nComments URL: https://news.ycombinator.com/item?id=48283695\nPoints: 5\n# Comments: 0",
+    "date": "Tue, 26 May 2026 18:23:11 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "You Can Start Building LLM Skills Before You Know the Whole Shape",
+    "url": "https://sosuke.com/you-can-start-building-llm-skills-before-you-know-the-whole-shape/",
+    "desc": "Article URL: https://sosuke.com/you-can-start-building-llm-skills-before-you-know-the-whole-shape/\nComments URL: https://news.ycombinator.com/item?id=48282663\nPoints: 8\n# Comments: 1",
+    "date": "Tue, 26 May 2026 17:14:19 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "desc": "Article URL: https://minimaxir.com/2026/05/openrouter-hy3/\nComments URL: https://news.ycombinator.com/item?id=48281260\nPoints: 2\n# Comments: 0",
+    "date": "Tue, 26 May 2026 15:39:01 +0000",
+    "source": "Hacker News - LLM"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Simon Willison"
+  },
+  {
+    "title": "Building a Multi-Tool Gemma 4 Agent with Error Recovery",
+    "url": "https://machinelearningmastery.com/building-a-multi-tool-gemma-4-agent-with-error-recovery/",
+    "desc": "In a <a href=\"https://machinelearningmastery.",
+    "date": "Tue, 26 May 2026 12:00:51 +0000",
+    "source": "Machine Learning Mastery"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "awesome-mcp-servers"
+  },
+  {
+    "title": "Visual Debugging Tools for Machine Learning Workflows",
+    "url": "https://www.kdnuggets.com/visual-debugging-tools-for-machine-learning-workflows",
+    "desc": "In this article, we cover three topics: what to visualize during training, the tools that provide those visualizations, and the methods to capture model computations directly using hooks and breakpoin",
+    "date": "Tue, 26 May 2026 14:00:55 +0000",
+    "source": "KDnuggets"
+  },
+  {
+    "title": "Top 7 Python Libraries for Large-Scale Data Processing",
+    "url": "https://www.kdnuggets.com/top-7-python-libraries-for-large-scale-data-processing",
+    "desc": "This article covers Python libraries that make large-scale data processing faster, more scalable, and easier to manage across modern data workflows.",
+    "date": "Tue, 26 May 2026 12:00:29 +0000",
+    "source": "KDnuggets"
+  },
+  {
+    "title": "Design a High-Precision Retrieve-and-Rerank Pipeline with ZeroEntropy Zerank-2 Reranker",
+    "url": "https://www.marktechpost.com/2026/05/26/design-a-high-precision-retrieve-and-rerank-pipeline-with-zeroentropy-zerank-2-reranker/",
+    "desc": "In this tutorial, we use zeroentropy/zerank-2-reranker, a 4B Qwen3-based cross-encoder reranker, to improve retrieval quality. We start by setting up the runtime, loading the reranker, and understandi",
+    "date": "Tue, 26 May 2026 23:13:09 +0000",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "Stability AI Releases Stable Audio 3: A Family of Fast Latent Diffusion Models for Audio Generation and Editing",
+    "url": "https://www.marktechpost.com/2026/05/26/stability-ai-releases-stable-audio-3-a-family-of-fast-latent-diffusion-models-for-audio-generation-and-editing/",
+    "desc": "Stability AI has released Stable Audio 3, a family of latent diffusion models for instrumental music and sound effects generation. The release includes open weights for the small and medium variants. ",
+    "date": "Tue, 26 May 2026 22:31:02 +0000",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
+    "url": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+    "desc": "OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project",
+    "date": "Tue, 26 May 2026 07:56:17 +0000",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "Design a Complete Multimodal RLVR Pipeline with Open-MM-RL, Vision-Language Prompting, Reward Scoring, and GRPO Export",
+    "url": "https://www.marktechpost.com/2026/05/26/design-a-complete-multimodal-rlvr-pipeline-with-open-mm-rl-vision-language-prompting-reward-scoring-and-grpo-export/",
+    "desc": "In this tutorial, we explore the TuringEnterprises/Open-MM-RL dataset as a practical foundation for multimodal reasoning and reinforcement learning with verifiable rewards. We load the dataset, inspec",
+    "date": "Tue, 26 May 2026 07:25:55 +0000",
+    "source": "MarkTechPost"
+  },
+  {
+    "title": "Is SaaS dead?",
+    "url": "https://www.bensbites.com/p/is-saas-dead",
+    "desc": "MCP comeback in works",
+    "date": "Tue, 26 May 2026 13:10:52 GMT",
+    "source": "Ben's Bites"
+  },
+  {
+    "title": "为什么没人会喜欢你用 LLM 写出来的东西？",
+    "url": "https://sspai.com/post/110102",
+    "desc": "LLM 的后训练、对齐、蒸馏，不仅让模型输出变得更可控，但没人喜欢这样的东西。查看全文",
+    "date": "Wed, 27 May 2026 11:31:24 +0800",
+    "source": "少数派"
+  },
+  {
+    "title": "派早报：法拉利发布首款纯电跑车 Luce、森海塞尔发布 Momentum 5 耳机等",
+    "url": "https://sspai.com/post/110297",
+    "desc": "Spotify 音频杂志文章功能开启测试，摩托罗拉海外版系统被存在重定向劫持行为等。查看全文",
+    "date": "Wed, 27 May 2026 07:51:23 +0800",
+    "source": "少数派"
+  },
+  {
+    "title": "社区速递 142 | 派友的四月「情绪账单」、换壳重生的鼠标与仿真柠檬树",
+    "url": "https://sspai.com/post/110184",
+    "desc": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+    "date": "Tue, 26 May 2026 17:00:00 +0800",
+    "source": "少数派"
+  },
+  {
+    "title": "Hyrox 首战攻略：从新手到完赛，普通人亦可澎湃赛场",
+    "url": "https://sspai.com/post/110152",
+    "desc": "献给和我们当初一样跃跃欲试的朋友们。查看全文",
+    "date": "Tue, 26 May 2026 15:00:00 +0800",
+    "source": "少数派"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "OpenHands Releases"
+  },
+  {
+    "title": "What Is a Data Agent?",
+    "url": "https://towardsdatascience.com/what-is-a-data-agent/",
+    "desc": "A simple explanation of what a data agent is and how it works\nThe post What Is a Data Agent? appeared first on Towards Data Science.",
+    "date": "Tue, 26 May 2026 16:30:00 +0000",
+    "source": "Towards Data Science"
+  },
+  {
+    "title": "The AI Model Confidence Trap",
+    "url": "https://towardsdatascience.com/the-ai-model-confidence-trap/",
+    "desc": "Why your AI model can be wrong with 99% confidence\nThe post The AI Model Confidence Trap appeared first on Towards Data Science.",
+    "date": "Tue, 26 May 2026 15:00:00 +0000",
+    "source": "Towards Data Science"
+  },
+  {
+    "title": "Stop Using LLMs Like Giant Problem Solvers",
+    "url": "https://towardsdatascience.com/stop-using-llms-like-giant-problem-solvers/",
+    "desc": "How I turned 100 messy pdfs into structured insights by building a deterministic loop around agents\nThe post Stop Using LLMs Like Giant Problem Solvers appeared first on Towards Data Science.",
+    "date": "Tue, 26 May 2026 13:30:00 +0000",
+    "source": "Towards Data Science"
+  },
+  {
+    "title": "The Domain Shift: Moving Data Governance from Product Triage to Infrastructure Investment",
+    "url": "https://towardsdatascience.com/the-domain-shift-moving-data-governance-from-product-triage-to-infrastructure-investment/",
+    "desc": "How shifting the operational focus from isolated data products to systemic domain architecture resolves technical bottlenecks and optimizes platform investment.\nThe post The Domain Shift: Moving Data ",
+    "date": "Tue, 26 May 2026 12:00:00 +0000",
+    "source": "Towards Data Science"
+  },
+  {
+    "title": "Import AI 458: Reckoning with the future; and a singularity story",
+    "url": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+    "desc": "What AI-driven miracles will happen this year?",
+    "date": "Tue, 26 May 2026 12:32:03 GMT",
+    "source": "Import AI"
+  },
+  {
+    "title": "基于 Snowflake Semantic View 构建自助式报表数据集市 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/a4gbB5g49HBNl2mwXwXY?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Wed, 27 May 2026 11:12:21 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "安全可靠！星环科技分布式数据库ArgoDB通过安全可靠测评！",
+    "url": "https://www.infoq.cn/article/1w093X0R3Ul2u1RmbM44?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Wed, 27 May 2026 10:40:55 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "中国首次提出半导体演进新原则：华为“韬定律”5 年内冲刺等效1.4nm制程，麒麟、昇腾将先后落地量产",
+    "url": "https://www.infoq.cn/article/et26CZlCZQoEK2wSkkSc?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Wed, 27 May 2026 10:12:52 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "得物算法平台部算法专家任巨伟确认出席AICon上海站，分享高可控智能客服的 Agent 工程实践",
+    "url": "https://www.infoq.cn/article/ixyk6VIFhTSF3JL63EgK?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Wed, 27 May 2026 10:00:00 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "Google Cloud 在 BigQuery 中引入跨引擎 Apache Iceberg 支持",
+    "url": "https://www.infoq.cn/article/kadDStA9JWuOGHujwdoz?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Wed, 27 May 2026 09:07:37 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了",
+    "url": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Tue, 26 May 2026 18:01:21 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "Gemma 4 多词元预测：生成速度最高提升约 3 倍",
+    "url": "https://www.infoq.cn/article/vduuUvpVw0FiIcplFtGd?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Tue, 26 May 2026 16:24:00 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "Node.js 拟内置虚拟文件系统，AI 生成代码引争议",
+    "url": "https://www.infoq.cn/article/qYvZLNOkClhFPWJWYfIP?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Tue, 26 May 2026 14:03:00 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "Snowflake AI 指南：如何在提升开发效率的同时降低 Token 成本 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/MCPLuEdQ9MtDrw0ubzqE?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Tue, 26 May 2026 13:43:12 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "如何在 Snowflake 上构建可编程 AI Agent？Cortex Code Agent SDK 深度解析 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/yB9yJlJADmFBNurNUEaG?utm_source=rss&utm_medium=article",
+    "desc": "点击查看原文>",
+    "date": "Tue, 26 May 2026 11:24:26 GMT",
+    "source": "InfoQ 中文"
+  },
+  {
+    "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "desc": "it's funding news, but it's good news.",
+    "date": "Wed, 27 May 2026 03:33:53 GMT",
+    "source": "Latent Space"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "阮一峰周刊"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "阮一峰周刊"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "阮一峰周刊"
+  },
+  {
+    "title": "Did the Pope use AI to write about the dangers of AI?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "desc": "Article URL: https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram\nComments URL: https://news.ycombinator.com/item?id=48289660\nPoints: 2\n# Comments: 1",
+    "date": "Wed, 27 May 2026 04:30:30 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Advancing Mathematics Research with AI-Driven Formal Proof Search",
+    "url": "https://arxiv.org/abs/2605.22763",
+    "desc": "Article URL: https://arxiv.org/abs/2605.22763\nComments URL: https://news.ycombinator.com/item?id=48289633\nPoints: 1\n# Comments: 0",
+    "date": "Wed, 27 May 2026 04:27:36 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Shareholder groups push companies for stricter AI oversight",
+    "url": "https://www.theglobeandmail.com/business/article-ai-oversight-artificial-intelligence-shareholder-tech/",
+    "desc": "Article URL: https://www.theglobeandmail.com/business/article-ai-oversight-artificial-intelligence-shareholder-tech/\nComments URL: https://news.ycombinator.com/item?id=48289630\nPoints: 2\n# Comments: 1",
+    "date": "Wed, 27 May 2026 04:27:11 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "I built a free stock research tool for beginners using SEC data and AI",
+    "url": "https://www.mrguyinvests.com",
+    "desc": "Article URL: https://www.mrguyinvests.com\nComments URL: https://news.ycombinator.com/item?id=48289562\nPoints: 1\n# Comments: 0",
+    "date": "Wed, 27 May 2026 04:15:42 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "desc": "Article URL: https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/\nComments URL: https://news.ycombinator.com/item?id=48289479\nPoint",
+    "date": "Wed, 27 May 2026 04:02:56 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Booming AI chip demand helps create two new $1T club members",
+    "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go",
+    "desc": "Article URL: https://www.bbc.com/news/articles/cnvp9dq0p3go\nComments URL: https://news.ycombinator.com/item?id=48289473\nPoints: 1\n# Comments: 0",
+    "date": "Wed, 27 May 2026 04:02:15 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Bill Gates AI on AI (one month later)",
+    "url": "https://news.ycombinator.com/item?id=48289469",
+    "desc": "# The Agentic Tidal Wave*To:* Executive Staff and Direct Reports\n*From:* Bill Gates\n*Date:* April 26, 2026Our vision for the last 20 years can be summarized in a succinct way. We saw that exponential ",
+    "date": "Wed, 27 May 2026 04:01:44 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5",
+    "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+    "desc": "Article URL: https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole\nComments URL: https://news.ycombinator.c",
+    "date": "Wed, 27 May 2026 03:52:18 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "The AI Decoupling",
+    "url": "https://vintagedata.org/blog/posts/the-ai-decoupling",
+    "desc": "Article URL: https://vintagedata.org/blog/posts/the-ai-decoupling\nComments URL: https://news.ycombinator.com/item?id=48289370\nPoints: 2\n# Comments: 0",
+    "date": "Wed, 27 May 2026 03:45:23 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "Why Does Your AI Agent Work Better for You Than for Me?",
+    "url": "https://vexjoy.com/posts/why-your-ai-agent-works-better-for-you/",
+    "desc": "Article URL: https://vexjoy.com/posts/why-your-ai-agent-works-better-for-you/\nComments URL: https://news.ycombinator.com/item?id=48289364\nPoints: 1\n# Comments: 0",
+    "date": "Wed, 27 May 2026 03:44:49 +0000",
+    "source": "Hacker News - AI"
+  },
+  {
+    "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
+    "url": "https://www.qbitai.com/2026/05/425523.html",
+    "desc": "“1%是我写的，99%是Agent写的。”",
+    "date": "Wed, 27 May 2026 01:14:35 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+    "url": "https://www.qbitai.com/2026/05/425600.html",
+    "desc": "光影之间，读懂未尽之意",
+    "date": "Tue, 26 May 2026 10:17:39 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "刚刚，国产AI自己造了AI，全球首例！",
+    "url": "https://www.qbitai.com/2026/05/425511.html",
+    "desc": "训练速度比英伟达Megatron快10%",
+    "date": "Tue, 26 May 2026 08:46:15 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+    "url": "https://www.qbitai.com/2026/05/425455.html",
+    "desc": "解决卡了人类56年的数学难题",
+    "date": "Tue, 26 May 2026 08:20:39 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+    "url": "https://www.qbitai.com/2026/05/425304.html",
+    "desc": "MTS（技术员工） @Anthropic",
+    "date": "Tue, 26 May 2026 07:42:02 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+    "url": "https://www.qbitai.com/2026/05/425296.html",
+    "desc": "",
+    "date": "Tue, 26 May 2026 06:52:33 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "荣耀600系列手机发布：4K闪光微单Live，国补价2294.15元起",
+    "url": "https://www.qbitai.com/2026/05/425155.html",
+    "desc": "独特“幸运星”ID设计，打造数字系列史上最精致外观",
+    "date": "Tue, 26 May 2026 05:50:01 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
+    "url": "https://www.qbitai.com/2026/05/425058.html",
+    "desc": "90后天才+70后老将打造",
+    "date": "Tue, 26 May 2026 05:37:38 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "编程权威榜单：千问3.7仅次于Claude，阿里全球第二",
+    "url": "https://www.qbitai.com/2026/05/425150.html",
+    "desc": "跻身全球编程模型第一梯队",
+    "date": "Tue, 26 May 2026 05:32:12 +0000",
+    "source": "量子位"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "",
+    "url": "",
+    "desc": "",
+    "date": "",
+    "source": "Apple Newsroom"
+  },
+  {
+    "title": "Leap in DNA Synthesis Slashes Time to Build New Genetic Sequences",
+    "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
+    "desc": "Sidewinder makes it practical to build the DNA sequences that AI models predict",
+    "date": "Tue, 26 May 2026 14:00:01 +0000",
+    "source": "IEEE Spectrum AI"
+  },
+  {
+    "title": "What It Takes to Preserve Floppy Disks",
+    "url": "https://spectrum.ieee.org/floppy-disk-data-preservation-archives",
+    "desc": "Knowledge about the medium is as valuable as the content on the disk",
+    "date": "Tue, 26 May 2026 13:00:00 +0000",
+    "source": "IEEE Spectrum AI"
+  },
+  {
+    "title": "Thermal Cameras and AI Help Ships Steer Clear of Gray Whales",
+    "url": "https://spectrum.ieee.org/whales-ai-thermal-camera-tracking",
+    "desc": "The whales have begun to make impromptu and dangerous stops in San Francisco Bay",
+    "date": "Tue, 26 May 2026 12:00:01 +0000",
+    "source": "IEEE Spectrum AI"
+  },
+  {
+    "title": "🛫",
+    "url": "https://nitter.net/sama/status/2059492605634007125#m",
+    "desc": "🛫\n\n\nHermeus (@hermeuscorp)\n\nSupersonic. Mach 1.21.\n\nQuarterhorse Mk 2.1 is now the world’s first privately developed, unmanned supersonic jet and the fastest unmanned aircraft flying today.\n\nThis flig",
+    "date": "Wed, 27 May 2026 04:31:15 GMT",
+    "source": "Sam Altman (Twitter)"
+  },
+  {
+    "title": "RT by @demishassabis: omni continues to blow my mind\n\n(left original / right generated) \n\nwaymo looks sick in matte black",
+    "url": "https://nitter.net/samsheffer/status/2059338260078289173#m",
+    "desc": "omni continues to blow my mind\n\n(left original / right generated) \n\nwaymo looks sick in matte black\n\nVideo\n  \n",
+    "date": "Tue, 26 May 2026 18:17:56 GMT",
+    "source": "Demis Hassabis (Twitter)"
+  },
+  {
+    "title": "RT by @demishassabis: Gemma 4 adoption numbers outpacing Qwen 3.5/3.6 for the same sized models is a big shift in the international balance of influence via open models.",
+    "url": "https://nitter.net/natolambert/status/2059299103964811512#m",
+    "desc": "Gemma 4 adoption numbers outpacing Qwen 3.5/3.6 for the same sized models is a big shift in the international balance of influence via open models.\n\n\n\n\nInterconnects (@interconnectsai)\n\nSome ideas for",
+    "date": "Tue, 26 May 2026 15:42:20 GMT",
+    "source": "Demis Hassabis (Twitter)"
+  },
+  {
+    "title": "RT by @ylecun: The road to Hell is paved with closed-source citadels disguised as good intentions.\n\nThe Pope is right: AI takes on the characteristics of those who build it, finance it, and regulate it. So the question is: who gets to hold the great and wonderful power of AI?\n\nIf the answer is a handful of closed source companies, murkily censored, quietly surveilling every step of our lives, every private conversation, enshrined in law as 'safe' and 'open' when they're nothing but the surveillance economy squared, then all we've done is build a few modern East India Companies, digital oligarchies of the few, cloaked in the language of safety.\n\nOpen Source and Open Weights are how you spread the fantastic enabling power of AI to everyone, everywhere. \n\nPermissionless innovation. \n\nEveryone gets the hammer and nails to build houses and churches and factories. The more hammers, the more widely spread, the more the decentralized genius of humankind can flourish.\n\nEveryone gets the Printing Press. \n\nThe printing press singlehandedly uplifted and spread of intelligence and knowledge around the world. The more we could record all kinds of knowledge, the more we spread the ability to read, the more equal and advanced society became. \n\nBefore the press, knowledge was learned by one person and passed into dust with them when they died or passed only to only a small group of students.\n\nWhen we only had monks in a cave copying religious texts, a closed system, it limited the spread of intelligence and limited the growth of civilization.\n\nThe printing press was the single greatest invention in the history of the world because it let anyone print anything and spread knowledge throughout the whole world.\n\nAI can do the same, but only if we build the bazaar, and never let the citadel people convince the world that they're the special people who should control who gets access to intelligence while pretending they're building the bazaar.\n\nWhat the world needs now is more intelligence, more widely spread and more widely available.\n\nOpen is the way.\n\nAnd it always has been.\n\nAnd the road to Hell was always built with walls, towers, spiked gates and moats so that only the few could enter.",
+    "url": "https://nitter.net/Dan_Jeffries1/status/2059176287688663194#m",
+    "desc": "The road to Hell is paved with closed-source citadels disguised as good intentions.\n\nThe Pope is right: AI takes on the characteristics of those who build it, finance it, and regulate it. So the quest",
+    "date": "Tue, 26 May 2026 07:34:19 GMT",
+    "source": "Yann LeCun (Twitter)"
+  },
+  {
+    "title": "Pinned: GPT-5.5 is a uniquely good coding model",
+    "url": "https://nitter.net/gdb/status/2059389057055252554#m",
+    "desc": "GPT-5.5 is a uniquely good coding model\n\n\nTheo - t3.gg (@theo)\n\nIt took me like 2 months, but I've grown to love gpt-5.5.\n\nYou have to prompt entirely different and put some time into your agents[.]md",
+    "date": "Tue, 26 May 2026 21:39:47 GMT",
+    "source": "Greg Brockman (Twitter)"
+  },
+  {
+    "title": "magical experience with codex on iPad",
+    "url": "https://nitter.net/gdb/status/2059315705779229144#m",
+    "desc": "magical experience with codex on iPad\n\n\nKevin Rose (@kevinrose)\n\nso Codex on iPad acts like a Codex mobile phone, which gives you the full desktop UI/UX. meaning, you can use your iPad to control your",
+    "date": "Tue, 26 May 2026 16:48:19 GMT",
+    "source": "Greg Brockman (Twitter)"
+  },
+  {
+    "title": "Codex for analyzing and organizing your Slack:",
+    "url": "https://nitter.net/gdb/status/2059301458873659819#m",
+    "desc": "Codex for analyzing and organizing your Slack:\n\n\nDerrick Choi (@derrickcchoi)\n\nOver the weekend, I asked Codex to analyze my Slack message history and recommend a better way to organize my growing num",
+    "date": "Tue, 26 May 2026 15:51:42 GMT",
+    "source": "Greg Brockman (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: cool work!  fully open source, built on langchain & langgraph, thoughtful about organizing and updating memory",
+    "url": "https://nitter.net/Vtrivedy10/status/2059488548080832803#m",
+    "desc": "cool work!  fully open source, built on langchain & langgraph, thoughtful about organizing and updating memory\n\n\nQuarq (@quarqlabs)\n\nx.com/i/article/205929090850…\n\n\n\n— https://nitter.net/quarqlabs/sta",
+    "date": "Wed, 27 May 2026 04:15:07 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "Excited to dive into this - an open source agent designed with memory/continual learning in mind",
+    "url": "https://nitter.net/hwchase17/status/2059487107144655356#m",
+    "desc": "Excited to dive into this - an open source agent designed with memory/continual learning in mind\n\n\nQuarq (@quarqlabs)\n\nx.com/i/article/205929090850…\n\n\n\n— https://nitter.net/quarqlabs/status/2059320863",
+    "date": "Wed, 27 May 2026 04:09:24 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: x.com/i/article/205929090850…",
+    "url": "https://nitter.net/quarqlabs/status/2059320863070286177#m",
+    "desc": "x.com/i/article/205929090850…",
+    "date": "Tue, 26 May 2026 17:08:48 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: Ridiculously cool open source example using @LangChain_JS \n\nThe Multi-Modal children’s bedtime story generator is an excellent example of LangChain streaming UI & stream namespace subscriptions - great patterns to learn from!\n\nGreat share @bromann 🔥",
+    "url": "https://nitter.net/GitMaxd/status/2059384050520101213#m",
+    "desc": "Ridiculously cool open source example using @LangChain_JS \n\nThe Multi-Modal children’s bedtime story generator is an excellent example of LangChain streaming UI & stream namespace subscriptions - grea",
+    "date": "Tue, 26 May 2026 21:19:53 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: Building agents (like software) is a deeply iterative process --> this is why we try to supply as much easy to use tooling and infra as possible so builders can start on their agent improvement journey asap\n\nstoring and understanding traces is the fastest onramp to understand agent behavior and detect where your agents are messing up today.  things like:\n- what are people asking my agents?\n- what actions are resulting in failed tool calls?\n- what kind of work is expensive to run today for our agents?  can it be cheaper?\n\nonce you mine trace data, you can \"do something\" to improve your agents\n- harness engineering\n- making evals\n- swapping models\n- post-training\n\nthese are all levers we have to improve agent dev, but pretty much all of this is downstream of gathering and understanding traces at scale\n\nship a v1\nturn on tracing\nunderstand the traces and errors\nexperiments\nloop",
+    "url": "https://nitter.net/Vtrivedy10/status/2059389255957532890#m",
+    "desc": "Building agents (like software) is a deeply iterative process --> this is why we try to supply as much easy to use tooling and infra as possible so builders can start on their agent improvement journe",
+    "date": "Tue, 26 May 2026 21:40:34 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: .@AdamRLucek on how we use traces to build evals for production agents.",
+    "url": "https://nitter.net/LangChain/status/2059384451331723272#m",
+    "desc": ".@AdamRLucek on how we use traces to build evals for production agents.\n\n\nAdam Łucek (@AdamRLucek)\n\nTrace data is literally worth its weight in gold these days, if you know what to do with it! As has ",
+    "date": "Tue, 26 May 2026 21:21:29 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "the importance of traces!",
+    "url": "https://nitter.net/hwchase17/status/2059384838462001226#m",
+    "desc": "the importance of traces!\n\n\nAdam Łucek (@AdamRLucek)\n\nTrace data is literally worth its weight in gold these days, if you know what to do with it! As has been established, creating effective agents re",
+    "date": "Tue, 26 May 2026 21:23:01 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: Trace data is literally worth its weight in gold these days, if you know what to do with it! As has been established, creating effective agents requires shipping early, observing behavior, and iterating quickly. At the core of this are your agent traces capturing exact inputs, outputs, steps, and metadata along the way. \n\nAnalyzing traces helps surface inefficiencies and areas for improvement, but they can also be used in more sophisticated ways to set up robust evaluations. \n\nHere's two of the ways we use traces to build evals for production agents 👇",
+    "url": "https://nitter.net/AdamRLucek/status/2059383656506920970#m",
+    "desc": "Trace data is literally worth its weight in gold these days, if you know what to do with it! As has been established, creating effective agents requires shipping early, observing behavior, and iterati",
+    "date": "Tue, 26 May 2026 21:18:19 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "langsmith engine is an agent that helps you spin the optimization loop for your own agents",
+    "url": "https://nitter.net/hwchase17/status/2059381085084213345#m",
+    "desc": "langsmith engine is an agent that helps you spin the optimization loop for your own agents\n\n\nPalash Shah (@palashshah)\n\neveryone is talking about self-optimizing loops in software & agents. but what d",
+    "date": "Tue, 26 May 2026 21:08:06 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "RT by @hwchase17: As an upcoming parent, I keep imagining all the tiny routines ahead 😊👼\n\nOne I am especially excited for: using AI for making up bedtime stories.\n\nSo I built an app that creates one on demand: story, illustrations, and narration all streaming in together with @LangChain_JS ❤️",
+    "url": "https://nitter.net/bromann/status/2059373697312633213#m",
+    "desc": "As an upcoming parent, I keep imagining all the tiny routines ahead 😊👼\n\nOne I am especially excited for: using AI for making up bedtime stories.\n\nSo I built an app that creates one on demand: story, i",
+    "date": "Tue, 26 May 2026 20:38:45 GMT",
+    "source": "Harrison Chase (Twitter)"
+  },
+  {
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "desc": "Why Hy3?",
+    "date": "Tue, 26 May 2026 08:30:00 -0700",
+    "source": "Minimaxir (Max Woolf)"
+  },
+  {
+    "title": "Gif",
+    "url": "https://nitter.net/pmarca/status/2059484481946566741#m",
+    "desc": "\n\n  \n\n\n\nMarc Andreessen 🇺🇸 (@pmarca)\n\nIn 1940, all of America fell in love with a talking cardboard cricket.\n\n\n\n— https://nitter.net/pmarca/status/2059483251400736871#m\n\n",
+    "date": "Wed, 27 May 2026 03:58:58 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "In 1940, all of America fell in love with a talking cardboard cricket.",
+    "url": "https://nitter.net/pmarca/status/2059483251400736871#m",
+    "desc": "In 1940, all of America fell in love with a talking cardboard cricket.\n\n\nMario Zechner (@badlogicgames)\n\nrecommended reading. because today the \"model wellbeing\" shit came up, and i reduced it to \"the",
+    "date": "Wed, 27 May 2026 03:54:05 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "RT by @pmarca: recommended reading. because today the \"model wellbeing\" shit came up, and i reduced it to \"thems just matmuls\". \n\nthat's obv. an oversimplification to get a point across. personally think sentience is likely substrate independent. our current models' substrate is just insufficoent.\n\na model on its own is not concious/sentient under popular theories/frameworks of conciousness. not because its a big matmul machine. but because it lacks things like continuity/\"state\", self-maintenance, believe consolidation, embodiement, grounding, feedback loops, etc. pp.\n\nwe can close some of these gaps. e.g. a model+transcript, into which it can persist current believe, and which establishes a feedback loop does tick some (insufficient) boxes on the way to machine sentience. give the model sensors and you tick more boxes, etc.\n\nbut there are a ton more boxes that need to be ticked, before we can start worrying about \"model wellbeing\".\n\nhttps://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/",
+    "url": "https://nitter.net/badlogicgames/status/2059474876428173462#m",
+    "desc": "recommended reading. because today the \"model wellbeing\" shit came up, and i reduced it to \"thems just matmuls\". \n\nthat's obv. an oversimplification to get a point across. personally think sentience i",
+    "date": "Wed, 27 May 2026 03:20:48 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Interesting.",
+    "url": "https://nitter.net/pmarca/status/2059482444005589339#m",
+    "desc": "Interesting.\n\n\nCharles Fain Lehman (@CharlesFLehman)\n\nThe United States is the world's largest exporter of natural gas — a remarkable change from decades ago, when America was dependent on the often-h",
+    "date": "Wed, 27 May 2026 03:50:52 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "RT by @pmarca: The United States is the world's largest exporter of natural gas — a remarkable change from decades ago, when America was dependent on the often-hostile OPEC nations for its energy needs. That's probably saved us as much as $4 trillion in the past two decades.\n\nThat change is largely thanks to the \"Shale Revolution,\" the development of fracking and horizontal drilling technology that is now responsible for 36 percent of total U.S. production.\n\nIn a new @nberpubs paper, Berkeley's Lucas W. Davis uses data on gas prices in the United States, Europe, and Japan to estimate the savings generated by the Shale Revolution.\n\nThe effect is obvious in the plot below: Starting in 2007, American prices diverge sharply from Europe and Japan. We're also more insulated from big shocks.\n\nHe pegs the total as between $3.1T and $4.3T between 2007 and 2025. That's $164B to $227B per year — between $500 and $700 per person per year.\nhttps://www.nber.org/papers/w35245",
+    "url": "https://nitter.net/CharlesFLehman/status/2059250353552732241#m",
+    "desc": "The United States is the world's largest exporter of natural gas — a remarkable change from decades ago, when America was dependent on the often-hostile OPEC nations for its energy needs. That's proba",
+    "date": "Tue, 26 May 2026 12:28:37 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Co-sign.",
+    "url": "https://nitter.net/pmarca/status/2059479515156656262#m",
+    "desc": "Co-sign.\n\n\nClint Brown (@DissidentClint)\n\nAn LLM/AI is a lot like a symphony. In music, mathematical proportions combine to create harmony in sound waves. Specific order, various instruments, proporti",
+    "date": "Wed, 27 May 2026 03:39:14 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "RT by @pmarca: An LLM/AI is a lot like a symphony. In music, mathematical proportions combine to create harmony in sound waves. Specific order, various instruments, proportionate math.\n\nLLMs combine mathematical proportions in various words and information. \n\nYou wouldn’t say a symphony has feelings or thoughts, though the great works seem to be alive. \n\nDon’t say an LLM has feelings or thoughts, though the great ones may seem alive to you.",
+    "url": "https://nitter.net/DissidentClint/status/2059288391267631408#m",
+    "desc": "An LLM/AI is a lot like a symphony. In music, mathematical proportions combine to create harmony in sound waves. Specific order, various instruments, proportionate math.\n\nLLMs combine mathematical pro",
+    "date": "Tue, 26 May 2026 14:59:46 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "Interesting.",
+    "url": "https://nitter.net/pmarca/status/2059473593298534600#m",
+    "desc": "Interesting.\n\n\nTimothy Bates (@timothycbates)\n\nAround November, AI reached expert-level broad intelligence. Now, this is coupled with super-human conscientiousness.\n\nFor us, conscientiousness embeds o",
+    "date": "Wed, 27 May 2026 03:15:42 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "RT by @pmarca: Around November, AI reached expert-level broad intelligence. Now, this is coupled with super-human conscientiousness.\n\nFor us, conscientiousness embeds our intelligence and capacity for labour in a system for high performance goal-setting: Strategy, Management of complexity, Recruitment of resources, Attention, Persistence, Acquiring feedback – all operating until goal accomplishment.\n\nTools like @Cursor 2.5 and @antigravity 2.0 embed model intelligence in compute-time harnesses recreating this same system for high performance goal-setting: strategizing, getting feedback based on checking simulated and real outcomes, attending to tasks, recruiting resources, dividing tasks to manage their complexity.\n\nThe complete absence of frustration means it can toil for years, perhaps centuries (!) on unimaginably difficult tasks.\nWhat a time to be creative!",
+    "url": "https://nitter.net/timothycbates/status/2059438244924915946#m",
+    "desc": "Around November, AI reached expert-level broad intelligence. Now, this is coupled with super-human conscientiousness.\n\nFor us, conscientiousness embeds our intelligence and capacity for labour in a sy",
+    "date": "Wed, 27 May 2026 00:55:14 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "RT by @pmarca: How data centers can *reduce* electricity prices. 👇🏻\n\n“Over time, these large customers will also help lower costs for everyone by sharing the expense of infrastructure that all customers rely on.”",
+    "url": "https://nitter.net/saeverley/status/2059370866530521143#m",
+    "desc": "How data centers can *reduce* electricity prices. 👇🏻\n\n“Over time, these large customers will also help lower costs for everyone by sharing the expense of infrastructure that all customers rely on.”\n\n\n",
+    "date": "Tue, 26 May 2026 20:27:30 GMT",
+    "source": "Marc Andreessen (Twitter)"
+  },
+  {
+    "title": "RT by @paulg: I’m super excited to share that we have signed a contract with @SpaceX @Starlink to integrate its mini laser terminals onto our satellites for high bandwidth, low latency connectivity!",
+    "url": "https://nitter.net/PhilipJohnston/status/2059324547434963201#m",
+    "desc": "I’m super excited to share that we have signed a contract with @SpaceX @Starlink to integrate its mini laser terminals onto our satellites for high bandwidth, low latency connectivity!\n\n\n\n\nStarcloud (",
+    "date": "Tue, 26 May 2026 17:23:27 GMT",
+    "source": "Paul Graham (Twitter)"
+  },
+  {
+    "title": "RT by @paulg: Today, we're promoting Ashraf Alkarmi to co-CEO of @Dropbox. Ashraf and I will jointly lead the company, and after a transition period, I'll move into the role of executive chairman and Ashraf will be sole CEO. \n\nAshraf has transformed our core business since joining — the business has gotten stronger every quarter under his leadership, and he's the leader I trust to run this company.\n\nWhat’s next for me: my focus right now is making sure Dropbox is in the strongest possible shape. But knowing myself, it won't be long before I'm getting credit card alerts for my Cursor token spend.",
+    "url": "https://nitter.net/drewhouston/status/2059275240065425474#m",
+    "desc": "Today, we're promoting Ashraf Alkarmi to co-CEO of @Dropbox. Ashraf and I will jointly lead the company, and after a transition period, I'll move into the role of executive chairman and Ashraf will be",
+    "date": "Tue, 26 May 2026 14:07:31 GMT",
+    "source": "Paul Graham (Twitter)"
+  },
+  {
+    "title": "Something I told 14 yo: There's a kind of politician who tells people \"Your life is bad because <outgroup> stole what's rightfully yours. Vote for me and I'll get it back for you.\" They do it on both the left (Lenin) and right (Hitler), and they're invariably bad news.",
+    "url": "https://nitter.net/paulg/status/2059263754060095797#m",
+    "desc": "Something I told 14 yo: There's a kind of politician who tells people \"Your life is bad because <outgroup> stole what's rightfully yours. Vote for me and I'll get it back for you.\" They do it on both ",
+    "date": "Tue, 26 May 2026 13:21:52 GMT",
+    "source": "Paul Graham (Twitter)"
+  },
+  {
+    "title": "If a site or app forces me to answer some unnecessary question before I can continue, I always give a wrong answer. How did you hear about us? Radio. Does anyone else do that?",
+    "url": "https://nitter.net/paulg/status/2059214985662726393#m",
+    "desc": "If a site or app forces me to answer some unnecessary question before I can continue, I always give a wrong answer. How did you hear about us? Radio. Does anyone else do that?",
+    "date": "Tue, 26 May 2026 10:08:05 GMT",
+    "source": "Paul Graham (Twitter)"
+  }
+]

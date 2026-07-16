@@ -1,0 +1,73 @@
+
+📄 ArXiv AI 论文精选 - 从 10 篇中选出 Top 10
+============================================================
+
+1. **FALSIFYBENCH: Evaluating Inductive Reasoning in LLMs with Rule Discovery Games** ⭐⭐⭐⭐
+   作者: Leonardo Bertolazzi, Katya Tentori, Raffaella Bernardi
+   分类: cs.AI
+   日期: 2026-06-03
+   摘要: Large language models (LLMs) are increasingly deployed as autonomous agents in scientific tasks. Yet whether these systems can effectively engage in f...
+   链接: https://arxiv.org/abs/2606.04751v1
+
+2. **From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents** ⭐⭐⭐
+   作者: Yiqi Wang, Jiaqi Zhang, Taotao Cai
+   分类: cs.CR, cs.AI
+   日期: 2026-06-03
+   摘要: Large language model (LLM)-based agents increasingly solve complex tasks by interacting with external tools, retrieval systems, memory modules, enviro...
+   链接: https://arxiv.org/abs/2606.04990v1
+
+3. **The Meta-Agent Challenge: Are Current Agents Capable of Autonomous Agent Development?** ⭐⭐⭐
+   作者: Xinyu Lu, Tianshu Wang, Pengbo Wang
+   分类: cs.AI, cs.CL
+   日期: 2026-06-03
+   摘要: Current AI benchmarks evaluate agents on task execution within human-designed workflows. These evaluations fundamentally fail to measure a critical ne...
+   链接: https://arxiv.org/abs/2606.04455v1
+
+4. **PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents** ⭐⭐⭐
+   作者: Yubo Hou, Jingwei Song, Hongbo Zhang
+   分类: cs.CL
+   日期: 2026-06-03
+   摘要: Persistent LLM agents require memory representations that make the formation of person understanding explicit across long term interaction. Existing a...
+   链接: https://arxiv.org/abs/2606.04780v1
+
+5. **Agent Planning Benchmark: A Diagnostic Framework for Planning Capabilities in LLM Agents** ⭐⭐⭐
+   作者: Haoyu Sun, Wenxuan Wang, Mingyang Song
+   分类: cs.CL
+   日期: 2026-06-03
+   摘要: Planning is central to LLM agents: before acting, an agent must decompose goals, select tools, reason over constraints, and decide when a task is infe...
+   链接: https://arxiv.org/abs/2606.04874v1
+
+6. **Learning While Acting: A Skill-Enhanced Test-Time Co-Evolution Framework for Online Lifelong Learning Agents** ⭐⭐
+   作者: Bo Mao, Jie Zhou, Yutao Yang
+   分类: cs.LG, cs.AI
+   日期: 2026-06-03
+   摘要: Lifelong learning is essential for Large Language Model (LLM) agents operating in dynamic, interactive environments. However, existing lifelong learni...
+   链接: https://arxiv.org/abs/2606.04815v1
+
+7. **The Saturation Trap and the Subjectivity of Intervention Timing: Why Affect-Based Triggers and LLM Judges Fail to Time Interventions on Autonomous Agents** ⭐⭐
+   作者: Manvendra Modgil
+   分类: cs.AI
+   日期: 2026-06-02
+   摘要: As autonomous AI agents move from conversational systems to long-horizon software execution, runtime safety layers that decide when to interrupt an ag...
+   链接: https://arxiv.org/abs/2606.04296v1
+
+8. **EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning** ⭐⭐
+   作者: Guhong Chen, Yingcheng Shi, Yongbin Li
+   分类: cs.AI
+   日期: 2026-06-02
+   摘要: Autonomous LLM training is often framed as recipe search, which leaves the training harness largely static. This limitation sharpens in agentic RL, wh...
+   链接: https://arxiv.org/abs/2606.03108v1
+
+9. **Provably Auditable and Safe LLM Agents from Human-Authored Ontologies** ⭐
+   作者: Aaron Sterling
+   分类: cs.LO, cs.AI, cs.MA
+   日期: 2026-06-03
+   摘要: We introduce the LLM agent architecture Agentic Redux, intended for use with nontrivial problem domains that require linear auditability. Using the ty...
+   链接: https://arxiv.org/abs/2606.04903v1
+
+10. **AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?** ⭐
+   作者: Zhangchen Xu, Junda Chen, Yue Huang
+   分类: cs.AI, cs.LG
+   日期: 2026-06-03
+   摘要: Scientific and engineering progress is fundamentally a long-horizon iterative process: proposing changes, running experiments, measuring outcomes, and...
+   链接: https://arxiv.org/abs/2606.05080v1

@@ -1,0 +1,4 @@
+16:10 CST heartbeat RSS run
+Command: python3 skills/ai-news-aggregator/scripts/rss_aggregator.py --category all --days 1 --limit 80 --json
+Result observed: 808 articles from 85/101 sources.
+Notable source-health warnings observed: Google AI Blog 404, Meta AI Blog 404, HuggingFace Daily Papers 404, Semafor AI 500, MCP Spec Releases 404, The Batch/LlamaIndex/VentureBeat/Dwarkesh 308 redirects, some 404s for Mem0/Mistral/vLLM/Pinecone/Weights & Biases; HN ML/LLM timeout near end.

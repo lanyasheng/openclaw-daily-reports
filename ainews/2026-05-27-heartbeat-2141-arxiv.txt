@@ -1,0 +1,73 @@
+
+📄 ArXiv AI 论文精选 - 从 49 篇中选出 Top 10
+============================================================
+
+1. **Helicase: Uncertainty-Guided Supply Chain Knowledge Graph Construction with Autonomous Multi-Agent LLMs** ⭐⭐⭐⭐⭐
+   作者: Yunbo Long, Haolang Zhao, Ge Zheng
+   分类: cs.AI
+   日期: 2026-05-26
+   摘要: LLM-based multi-agent systems have been widely adopted for knowledge retrieval and report generation, synthesizing known information through web searc...
+   链接: https://arxiv.org/abs/2605.26835v1
+
+2. **Experiments in Agentic AI for Science** ⭐⭐⭐⭐
+   作者: Judy Fox, Geoffrey Fox
+   分类: cs.AI, eess.SY, hep-ph
+   日期: 2026-05-25
+   摘要: This paper details two novel frameworks for developing autonomous, agentic AI in scientific workflows. Both systems leverage a hybrid Local Body, Remo...
+   链接: https://arxiv.org/abs/2605.26305v1
+
+3. **When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents** ⭐⭐⭐⭐
+   作者: Shi Liu, Xuehai Tang, Xikang Yang
+   分类: cs.CR, cs.AI
+   日期: 2026-05-22
+   摘要: The rise of tool-using Large Language Model (LLM) agents, standardized by protocols like the Model Context Protocol (MCP), has unlocked unprecedented ...
+   链接: https://arxiv.org/abs/2605.24069v1
+
+4. **Security of OpenClaw Agents: Fundamentals, Attacks, and Countermeasures** ⭐⭐⭐
+   作者: Yuntao Wang, Jianle Ba, Han Liu
+   分类: cs.AI
+   日期: 2026-05-25
+   摘要: The rapid evolution of large language model (LLM)-driven autonomous agents has given rise to OpenClaw, a new class of open-source agent frameworks tha...
+   链接: https://arxiv.org/abs/2605.25435v1
+
+5. **AI Planning Framework for LLM-Based Web Agents** ⭐⭐⭐
+   作者: Orit Shahnovsky, Rotem Dror
+   分类: cs.AI, cs.CL
+   日期: 2026-03-13
+   摘要: Developing autonomous agents for web-based tasks is a core challenge in AI. While Large Language Model (LLM) agents can interpret complex user request...
+   链接: https://arxiv.org/abs/2603.12710v1
+
+6. **From Norms to Indicators (N2I-RAG): An Agentic Retrieval-Augmented Generation Framework for Legal Indicator Computation** ⭐⭐⭐
+   作者: Youssef Al Mouatamid, Marie Bonnin, Jihad Zahir
+   分类: cs.AI
+   日期: 2026-05-26
+   摘要: Computing legal indicators from normative texts is a key task in legal monitoring and policy evaluation, but presents significant challenges due to th...
+   链接: https://arxiv.org/abs/2605.26926v1
+
+7. **Sentinel: Embodied Cooperative Spatial Reasoning and Planning** ⭐⭐⭐
+   作者: Xiangye Lin, Hongxin Zhang, Ruxi Deng
+   分类: cs.CV, cs.MA
+   日期: 2026-05-25
+   摘要: In this work, we study Cooperative Spatial Intelligence, the ability of decentralized embodied agents to coordinate effectively under dynamic environm...
+   链接: https://arxiv.org/abs/2605.26239v1
+
+8. **HELPER-X: A Unified Instructable Embodied Agent to Tackle Four Interactive Vision-Language Domains with Memory-Augmented Language Models** ⭐⭐⭐
+   作者: Gabriel Sarch, Sahil Somani, Raghav Kapoor
+   分类: cs.AI, cs.CL, cs.CV
+   日期: 2024-04-29
+   摘要: Recent research on instructable agents has used memory-augmented Large Language Models (LLMs) as task planners, a technique that retrieves language-pr...
+   链接: https://arxiv.org/abs/2404.19065v1
+
+9. **MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation** ⭐⭐⭐
+   作者: Huawei Lin, Peng Li, Jie Song
+   分类: cs.AI, cs.CL, cs.LG
+   日期: 2026-05-26
+   摘要: Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated...
+   链接: https://arxiv.org/abs/2605.27366v1
+
+10. **MDIA: A Multi-Agent Diagnostic Intelligence Pipeline on HealthBench Professional** ⭐⭐⭐
+   作者: Roberto Cruz, David Rey-Blanco
+   分类: cs.AI, cs.LG
+   日期: 2026-05-23
+   摘要: Most reported gains on agentic-LLM clinical benchmarks are often attributed to prompt engineering, yet our results suggest that larger improvements ca...
+   链接: https://arxiv.org/abs/2605.24699v1

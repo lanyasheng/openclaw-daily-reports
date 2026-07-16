@@ -1,0 +1,62 @@
+🔥 GitHub Trending (daily) - AI/ML 相关
+============================================================
+
+1. **microsoft/markitdown** (⭐ 139,514 total | +3,034 today)
+   Python tool for converting files and office documents to Markdown.
+   https://github.com/microsoft/markitdown
+
+2. **nesquena/hermes-webui** (⭐ 11,816 total | +945 today)
+   Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+   https://github.com/nesquena/hermes-webui
+
+3. **supermemoryai/supermemory** (⭐ 24,205 total | +647 today)
+   Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+   https://github.com/supermemoryai/supermemory
+
+4. **harry0703/MoneyPrinterTurbo** (⭐ 77,323 total | +3,375 today)
+   利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+   https://github.com/harry0703/MoneyPrinterTurbo
+
+5. **pbakaus/impeccable** (⭐ 33,066 total | +485 today)
+   The design language that makes your AI harness better at design.
+   https://github.com/pbakaus/impeccable
+
+6. **EveryInc/compound-engineering-plugin** (⭐ 19,222 total | +417 today)
+   Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+   https://github.com/EveryInc/compound-engineering-plugin
+
+7. **TauricResearch/TradingAgents** (⭐ 82,024 total | +299 today)
+   TradingAgents: Multi-Agents LLM Financial Trading Framework
+   https://github.com/TauricResearch/TradingAgents
+
+8. **revfactory/harness** (⭐ 5,308 total | +524 today)
+   A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
+   https://github.com/revfactory/harness
+
+9. **can1357/oh-my-pi** (⭐ 9,668 total | +335 today)
+   ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
+   https://github.com/can1357/oh-my-pi
+
+10. **FareedKhan-dev/train-llm-from-scratch** (⭐ 3,898 total | +861 today)
+   A straightforward method for training your LLM, from downloading data to generating text.
+   https://github.com/FareedKhan-dev/train-llm-from-scratch
+
+11. **stefan-jansen/machine-learning-for-trading** (⭐ 18,041 total | +93 today)
+   Code for Machine Learning for Algorithmic Trading, 2nd edition.
+   https://github.com/stefan-jansen/machine-learning-for-trading
+
+12. **dmtrKovalenko/fff** (⭐ 7,303 total | +135 today)
+   The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+   https://github.com/dmtrKovalenko/fff
+
+13. **D4Vinci/Scrapling** (⭐ 58,461 total | +1,486 today)
+   🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+   https://github.com/D4Vinci/Scrapling
+
+14. **p-e-w/heretic** (⭐ 23,150 total | +249 today)
+   Fully automatic censorship removal for language models
+   https://github.com/p-e-w/heretic
+
+15. **godotengine/godot** (⭐ 111,795 total | +77 today)
+   Godot Engine – Multi-platform 2D and 3D game engine
+   https://github.com/godotengine/godot

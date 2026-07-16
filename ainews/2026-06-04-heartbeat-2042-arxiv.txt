@@ -1,0 +1,73 @@
+
+📄 ArXiv AI 论文精选 - 从 10 篇中选出 Top 10
+============================================================
+
+1. **From Agent Traces to Trust: Evidence Tracing and Execution Provenance in LLM Agents** ⭐⭐⭐
+   作者: Yiqi Wang, Jiaqi Zhang, Taotao Cai
+   分类: cs.CR, cs.AI
+   日期: 2026-06-03
+   摘要: Large language model (LLM)-based agents increasingly solve complex tasks by interacting with external tools, retrieval systems, memory modules, enviro...
+   链接: https://arxiv.org/abs/2606.04990v1
+
+2. **PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents** ⭐⭐⭐
+   作者: Yubo Hou, Jingwei Song, Hongbo Zhang
+   分类: cs.CL
+   日期: 2026-06-03
+   摘要: Persistent LLM agents require memory representations that make the formation of person understanding explicit across long term interaction. Existing a...
+   链接: https://arxiv.org/abs/2606.04780v1
+
+3. **Agent Planning Benchmark: A Diagnostic Framework for Planning Capabilities in LLM Agents** ⭐⭐⭐
+   作者: Haoyu Sun, Wenxuan Wang, Mingyang Song
+   分类: cs.CL
+   日期: 2026-06-03
+   摘要: Planning is central to LLM agents: before acting, an agent must decompose goals, select tools, reason over constraints, and decide when a task is infe...
+   链接: https://arxiv.org/abs/2606.04874v1
+
+4. **Learning While Acting: A Skill-Enhanced Test-Time Co-Evolution Framework for Online Lifelong Learning Agents** ⭐⭐
+   作者: Bo Mao, Jie Zhou, Yutao Yang
+   分类: cs.LG, cs.AI
+   日期: 2026-06-03
+   摘要: Lifelong learning is essential for Large Language Model (LLM) agents operating in dynamic, interactive environments. However, existing lifelong learni...
+   链接: https://arxiv.org/abs/2606.04815v1
+
+5. **Plan First, Judge Later, Run Better: A DMAIC-Inspired Agentic System for Industrial Anomaly Detection** ⭐⭐
+   作者: Yongzi Yu, Ao Li, Le Wang
+   分类: cs.AI, cs.CE
+   日期: 2026-06-03
+   摘要: Large language model (LLM) agents have shown promise in automating complex data-analysis workflows, but their reliable deployment remains challenging ...
+   链接: https://arxiv.org/abs/2606.04599v1
+
+6. **Scaling Self-Evolving Agents via Parametric Memory** ⭐⭐
+   作者: Tao Ren, Weiyao Luo, Hui Yang
+   分类: cs.AI
+   日期: 2026-06-03
+   摘要: Existing memory-augmented LLM agents store past experience exclusively in prompt space, as textual summaries or retrieved passages, while keeping mode...
+   链接: https://arxiv.org/abs/2606.04536v1
+
+7. **Rethinking Continual Experience Internalization for Self-Evolving LLM Agents** ⭐
+   作者: Jingwen Chen, Wenkai Yang, Shengda Fan
+   分类: cs.CL, cs.LG
+   日期: 2026-06-03
+   摘要: Experience internalization converts contextual experience from past interactions into reusable parametric capability, offering a promising path toward...
+   链接: https://arxiv.org/abs/2606.04703v1
+
+8. **Provably Auditable and Safe LLM Agents from Human-Authored Ontologies** ⭐
+   作者: Aaron Sterling
+   分类: cs.LO, cs.AI, cs.MA
+   日期: 2026-06-03
+   摘要: We introduce the LLM agent architecture Agentic Redux, intended for use with nontrivial problem domains that require linear auditability. Using the ty...
+   链接: https://arxiv.org/abs/2606.04903v1
+
+9. **Parthenon Law: A Self-Evolving Legal-Agent Framework** ⭐
+   作者: Hejia Geng, Leo Liu
+   分类: cs.AI
+   日期: 2026-06-03
+   摘要: As agents grow more capable, legal-domain LLM agents promise to turn document-heavy matters into reviewable work products -- yet reliable deployment f...
+   链接: https://arxiv.org/abs/2606.04602v1
+
+10. **Simulate, Reason, Decide: Scientific Reasoning with LLMs for Simulation-Driven Decision Making** ⭐
+   作者: Yuhan Yang, Ruipu Li, Alexander Rodríguez
+   分类: cs.AI
+   日期: 2026-06-03
+   摘要: Scientific simulators are increasingly being integrated into LLM-driven systems for high-stakes simulation-driven decision-making. However, existing f...
+   链接: https://arxiv.org/abs/2606.04505v1
